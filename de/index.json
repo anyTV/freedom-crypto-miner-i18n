@@ -1,0 +1,83 @@
+{
+  "common": {
+    "total": "Gesamt",
+    "start" : "Start",
+    "stop" : "Stop",
+    "configure" : "Einstellungen",
+    "configuration" : "Einstellungen",
+    "signin" : "Anmelden",
+    "active" : "Aktiv",
+    "inactive" : "Inaktiv",
+    "loading_config" : "Lade Konfiguration",
+    "copyright" : "Copyright",
+    "go_home" : "Gehe zu Home",
+    "go_back" : "Gehe zurück",
+    "close" : "Schließen"
+  },
+  "error" : {
+    "not_found" : "Ups. Hier ist nichts."
+  },
+  "home": {
+    "available_devices" : "Verfügbare Geräte",
+    "mining_details" : "Mining-Details",
+    "daily_estimation_earnings" : "Tägliche Geschätzte Einnahmen",
+    "balances" : "Kontostände",
+    "current_worker" : "Derzeitiger Worker",
+    "benchmark_to_show_erning" : "Führe eine Bewertung durch, um Einnahmensschätzungen anzuzeigen",
+    "you_are_anonymous_mining" : "Du befindest dich im anonymen Miningmodus. Du solltest dich für die Bezahlung anmelden.",
+    "miner_not_effective" : "Derzeitiger Miner ist nicht effektiv. Versuche, zu anderem Miner zu wechseln."
+  },
+  "hardware_detail" : {
+    "hardware_detail" : "Hardwaredetails",
+    "benchmark" : "Bewertung",
+    "no_compatible_device" : "Kein kompatibles Mininggerät vorhanden.",
+    "connection_status" : "Verbindungssstatus",
+    "algorithm" : "Algorithmus",
+    "speed" : "Geschwindigkeit",
+    "mining_optimization" : "Mining-Optimisation",
+    "current_evaluate" : "Bewerte...",
+    "current_evaluate_title" : "Bitte warte, dies könnte einige Minuten dauern.",
+    "progress" : "Fortschritt",
+    "stop_benchmark" : "Beende Bewertung",
+    "internet_status_connected" : "Verbunden",
+    "internet_status_disconnected" : "Verbindung getrennt"
+  },
+  "setting" : {
+    "mining_config" : "Mining-Konfiguration",
+    "log_config" : "Logging-Konfiguration",
+    "lang_config" : "Sprachkonfiguration",
+    "auto_start_description" : "Beginnt automatisch zu Minen, wenn der Computer nicht verwendet wird und beendet den Vorgang, wenn der Computer wieder verwendet wird.",
+    "auto_launch_description" : "Starte Miner automatisch, wenn der Computer gestartet wird",
+    "log_description" : "Logfile befindet sich in: {{path}}",
+    "auto_launch" : "Starte Mining automatisch",
+    "auto_mining" : "Starte Mining, wenn der Computer nicht verwendet wird",
+    "general" : "Generell",
+    "mining": "Mining",
+    "about" : "Über",
+    "log_to_file" : "Log in Datei ausgeben"
+  },
+  "term" : {
+    "term_and_condition" : "AGB",
+    "accept" : "Akzeptieren"
+  },
+  "status_bar" : {
+    "current_mining_status" : "Derzeitiger Mining-Status"
+  },
+  "auto_update": {
+    "new_version_available": "Neue Version verfügbar",
+    "new_version_downloading" : "Version {{version}} wurde gefunden und wird heruntergeladen",
+    "new_version_downloaded" : "Neue Version heruntergeladen. Willst du die Applikation neu starten?",
+    "no_do_it_later" : "Nein, ich will später neu starten",
+    "yes_do_it_now" : "Ja, erledige es jetzt"
+  },
+  "balance": {
+    "detail_balance" : "Detaillierter Kontostand",
+    "worker_balance" : "Worker-Kontostand",
+    "total_balance" : "Gesamter Kontostand",
+    "coin_name" : "Coin-Name"
+  },
+  "main": {
+    "error_support_64_os_only": "Wir unterstützen leider nur 64bit-Betriebssysteme",
+    "error_have_no_mining_device": "Kein kompatibles Mininggerät vorhanden"
+  }
+}
