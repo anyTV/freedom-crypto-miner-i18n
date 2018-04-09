@@ -35,17 +35,19 @@ Please refer [iso-2-letter-language-codes](https://www.sitepoint.com/iso-2-lette
 ` cd ja`
 
  Use any text editor to open file index.json and start translating...
- This is json format file, we will translate the value field of this file. E.g:
+ This is json utf unicode format file, we will translate the value field of this file. E.g:
 
  ![](https://content.screencast.com/users/VoTuanPhong/folders/Jing/media/4f72af9d-7d63-44c6-a60c-203ecf9db456/2018-04-09_1440.png)
 
+
+_Note: we have to make sure that index.json is stored in utf8 unicode_
 
 ### 4. Commit and Push 
 Add your translation file
 
 `git add ja\index.json`
 
-_Note:_ you have to replace 'ja' by your support language 
+_Note: you have to replace 'ja' by your support language_
 
 Commit your work
 
@@ -56,7 +58,6 @@ Push your change
 `git push`
 
 _Note: please input your github authentication info if you are requested_
-__
 
 ### 5. Create pull request 
 
@@ -68,4 +69,7 @@ Click on 'Create pull request'
 
 ![](https://content.screencast.com/users/VoTuanPhong/folders/Jing/media/97c32142-8779-43ce-b8ad-cc3ebc1830e6/2018-04-09_1509.png)
 
-Everything is done. We will review your pull request and merge it into our Crypto Miner
+Everything is done. We would receive notification of the pull request, and we'll
+   1. review and test the code
+   2. request for changes
+   3. once all that's done, we'll merge and update our code
