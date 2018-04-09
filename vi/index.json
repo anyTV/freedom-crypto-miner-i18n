@@ -1,0 +1,83 @@
+{
+  "common": {
+    "total": "Tổng",
+    "start" : "Bắt đầu",
+    "stop" : "Kết thúc",
+    "configure" : "Cấu hình",
+    "configuration" : "Cấu hình",
+    "signin" : "Đăng nhập",
+    "active" : "Đang hoạt động",
+    "inactive" : "Đang dừng",
+    "loading_config" : "Đang tải cấu hình",
+    "copyright" : "Bản quyền",
+    "go_home" : "Về trang chủ",
+    "go_back" : "Về trang trước",
+    "close" : "Đóng"
+  },
+  "error" : {
+    "not_found" : "Oops. Không tìm thấy"
+  },
+  "home": {
+    "available_devices" : "Thiết bị",
+    "mining_details" : "Cấu hình đào chi tiết",
+    "daily_estimation_earnings" : "Doanh thu ước tính (ngày)",
+    "balances" : "Doanh thu",
+    "current_worker" : "Máy đào hiện tại",
+    "benchmark_to_show_erning" : "Chạy 'Tính điểm' để hiện doanh thu",
+    "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên login để được thanh toán",
+    "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác"
+  },
+  "hardware_detail" : {
+    "hardware_detail" : "Cấu hình đào chi tiết",
+    "benchmark" : "Tính điểm",
+    "no_compatible_device" : "Không có thiết bị đào tường thích",
+    "connection_status" : "Tình trạng kết nối",
+    "algorithm" : "Thuật toán",
+    "speed" : "Tốc độ",
+    "mining_optimization" : "Đang tối ưu hệ thống đào",
+    "current_evaluate" : "Ước tính hiện tại",
+    "current_evaluate_title" : "Xin chờ trong giây lát",
+    "progress" : "Tiến độ",
+    "stop_benchmark" : "Ngừng 'Tính điểm'",
+    "internet_status_connected" : "Đang Kết nối",
+    "internet_status_disconnected" : "Mất kết nối"
+  },
+  "setting" : {
+    "mining_config" : "Cấu hình Máy đào",
+    "log_config" : "Cấu hình Log",
+    "lang_config" : "Cấu hình Ngôn ngữ",
+    "auto_start_description" : "Tự động đào nếu máy tinh không làm việc, và tắt khi máy tính bận",
+    "auto_launch_description" : "Tự động mở ứng dụng sau khi máy tính khởi động",
+    "log_description" : "Tập tin hoạt động được lưu tại: {{path}}",
+    "auto_launch" : "Tự động khởi động",
+    "auto_mining" : "Tự động đào",
+    "general" : "Tổng quát",
+    "mining": "Cấu hình đào",
+    "about" : "Về chúng tôi",
+    "log_to_file" : "Log vào tập tin"
+  },
+  "term" : {
+    "term_and_condition" : "Điều khoản và điều kiện",
+    "accept" : "Đồng ý"
+  },
+  "status_bar" : {
+    "current_mining_status" : "Trạng thái hiện tại"
+  },
+  "auto_update": {
+    "new_version_available": "Phát hiện phiên bản mới",
+    "new_version_downloading" : "Phát hiện phiên bản mới {{version}} và đang tải về",
+    "new_version_downloaded" : "Phiên bản mới đã tải về. Bạn có muốn khởi động lại ứng dụng đào?",
+    "no_do_it_later" : "Không, Tôi sẽ khởi động sau",
+    "yes_do_it_now" : "Vâng, Hãy khởi động"
+  },
+  "balance": {
+    "detail_balance" : "Doanh thu chi tiết",
+    "worker_balance" : "Doanh thu máy đào",
+    "total_balance" : "Tổng doanh thu",
+    "coin_name" : "Loại tiền"
+  },
+  "main": {
+    "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
+    "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin"
+  }
+}

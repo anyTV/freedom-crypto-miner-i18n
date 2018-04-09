@@ -1,0 +1,83 @@
+{
+  "common": {
+    "total": "總計",
+    "start": "開始",
+    "stop": "停止",
+    "configure": "配置",
+    "configuration": "配置",
+    "signin": "登入",
+    "active": "運行中",
+    "inactive": "待機",
+    "loading_config": "加載配置",
+    "copyright": "版權",
+    "go_home": "回到主頁",
+    "go_back": "回到上一頁",
+    "close": "關閉"
+  },
+  "error": {
+    "not_found": "哎呀!這裡甚麼都沒有"
+  },
+  "home": {
+    "available_devices": "可用設備",
+    "mining_details": "挖礦能力細節",
+    "daily_estimation_earnings": "每日估計收入",
+    "balances": "餘額",
+    "current_worker": "當前礦工",
+    "benchmark_to_show_erning": "先測試硬體當作營利估算的基準"
+  },
+  "hardware_detail": {
+    "hardware_detail": "硬件細節",
+    "benchmark": "測試硬件",
+    "no_compatible_device": "沒有兼容的採礦設備",
+    "connection_status": "連線狀態",
+    "algorithm": "算法",
+    "speed": "算力",
+    "mining_optimization": "最佳化評估中",
+    "current_evaluate": "目前正在評估",
+    "current_evaluate_title": "請等待，因為這可能需要幾分鐘",
+    "progress": "進度",
+    "stop_benchmark": "中止測試",
+    "internet_status_connected": "連線正常",
+    "internet_status_disconnected": "連線問題"
+  },
+  "setting": {
+    "mining_config": "採礦設定",
+    "log_config": "記錄設定",
+    "lang_config": "語言設定",
+    "auto_start_description": "當電腦空閒時自動開始挖掘。並在計算機正在使用時停止挖掘",
+    "auto_launch_description": "在電腦啟動時自動啟動應用程序",
+    "log_description": "執行紀錄將會儲存在: {{path}}",
+    "auto_launch": "自動啟動程序",
+    "auto_mining": "空閒時開始挖掘",
+    "general": "通用",
+    "mining": "採礦",
+    "about": "關於",
+    "log_to_file": "儲存執行紀錄"
+  },
+  "term": {
+    "term_and_condition": "條款和條件",
+    "accept" : "接受"
+  },
+  "status_bar": {
+    "current_mining_status": "當前採礦狀況"
+  },
+  "auto_update": {
+    "new_version_available": "有新版本可以使用",
+    "new_version_downloading": "檢測到版本 {{version}} 下載中",
+    "new_version_downloaded": "新版本已下載，你現在要重新啟動應用程序嗎？",
+    "no_do_it_later": "不，我稍後會重新啟動",
+    "yes_do_it_now": "是的，現在就重新啟動"
+  },
+<<<<<<< HEAD
+  "balance": {
+    "detail_balance" : "Detail balance",
+    "worker_balance" : "Worker balance",
+    "total_balance" : "Total balance",
+    "coin_name" : "Coin name"
+=======
+  "main": {
+    "error_support_64_os_only": "只支援64位元的作業系統",
+    "error_have_no_mining_device": "沒有支援的硬體"
+>>>>>>> fe2957c34b01b059faa97a9843aa9cefb5e25bba
+  }
+}

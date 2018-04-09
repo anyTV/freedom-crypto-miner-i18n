@@ -1,0 +1,81 @@
+{
+  "common": {
+    "total": "Total",
+    "start" : "Start",
+    "stop" : "Stop",
+    "configure" : "Configure",
+    "configuration" : "Configuration",
+    "signin" : "Sign in",
+    "active" : "Active",
+    "inactive" : "Inactive",
+    "loading_config" : "Loading configuration",
+    "copyright" : "Copyright",
+    "go_home" : "Go home",
+    "go_back" : "Go back",
+    "close" : "Close"
+  },
+  "error" : {
+    "not_found" : "Oops. Nothing here"
+  },
+  "home": {
+    "available_devices" : "Available Devices",
+    "mining_details" : "Mining Details",
+    "daily_estimation_earnings" : "Daily Estimated Earning",
+    "balances" : "Balances",
+    "current_worker" : "Current worker",
+    "benchmark_to_show_erning" : "Benchmark to show earning estimation"
+  },
+  "hardware_detail" : {
+    "hardware_detail" : "Hardware detail",
+    "benchmark" : "Benchmark",
+    "no_compatible_device" : "There's no compatible mining device",
+    "connection_status" : "Connection status",
+    "algorithm" : "Algorithm",
+    "speed" : "Speed",
+    "mining_optimization" : "Mining optimization",
+    "current_evaluate" : "Currently evaluating",
+    "current_evaluate_title" : "Please wait as this may take a few minutes",
+    "progress" : "Progress",
+    "stop_benchmark" : "Stop Benchmark",
+    "internet_status_connected" : "Connected",
+    "internet_status_disconnected" : "Disconnected"
+  },
+  "setting" : {
+    "mining_config" : "Mining configuration",
+    "log_config" : "Logging Configuration",
+    "lang_config" : "Language Configuration",
+    "auto_start_description" : "Automatically start mining when computer is idle and stop mining when computer is being used",
+    "auto_launch_description" : "Automatically start miner on computer starts",
+    "log_description" : "Log file is avaiable at: {{path}}",
+    "auto_launch" : "Autostart mining",
+    "auto_mining" : "Start mining when Idle",
+    "general" : "General",
+    "mining": "Mining",
+    "about" : "About",
+    "log_to_file" : "Log to file"
+  },
+  "term" : {
+    "term_and_condition" : "term and condition",
+    "accept" : "accept"
+  },
+  "status_bar" : {
+    "current_mining_status" : "Current mining status"
+  },
+  "auto_update": {
+    "new_version_available": "New Version Available",
+    "new_version_downloading" : "Version {{version}} is detected and downloading",
+    "new_version_downloaded" : "New version is downloaded. Do you want to restart app now?",
+    "no_do_it_later" : "No, I will restart later",
+    "yes_do_it_now" : "Yes, do it now"
+  },
+  "main": {
+    "error_support_64_os_only": "Please note that we only support 64 bit os",
+    "error_have_no_mining_device": "There's no compatible mining device"
+  },
+  "balance": {
+    "detail_balance" : "Detail balance",
+    "worker_balance" : "Worker balance",
+    "total_balance" : "Total balance",
+    "coin_name" : "Coin name"
+  }
+}
