@@ -35,12 +35,12 @@ Please refer [iso-2-letter-language-codes](https://www.sitepoint.com/iso-2-lette
 ` cd ja`
 
  Use any text editor to open file index.json and start translating...
- This is json utf unicode format file, we will translate the value field of this file. E.g:
+ This is json utf8 format file, we will translate the value field of this file. E.g:
 
  ![](https://content.screencast.com/users/VoTuanPhong/folders/Jing/media/4f72af9d-7d63-44c6-a60c-203ecf9db456/2018-04-09_1440.png)
 
 
-_Note: we have to make sure that index.json is stored in utf8 unicode_
+_Note: we have to make sure that index.json is stored in utf8_
 
 ### 4. Commit and Push 
 Add your translation file
