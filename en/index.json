@@ -48,7 +48,7 @@
     "lang_config" : "Language Configuration",
     "auto_start_description" : "Automatically start mining when computer is idle and stop mining when computer is being used",
     "auto_launch_description" : "Automatically start miner on computer starts",
-    "log_description" : "Log file is avaiable at: {{path}}",
+    "log_description" : "Log file is available at: {{path}}",
     "auto_launch" : "Autostart mining",
     "auto_mining" : "Start mining when Idle",
     "general" : "General",
