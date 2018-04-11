@@ -79,5 +79,14 @@
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
     "error_have_no_mining_device": "There's no compatible mining device"
+  },
+  "miner_downloader": {
+    "version" : "version",
+    "algorithm" : "algorithm",
+    "title" : "Downloading mining tool",
+    "error_try_again" : "Try Again",
+    "error_get_info": "Error while get mining information",
+    "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
+    "error_unzip" : "Error while decompress zip file, please try again"
   }
 }
