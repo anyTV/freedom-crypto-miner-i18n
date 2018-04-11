@@ -81,12 +81,12 @@
     "error_have_no_mining_device": "沒有支援的硬體"
   },
   "miner_downloader": {
-    "version" : "version",
-    "algorithm" : "algorithm",
-    "title" : "Downloading mining tool",
-    "error_try_again" : "Try Again",
-    "error_get_info": "Error while get mining information",
-    "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
-    "error_unzip" : "Error while decompress zip file, please try again"
+    "version": "版本",
+    "algorithm": "算法",
+    "title": "下載挖掘工具軟體",
+    "error_try_again": "下載錯誤，請再試一次",
+    "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
+    "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
+    "error_unzip": "解壓縮zip文件時出錯，請重試"
   }
 }
