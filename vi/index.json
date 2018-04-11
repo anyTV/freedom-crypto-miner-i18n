@@ -79,5 +79,14 @@
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
     "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin"
+  },
+  "miner_downloader": {
+    "version" : "phiên bản",
+    "algorithm" : "thuật toán",
+    "title" : "Đang tải công cụ đào tiền ảo",
+    "error_try_again" : "Thử lại",
+    "error_get_info": "Lỗi xảy ra khi kết nối đến máy chủ",
+    "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
+    "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại"
   }
 }
