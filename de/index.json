@@ -31,7 +31,7 @@
     "hardware_detail" : "Hardwaredetails",
     "benchmark" : "Bewertung",
     "no_compatible_device" : "Kein kompatibles Mininggerät vorhanden.",
-    "connection_status" : "Verbindungssstatus",
+    "connection_status" : "Verbindungsstatus",
     "algorithm" : "Algorithmus",
     "speed" : "Geschwindigkeit",
     "mining_optimization" : "Mining-Optimisation",
@@ -46,18 +46,18 @@
     "mining_config" : "Mining-Konfiguration",
     "log_config" : "Logging-Konfiguration",
     "lang_config" : "Sprachkonfiguration",
-    "auto_start_description" : "Beginnt automatisch zu Minen, wenn der Computer nicht verwendet wird und beendet den Vorgang, wenn der Computer wieder verwendet wird.",
+    "auto_start_description" : "Beginnt automatisch zu minen, wenn der Computer nicht verwendet wird und beendet den Vorgang, wenn der Computer wieder verwendet wird.",
     "auto_launch_description" : "Starte Miner automatisch, wenn der Computer gestartet wird",
-    "log_description" : "Logfile befindet sich in: {{path}}",
+    "log_description" : "Logdatei befindet sich in: {{path}}",
     "auto_launch" : "Starte Mining automatisch",
     "auto_mining" : "Starte Mining, wenn der Computer nicht verwendet wird",
-    "general" : "Generell",
+    "general" : "Allgemein",
     "mining": "Mining",
     "about" : "Über",
     "log_to_file" : "Log in Datei ausgeben"
   },
   "term" : {
-    "term_and_condition" : "AGB",
+    "term_and_condition" : "AGBs",
     "accept" : "Akzeptieren"
   },
   "status_bar" : {
