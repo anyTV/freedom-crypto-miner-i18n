@@ -1,0 +1,92 @@
+{
+  "common": {
+    "total": "Celkem",
+    "start" : "Spustit",
+    "stop" : "Zastavit",
+    "configure" : "Konfigurovat",
+    "configuration" : "Konfigurace",
+    "signin" : "Přihlásit se",
+    "active" : "Aktivní",
+    "inactive" : "Neaktivní",
+    "loading_config" : "Načítání konfigurace",
+    "copyright" : "Copyright",
+    "go_home" : "Jít domů",
+    "go_back" : "Jít zpět",
+    "close" : "Zavřít"
+  },
+  "error" : {
+    "not_found" : "Oops. Tady nic není"
+  },
+  "home": {
+    "available_devices" : "Dostupná zařízení",
+    "mining_details" : "Podrobnosti těžby",
+    "daily_estimation_earnings" : "Odhadované výdělky za den",
+    "balances" : "Zůstatky",
+    "current_worker" : "Aktuální pracovník",
+    "benchmark_to_show_erning" : "Pro zobrazení odhadu proveďte benchmark",
+    "you_are_anonymous_mining" : "Jste v anonymním režimu. Pro platbu se přihlašte",
+    "miner_not_effective" : "Aktuální miner není efektivní. Pokouším se přepnout na jiný miner"
+  },
+  "hardware_detail" : {
+    "hardware_detail" : "Podrobnosti hardware ",
+    "benchmark" : "Provést Benchmark",
+    "no_compatible_device" : "Kompatibilní těžební zařízení nenalezeno",
+    "connection_status" : "Stav připojení",
+    "algorithm" : "Algoritmus",
+    "speed" : "Rychlost",
+    "mining_optimization" : "Optimalizace těžby",
+    "current_evaluate" : "Zhodnocování",
+    "current_evaluate_title" : "Čekejte prosím, může to trvat několik minut",
+    "progress" : "Postup ",
+    "stop_benchmark" : "Zastavit Benchmark",
+    "internet_status_connected" : "Připojeno",
+    "internet_status_disconnected" : "Odpojeno"
+  },
+  "setting" : {
+    "mining_config" : "Nastavení těžby",
+    "log_config" : "Nastavení protokolování",
+    "lang_config" : "Nastavení jazyka",
+    "auto_start_description" : "Automaticky začít těžit při nečinnosti systému a přestat, když se počítač používá",
+    "auto_launch_description" : "Spustit miner při spuštění počítače",
+    "log_description" : "Protokol je dostupný v: {{path}}",
+    "auto_launch" : "Automatické těžení",
+    "auto_mining" : "Začít těžit při nečinnosti",
+    "general" : "Obecné",
+    "mining": "Těžba",
+    "about" : "O programu",
+    "log_to_file" : "Protokolovat do souboru"
+  },
+  "term" : {
+    "term_and_condition" : "Podmínky a pravidla",
+    "accept" : "přijmout"
+  },
+  "status_bar" : {
+    "current_mining_status" : "Stav aktuální těžby"
+  },
+  "auto_update": {
+    "new_version_available": "Nová verze je dostupná",
+    "new_version_downloading" : "Verze {{version}} byla nalezena a stahuje se",
+    "new_version_downloaded" : "Nová verze byla stažena. Chcete aplikaci nyní restatrovat?",
+    "no_do_it_later" : "Ne, restartuji aplikaci později",
+    "yes_do_it_now" : "Ano, restartovat nyní"
+  },
+  "balance": {
+    "detail_balance" : "Podrobný zůstatek",
+    "worker_balance" : "Zůstatek tohoto pracovníka",
+    "total_balance" : "Celkový zůstatek",
+    "coin_name" : "Měna"
+  },
+  "main": {
+    "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",
+    "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno"
+  },
+  "miner_downloader": {
+    "version" : "verze",
+    "algorithm" : "algoritmus",
+    "title" : "Stahování těžebního nástroje",
+    "error_try_again" : "Zkusit znovu",
+    "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
+    "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
+    "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu"
+  }
+}
