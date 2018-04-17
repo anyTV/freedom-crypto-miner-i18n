@@ -78,7 +78,8 @@
   },
   "main": {
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",
-    "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno"
+    "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno",
+    "error_cannot_connect_pool": "Miner '{{miner}}' can not connect pool ({{poolinfo}}). Please check connection again"
   },
   "miner_downloader": {
     "version" : "verze",

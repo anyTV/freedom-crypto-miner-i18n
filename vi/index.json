@@ -78,7 +78,8 @@
   },
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
-    "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin"
+    "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin",
+    "error_cannot_connect_pool": "Máy đào '{{miner}}' không thể kết nối đến pool ({{poolinfo}}). Vui lòng xem lại kết nối"
   },
   "miner_downloader": {
     "version" : "phiên bản",

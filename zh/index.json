@@ -78,7 +78,8 @@
   },
   "main": {
     "error_support_64_os_only": "只支援64位元的作業系統",
-    "error_have_no_mining_device": "沒有支援的硬體"
+    "error_have_no_mining_device": "沒有支援的硬體",
+    "error_cannot_connect_pool": "Miner '{{miner}}' can not connect pool ({{poolinfo}}). Please check connection again"
   },
   "miner_downloader": {
     "version": "版本",

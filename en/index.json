@@ -78,7 +78,8 @@
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
-    "error_have_no_mining_device": "There's no compatible mining device"
+    "error_have_no_mining_device": "There's no compatible mining device",
+    "error_cannot_connect_pool": "Miner '{{miner}}' can not connect pool ({{poolinfo}}). Please check connection again"
   },
   "miner_downloader": {
     "version" : "version",
