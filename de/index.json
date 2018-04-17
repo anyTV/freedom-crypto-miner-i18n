@@ -79,8 +79,8 @@
   "main": {
     "error_support_64_os_only": "Wir unterstützen leider nur 64bit-Betriebssysteme",
     "error_have_no_mining_device": "Kein kompatibles Mininggerät vorhanden",
-    "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked and restart the application.",
-    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}} and restart the application."
+    "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
+    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}."
   },
   "miner_downloader": {
     "version" : "version",
