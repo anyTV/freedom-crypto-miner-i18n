@@ -90,13 +90,13 @@
     "error_unzip": "解壓縮zip文件時出錯，請重試"
   },
   "estimation": {
-    "click_setup_wattage": "Click to setup wattage for more accurate estimation",
-    "revenue_acronum": "Rev",
-    "profit_acronum": "Prof",
-    "wattage": "Wattage",
-    "wattage_cost": "Wattage cost",
-    "mining_electricity_consuption": "Mining electricity consumption of your GPUs/CPUs",
-    "electric_cost": "Electricity cost for 1 kWh",
-    "estimate_again": "Estimate again"
+    "setup_wattage": "設置預估電費",
+    "revenue_acronum": "收入",
+    "profit_acronum": "利潤",
+    "wattage": "瓦數",
+    "wattage_cost": "電費",
+    "mining_electricity_consumption": "挖掘時的耗電量",
+    "electric_cost": "電費 1 kWh",
+    "estimate_again": "重新預估"
   }
 }

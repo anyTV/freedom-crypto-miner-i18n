@@ -90,12 +90,12 @@
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu"
   },
   "estimation": {
-    "click_setup_wattage": "Click to setup wattage for more accurate estimation",
+    "setup_wattage": "Click to setup wattage for more accurate estimation",
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Wattage",
     "wattage_cost": "Wattage cost",
-    "mining_electricity_consuption": "Mining electricity consumption of your GPUs/CPUs",
+    "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
     "electric_cost": "Electricity cost for 1 kWh",
     "estimate_again": "Estimate again"
   }
