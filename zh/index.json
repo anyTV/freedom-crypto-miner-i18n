@@ -88,5 +88,15 @@
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
     "error_unzip": "解壓縮zip文件時出錯，請重試"
+  },
+  "estimation": {
+    "click_setup_wattage": "Click to setup wattage for more accurate estimation",
+    "revenue_acronum": "Rev",
+    "profit_acronum": "Prof",
+    "wattage": "Wattage",
+    "wattage_cost": "Wattage cost",
+    "mining_electricity_consuption": "Mining electricity consumption of your GPUs/CPUs",
+    "electric_cost": "Electricity cost for 1 kWh",
+    "estimate_again": "Estimate again"
   }
 }

@@ -88,5 +88,15 @@
     "error_get_info": "Lỗi xảy ra khi kết nối đến máy chủ",
     "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại"
+  },
+  "estimation": {
+    "click_setup_wattage": "Cài đặt công suất để có ước tính chính xác",
+    "revenue_acronum": "Rev",
+    "profit_acronum": "Prof",
+    "wattage": "Công suất",
+    "wattage_cost": "Chi phí điện",
+    "mining_electricity_consuption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
+    "electric_cost": "Chi phí điện cho 1kWh",
+    "estimate_again": "Ước tính lại"
   }
 }
