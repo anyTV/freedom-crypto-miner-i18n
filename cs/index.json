@@ -88,5 +88,15 @@
     "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
     "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu"
+  },
+  "estimation": {
+    "setup_wattage": "Click to setup wattage for more accurate estimation",
+    "revenue_acronum": "Rev",
+    "profit_acronum": "Prof",
+    "wattage": "Wattage",
+    "wattage_cost": "Wattage cost",
+    "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
+    "electric_cost": "Electricity cost for 1 kWh",
+    "estimate_again": "Estimate again"
   }
 }

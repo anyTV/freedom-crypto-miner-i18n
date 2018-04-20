@@ -88,5 +88,15 @@
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
     "error_unzip": "解壓縮zip文件時出錯，請重試"
+  },
+  "estimation": {
+    "setup_wattage": "設置預估電費",
+    "revenue_acronum": "收入",
+    "profit_acronum": "利潤",
+    "wattage": "瓦數",
+    "wattage_cost": "電費",
+    "mining_electricity_consumption": "挖掘時的耗電量",
+    "electric_cost": "電費 1 kWh",
+    "estimate_again": "重新預估"
   }
 }
