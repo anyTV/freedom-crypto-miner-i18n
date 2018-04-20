@@ -79,8 +79,8 @@
   "main": {
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",
     "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno",
-    "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
-    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}."
+    "error_cannot_connect_pool": "Nelze se připojit k poolu ({{poolinfo}}). Prosíme, zkontrolujte vaše připojení a ujistěte se, že port {{port}} není ve firewallu blokován.",
+    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}."
   },
   "miner_downloader": {
     "version" : "verze",
