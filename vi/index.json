@@ -78,7 +78,9 @@
   },
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
-    "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin"
+    "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin",
+    "error_cannot_connect_pool": "Không thể kết nối đến pool ({{poolinfo}}). Kiểm tra kết nối và tường lửa đảm bảo cổng {{port}} không bị khóa.",
+    "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}."
   },
   "miner_downloader": {
     "version" : "phiên bản",
