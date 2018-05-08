@@ -100,6 +100,6 @@
     "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
     "electric_cost": "Electricity cost for 1 kWh",
     "estimate_again": "Estimate again",
-    "auto_update_wattage" : "Auto update from Miner tool"
+    "use_detected_wattage" : "Use wattage data obtained from Miner"
   }
 }

@@ -100,6 +100,6 @@
     "mining_electricity_consumption": "挖掘時的耗電量",
     "electric_cost": "電費 1 kWh",
     "estimate_again": "重新預估",
-    "auto_update_wattage" : "Auto update from Miner tool"
+    "use_detected_wattage" : "自動使用挖掘時的電量資料"
   }
 }

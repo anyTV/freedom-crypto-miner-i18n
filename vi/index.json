@@ -100,6 +100,6 @@
     "mining_electricity_consumption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
     "electric_cost": "Chi phí điện cho 1kWh",
     "estimate_again": "Ước tính lại",
-    "auto_update_wattage" : "Tự động lấy từ máy đào"
+    "use_detected_wattage" : "Lấy công suất từ máy đào"
   }
 }
