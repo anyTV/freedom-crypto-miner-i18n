@@ -100,6 +100,6 @@
     "mining_electricity_consumption": "Spotřeba el. energie vašich GPU/CPU při těžbě",
     "electric_cost": "Cena elektřiny za 1 kWh",
     "estimate_again": "Odhadnout znovu",
-    "use_detected_wattage" : "Use wattage data obtained from Miner"
+    "use_detected_wattage" : "Použít data o příkonu získaná minerem"
   }
 }
