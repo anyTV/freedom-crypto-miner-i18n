@@ -75,7 +75,7 @@
     "worker_balance" : "目前礦工餘額",
     "total_balance" : "總餘額",
     "coin_name" : "硬幣名稱",
-    "paid": "Paid"
+    "paid": "已付"
   },
   "main": {
     "error_support_64_os_only": "只支援64位元的作業系統",
