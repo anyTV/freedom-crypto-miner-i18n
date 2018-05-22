@@ -74,7 +74,8 @@
     "detail_balance" : "Podrobný zůstatek",
     "worker_balance" : "Zůstatek tohoto pracovníka",
     "total_balance" : "Celkový zůstatek",
-    "coin_name" : "Měna"
+    "coin_name" : "Měna",
+    "paid": "Paid"
   },
   "main": {
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",

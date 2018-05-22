@@ -74,7 +74,8 @@
     "detail_balance" : "Doanh thu chi tiết",
     "worker_balance" : "Doanh thu máy đào",
     "total_balance" : "Tổng doanh thu",
-    "coin_name" : "Loại tiền"
+    "coin_name" : "Loại tiền",
+    "paid": "Đã thanh toán"
   },
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
