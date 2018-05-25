@@ -74,7 +74,8 @@
     "detail_balance" : "Detail balance",
     "worker_balance" : "Worker balance",
     "total_balance" : "Total balance",
-    "coin_name" : "Coin name"
+    "coin_name" : "Coin name",
+    "paid": "Paid"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
