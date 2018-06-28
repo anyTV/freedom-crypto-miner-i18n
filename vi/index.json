@@ -40,7 +40,8 @@
     "progress" : "Tiến độ",
     "stop_benchmark" : "Ngừng 'Tính điểm'",
     "internet_status_connected" : "Đang Kết nối",
-    "internet_status_disconnected" : "Mất kết nối"
+    "internet_status_disconnected" : "Mất kết nối",
+    "benchmark_algorithm_fail": "Tính điểm thất bại cho các thuật toán: {{algorithms}}"
   },
   "setting" : {
     "mining_config" : "Cấu hình Máy đào",

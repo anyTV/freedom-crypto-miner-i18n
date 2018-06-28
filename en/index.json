@@ -40,7 +40,8 @@
     "progress" : "Progress",
     "stop_benchmark" : "Stop Benchmark",
     "internet_status_connected" : "Connected",
-    "internet_status_disconnected" : "Disconnected"
+    "internet_status_disconnected" : "Disconnected",
+    "benchmark_algorithm_fail": "Benchmark fail for algorithms: {{algorithms}}"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
