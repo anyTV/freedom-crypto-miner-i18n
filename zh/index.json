@@ -41,7 +41,7 @@
     "stop_benchmark": "中止測試",
     "internet_status_connected": "連線正常",
     "internet_status_disconnected": "連線問題",
-    "benchmark_algorithm_fail": "Benchmark fail for algorithms: {{algorithms}}"
+    "benchmark_algorithm_fail": "測試{{algorithms}}採礦速度失敗"
   },
   "setting": {
     "mining_config": "採礦設定",
