@@ -40,7 +40,8 @@
     "progress" : "Postup ",
     "stop_benchmark" : "Zastavit Benchmark",
     "internet_status_connected" : "Připojeno",
-    "internet_status_disconnected" : "Odpojeno"
+    "internet_status_disconnected" : "Odpojeno",
+    "benchmark_algorithm_fail": "Benchmark následujících algoritmů selhal: {{algorithms}}"
   },
   "setting" : {
     "mining_config" : "Nastavení těžby",
