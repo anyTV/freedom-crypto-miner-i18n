@@ -55,7 +55,9 @@
     "general": "通用",
     "mining": "採礦",
     "about": "關於",
-    "log_to_file": "儲存執行紀錄"
+    "log_to_file": "儲存執行紀錄",
+    "miner_off_notification": "Miner off notification",
+    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly"
   },
   "term": {
     "term_and_condition": "條款和條件",
@@ -82,7 +84,8 @@
     "error_support_64_os_only": "只支援64位元的作業系統",
     "error_have_no_mining_device": "沒有支援的硬體",
     "error_cannot_connect_pool": "無法連接礦池({{poolinfo}})。請檢查您的連接和防火牆以確保端口{{port}}未被阻擋。",
-    "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。"
+    "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
+    "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly"
   },
   "miner_downloader": {
     "version": "版本",

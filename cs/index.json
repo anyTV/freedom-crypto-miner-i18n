@@ -55,7 +55,9 @@
     "general" : "Obecné",
     "mining": "Těžba",
     "about" : "O programu",
-    "log_to_file" : "Protokolovat do souboru"
+    "log_to_file" : "Protokolovat do souboru",
+    "miner_off_notification": "Miner off notification",
+    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",
@@ -82,7 +84,8 @@
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",
     "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno",
     "error_cannot_connect_pool": "Nelze se připojit k poolu ({{poolinfo}}). Prosíme, zkontrolujte vaše připojení a ujistěte se, že port {{port}} není ve firewallu blokován.",
-    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}."
+    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}.",
+    "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly"
   },
   "miner_downloader": {
     "version" : "verze",
