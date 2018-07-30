@@ -57,7 +57,8 @@
     "about" : "Über",
     "log_to_file" : "Log in Datei ausgeben",
     "miner_off_notification": "Miner off notification",
-    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly"
+    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
+    "signin_required": "Please sign in to use this feature"
   },
   "term" : {
     "term_and_condition" : "AGBs",

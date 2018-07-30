@@ -57,7 +57,8 @@
     "about" : "Về chúng tôi",
     "log_to_file" : "Log vào tập tin",
     "miner_off_notification": "Thông báo khi máy đào tắt",
-    "miner_off_notification_description": "Gửi email thông báo nếu máy đào tắt đột ngột"
+    "miner_off_notification_description": "Gửi email thông báo nếu máy đào tắt đột ngột",
+    "signin_required": "Đăng nhập để sử dụng tính năng này"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",

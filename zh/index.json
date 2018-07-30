@@ -56,8 +56,9 @@
     "mining": "採礦",
     "about": "關於",
     "log_to_file": "儲存執行紀錄",
-    "miner_off_notification": "Miner off notification",
-    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly"
+    "miner_off_notification": "挖礦程式停止通知",
+    "miner_off_notification_description": "當挖礦程式意外停止 我們將發送電子郵件",
+    "signin_required": "Please sign in to use this feature"
   },
   "term": {
     "term_and_condition": "條款和條件",
