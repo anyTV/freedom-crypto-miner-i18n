@@ -12,7 +12,8 @@
     "copyright" : "Copyright",
     "go_home" : "Go home",
     "go_back" : "Go back",
-    "close" : "Close"
+    "close" : "Close",
+    "update": "Update"
   },
   "error" : {
     "not_found" : "Oops. Nothing here"
@@ -55,7 +56,11 @@
     "general" : "General",
     "mining": "Mining",
     "about" : "About",
-    "log_to_file" : "Log to file"
+    "log_to_file" : "Log to file",
+    "mining_algorithms": "Mining algorithms",
+    "mining_algorithms_explaination": "Select algorithm(s) that you want to mine",
+    "mining_algorithms_warning": "Please select at least one algorithm",
+    "mining_algorithms_updated": "Mining algorithms updated successfully"
   },
   "term" : {
     "term_and_condition" : "term and condition",

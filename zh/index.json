@@ -12,7 +12,8 @@
     "copyright": "版權",
     "go_home": "回到主頁",
     "go_back": "回到上一頁",
-    "close": "關閉"
+    "close": "關閉",
+    "update": "Update"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有"
@@ -55,7 +56,11 @@
     "general": "通用",
     "mining": "採礦",
     "about": "關於",
-    "log_to_file": "儲存執行紀錄"
+    "log_to_file": "儲存執行紀錄",
+    "mining_algorithms": "Mining algorithms",
+    "mining_algorithms_explaination": "Select algorithm(s) that you want to mine",
+    "mining_algorithms_warning": "Please select at least one algorithm",
+    "mining_algorithms_updated": "Mining algorithms updated successfully"
   },
   "term": {
     "term_and_condition": "條款和條件",
