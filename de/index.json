@@ -12,7 +12,8 @@
     "copyright" : "Copyright",
     "go_home" : "Gehe zu Home",
     "go_back" : "Gehe zurück",
-    "close" : "Schließen"
+    "close" : "Schließen",
+    "update": "Update"
   },
   "error" : {
     "not_found" : "Ups. Hier ist nichts."
@@ -55,7 +56,11 @@
     "general" : "Allgemein",
     "mining": "Mining",
     "about" : "Über",
-    "log_to_file" : "Log in Datei ausgeben"
+    "log_to_file" : "Log in Datei ausgeben",
+    "preferred_algorithms": "Preferred algorithms",
+    "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
+    "preferred_algorithms_warning": "Please select at least one algorithm",
+    "preferred_algorithms_updated": "Preferred algorithms updated successfully"
   },
   "term" : {
     "term_and_condition" : "AGBs",
