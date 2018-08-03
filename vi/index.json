@@ -57,10 +57,10 @@
     "mining": "Cấu hình đào",
     "about" : "Về chúng tôi",
     "log_to_file" : "Log vào tập tin",
-    "mining_algorithms": "Thuật toán đào",
-    "mining_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
-    "mining_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
-    "mining_algorithms_updated": "Cập nhật thuật toán đào thành công"
+    "preferred_algorithms": "Thuật toán đào",
+    "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
+    "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
+    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
