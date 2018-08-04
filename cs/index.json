@@ -13,7 +13,7 @@
     "go_home" : "Jít domů",
     "go_back" : "Jít zpět",
     "close" : "Zavřít",
-    "update": "Update"
+    "update": "Aktualizovat"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není"
@@ -57,10 +57,10 @@
     "mining": "Těžba",
     "about" : "O programu",
     "log_to_file" : "Protokolovat do souboru",
-    "preferred_algorithms": "Preferred algorithms",
-    "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
-    "preferred_algorithms_warning": "Please select at least one algorithm",
-    "preferred_algorithms_updated": "Preferred algorithms updated successfully"
+    "preferred_algorithms": "Preferované algoritmy",
+    "preferred_algorithms_explaination": "Vyberte algoritmus/algoritmy pro těžbu",
+    "preferred_algorithms_warning": "Vyberte alespoň jeden algoritmus",
+    "preferred_algorithms_updated": "Preferované algoritmy úspěšně aktualizovány"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",
