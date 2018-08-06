@@ -12,7 +12,8 @@
     "copyright" : "Copyright",
     "go_home" : "Jít domů",
     "go_back" : "Jít zpět",
-    "close" : "Zavřít"
+    "close" : "Zavřít",
+    "update": "Aktualizovat"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není"
@@ -58,7 +59,11 @@
     "log_to_file" : "Protokolovat do souboru",
     "miner_off_notification": "Miner off notification",
     "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
-    "signin_required": "Please sign in to use this feature"
+    "signin_required": "Please sign in to use this feature",
+    "preferred_algorithms": "Preferované algoritmy",
+    "preferred_algorithms_explaination": "Vyberte algoritmus/algoritmy pro těžbu",
+    "preferred_algorithms_warning": "Vyberte alespoň jeden algoritmus",
+    "preferred_algorithms_updated": "Preferované algoritmy úspěšně aktualizovány"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",

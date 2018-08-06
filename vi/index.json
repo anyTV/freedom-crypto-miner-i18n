@@ -12,7 +12,8 @@
     "copyright" : "Bản quyền",
     "go_home" : "Về trang chủ",
     "go_back" : "Về trang trước",
-    "close" : "Đóng"
+    "close" : "Đóng",
+    "update": "Cập nhật"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy"
@@ -58,7 +59,11 @@
     "log_to_file" : "Log vào tập tin",
     "miner_off_notification": "Thông báo khi máy đào tắt",
     "miner_off_notification_description": "Gửi email thông báo nếu máy đào tắt đột ngột",
-    "signin_required": "Đăng nhập để sử dụng tính năng này"
+    "signin_required": "Đăng nhập để sử dụng tính năng này",
+    "preferred_algorithms": "Thuật toán đào",
+    "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
+    "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
+    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",

@@ -12,7 +12,8 @@
     "copyright" : "Copyright",
     "go_home" : "Go home",
     "go_back" : "Go back",
-    "close" : "Close"
+    "close" : "Close",
+    "update": "Update"
   },
   "error" : {
     "not_found" : "Oops. Nothing here"
@@ -58,7 +59,11 @@
     "log_to_file" : "Log to file",
     "miner_off_notification": "Miner off notification",
     "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
-    "signin_required": "Please sign in to use this feature"
+    "signin_required": "Please sign in to use this feature",
+    "preferred_algorithms": "Preferred algorithms",
+    "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
+    "preferred_algorithms_warning": "Please select at least one algorithm",
+    "preferred_algorithms_updated": "Preferred algorithms updated successfully"
   },
   "term" : {
     "term_and_condition" : "term and condition",
