@@ -57,9 +57,9 @@
     "mining": "Těžba",
     "about" : "O programu",
     "log_to_file" : "Protokolovat do souboru",
-    "miner_off_notification": "Miner off notification",
-    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
-    "signin_required": "Please sign in to use this feature",
+    "miner_off_notification": "Notifikace o zastavení těžby",
+    "miner_off_notification_description": "Zaslat e-mail v případě nečekaného zastavení těžby",
+    "signin_required": "Pro použití této funkce se přihlašte",
     "preferred_algorithms": "Preferované algoritmy",
     "preferred_algorithms_explaination": "Vyberte algoritmus/algoritmy pro těžbu",
     "preferred_algorithms_warning": "Vyberte alespoň jeden algoritmus",
@@ -91,7 +91,7 @@
     "error_have_no_mining_device": "Kompatibilní zařízení pro těžbu nebylo nalezeno",
     "error_cannot_connect_pool": "Nelze se připojit k poolu ({{poolinfo}}). Prosíme, zkontrolujte vaše připojení a ujistěte se, že port {{port}} není ve firewallu blokován.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}.",
-    "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly"
+    "miner_stop_unexpected": "Miner `{{type}}` byl neočekávaně zastaven"
   },
   "miner_downloader": {
     "version" : "verze",
