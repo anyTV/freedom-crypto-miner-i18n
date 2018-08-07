@@ -57,6 +57,9 @@
     "mining": "Mining",
     "about" : "Über",
     "log_to_file" : "Log in Datei ausgeben",
+    "miner_off_notification": "Miner off notification",
+    "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
+    "signin_required": "Please sign in to use this feature",
     "preferred_algorithms": "Preferred algorithms",
     "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
     "preferred_algorithms_warning": "Please select at least one algorithm",
@@ -87,7 +90,8 @@
     "error_support_64_os_only": "Wir unterstützen leider nur 64bit-Betriebssysteme",
     "error_have_no_mining_device": "Kein kompatibles Mininggerät vorhanden",
     "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
-    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}."
+    "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}.",
+    "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly"
   },
   "miner_downloader": {
     "version" : "version",
