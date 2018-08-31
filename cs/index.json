@@ -84,7 +84,8 @@
     "worker_balance" : "Zůstatek tohoto pracovníka",
     "total_balance" : "Celkový zůstatek",
     "coin_name" : "Měna",
-    "paid": "Zaplaceno"
+    "paid": "Zaplaceno",
+    "unpaid": "Unpaid"
   },
   "main": {
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",

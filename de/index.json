@@ -84,7 +84,8 @@
     "worker_balance" : "Worker-Kontostand",
     "total_balance" : "Gesamter Kontostand",
     "coin_name" : "Coin-Name",
-    "paid": "Paid"
+    "paid": "Paid",
+    "unpaid": "Unpaid"
   },
   "main": {
     "error_support_64_os_only": "Wir unterstützen leider nur 64bit-Betriebssysteme",
