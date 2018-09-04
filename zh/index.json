@@ -112,5 +112,12 @@
     "electric_cost": "電費 1 kWh",
     "estimate_again": "重新預估",
     "use_detected_wattage" : "自動使用挖掘時的電量資料"
+  },
+  "pay_me_now": {
+    "pay_me_now": "馬上付錢！",
+    "payment_queued": "已申請支付",
+    "payment_verification": "付款驗證",
+    "payment_verification_explain": "要驗證您的帳戶是否可以接受Freedom！的付款，我們將向此帳戶支付0.01美元",
+    "verify": "驗證"
   }
 }
