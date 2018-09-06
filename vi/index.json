@@ -92,7 +92,8 @@
     "error_have_no_mining_device": "Thiết bị không tương thích cho việc đào coin",
     "error_cannot_connect_pool": "Không thể kết nối đến pool ({{poolinfo}}). Kiểm tra kết nối và tường lửa đảm bảo cổng {{port}} không bị khóa.",
     "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}.",
-    "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly"
+    "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
+    "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]"
   },
   "miner_downloader": {
     "version" : "phiên bản",
