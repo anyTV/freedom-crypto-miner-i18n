@@ -112,5 +112,14 @@
     "electric_cost": "Electricity cost for 1 kWh",
     "estimate_again": "Estimate again",
     "use_detected_wattage" : "Use wattage data obtained from Miner"
+  },
+  "pay_me_now": {
+    "pay_me_now": "Pay Me Now!",
+    "payment_queued": "Payment queued.",
+    "payment_verification": "Payment Verification",
+    "payment_verification_explain": "To verify if your account can receive payments from Freedom!, we will pay this account an amount of $0.01",
+    "verify": "VERIFY",
+    "payment_test_failure": "Failed to enqueue test payment!",
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
   }
 }

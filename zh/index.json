@@ -118,6 +118,8 @@
     "payment_queued": "已申請支付",
     "payment_verification": "付款驗證",
     "payment_verification_explain": "要驗證您的帳戶是否可以接受Freedom！的付款，我們將向此帳戶支付0.01美元",
-    "verify": "驗證"
+    "verify": "驗證",
+    "payment_test_failure": "Failed to enqueue test payment!",
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
   }
 }
