@@ -114,5 +114,14 @@
     "electric_cost": "Chi phí điện cho 1kWh",
     "estimate_again": "Ước tính lại",
     "use_detected_wattage" : "Lấy công suất từ máy đào"
+  },
+  "pay_me_now": {
+    "pay_me_now": "Nhận tiền ngay!",
+    "payment_queued": "Thanh toán đang được xử lý.",
+    "payment_verification": "Xác minh thanh toán",
+    "payment_verification_explain": "Để xác minh tài khoản của bạn có thể nhận thanh toán từ Freedom!, chúng tôi sẽ chuyển cho bạn $0.01.",
+    "verify": "Xác minh",
+    "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
+    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
   }
 }
