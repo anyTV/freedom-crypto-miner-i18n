@@ -6,6 +6,8 @@
     "configure": "配置",
     "configuration": "配置",
     "signin": "登入",
+    "signout" : "Sign out",
+    "signed_out" : "Signed out",
     "active": "運行中",
     "inactive": "待機",
     "loading_config": "加載配置",
