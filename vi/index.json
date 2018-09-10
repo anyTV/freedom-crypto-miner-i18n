@@ -16,7 +16,8 @@
     "update": "Cập nhật"
   },
   "error" : {
-    "not_found" : "Oops. Không tìm thấy"
+    "not_found" : "Oops. Không tìm thấy",
+    "connection_fail": "Kết nối lỗi"
   },
   "home": {
     "available_devices" : "Thiết bị",
@@ -123,5 +124,9 @@
     "verify": "Xác minh",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+  },
+  "instruction": {
+    "instruction": "hướng dẫn",
+    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
   }
 }

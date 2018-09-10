@@ -16,7 +16,8 @@
     "update": "更新"
   },
   "error": {
-    "not_found": "哎呀!這裡甚麼都沒有"
+    "not_found": "哎呀!這裡甚麼都沒有",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices": "可用設備",
@@ -123,5 +124,9 @@
     "verify": "驗證",
     "payment_test_failure": "無法執行驗證付款!",
     "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式"
+  },
+  "instruction": {
+    "instruction": "instruction",
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
   }
 }

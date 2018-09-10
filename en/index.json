@@ -16,7 +16,8 @@
     "update": "Update"
   },
   "error" : {
-    "not_found" : "Oops. Nothing here"
+    "not_found" : "Oops. Nothing here",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices" : "Available Devices",
@@ -123,5 +124,9 @@
     "verify": "VERIFY",
     "payment_test_failure": "Failed to enqueue test payment!",
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+  },
+  "instruction": {
+    "instruction": "instruction",
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
   }
 }
