@@ -13,7 +13,8 @@
     "go_home" : "Gehe zu Home",
     "go_back" : "Gehe zurück",
     "close" : "Schließen",
-    "update": "Update"
+    "update": "Update",
+    "copy": "Copy"
   },
   "error" : {
     "not_found" : "Ups. Hier ist nichts."
@@ -123,5 +124,9 @@
     "verify": "VERIFY",
     "payment_test_failure": "Failed to enqueue test payment!",
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+  },
+  "affiliate_info": {
+    "referrals": "referrals",
+    "affiliate_description": "Share your referral link to your friend and earn {{commission_percentage}} commission"
   }
 }

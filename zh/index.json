@@ -13,7 +13,8 @@
     "go_home": "回到主頁",
     "go_back": "回到上一頁",
     "close": "關閉",
-    "update": "更新"
+    "update": "更新",
+    "copy": "Copy"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有"
@@ -123,5 +124,9 @@
     "verify": "驗證",
     "payment_test_failure": "無法執行驗證付款!",
     "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式"
+  },
+  "affiliate_info": {
+    "referrals": "referrals",
+    "affiliate_description": "Share your referral link to your friend and earn {{commission_percentage}} commission"
   }
 }
