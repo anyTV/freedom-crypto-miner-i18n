@@ -13,7 +13,8 @@
     "go_home" : "Về trang chủ",
     "go_back" : "Về trang trước",
     "close" : "Đóng",
-    "update": "Cập nhật"
+    "update": "Cập nhật",
+    "copy": "Sao chép"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy"
@@ -123,5 +124,9 @@
     "verify": "Xác minh",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+  },
+  "affiliate_info": {
+    "referrals": "giới thiệu",
+    "affiliate_description": "Chia sẻ liên kết giới thiệu của bạn với bạn bè và kiếm {{commission_percentage}} hoa hồng"
   }
 }
