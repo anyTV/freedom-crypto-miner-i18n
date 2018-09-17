@@ -126,7 +126,7 @@
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
   },
   "instruction": {
-    "instruction": "instruction",
+    "usage_instruction": "usage instruction",
     "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
   }
 }

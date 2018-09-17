@@ -126,7 +126,7 @@
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
   },
   "instruction": {
-    "instruction": "hướng dẫn",
+    "usage_instruction": "Hướng dẫn sử dụng",
     "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
   }
 }

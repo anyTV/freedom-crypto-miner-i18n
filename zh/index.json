@@ -17,7 +17,7 @@
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
-    "connection_fail": "Connection error"
+    "connection_fail": "連線問題"
   },
   "home": {
     "available_devices": "可用設備",
@@ -126,7 +126,7 @@
     "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式"
   },
   "instruction": {
-    "instruction": "instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+    "usage_instruction": "使用說明",
+    "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧"
   }
 }
