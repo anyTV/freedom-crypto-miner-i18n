@@ -13,7 +13,8 @@
     "go_home" : "Jít domů",
     "go_back" : "Jít zpět",
     "close" : "Zavřít",
-    "update": "Aktualizovat"
+    "update": "Aktualizovat",
+    "copied": "Copied"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není",

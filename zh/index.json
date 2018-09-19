@@ -13,7 +13,8 @@
     "go_home": "回到主頁",
     "go_back": "回到上一頁",
     "close": "關閉",
-    "update": "更新"
+    "update": "更新",
+    "copied": "Copied"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
