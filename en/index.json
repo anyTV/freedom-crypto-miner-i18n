@@ -6,6 +6,8 @@
     "configure" : "Configure",
     "configuration" : "Configuration",
     "signin" : "Sign in",
+    "signout" : "Sign out",
+    "signed_out" : "Signed out",
     "active" : "Active",
     "inactive" : "Inactive",
     "loading_config" : "Loading configuration",

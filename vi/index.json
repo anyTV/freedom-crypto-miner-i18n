@@ -6,6 +6,8 @@
     "configure" : "Cấu hình",
     "configuration" : "Cấu hình",
     "signin" : "Đăng nhập",
+    "signout" : "Đăng xuất",
+    "signed_out" : "Đã đăng xuất",
     "active" : "Đang hoạt động",
     "inactive" : "Đang dừng",
     "loading_config" : "Đang tải cấu hình",
