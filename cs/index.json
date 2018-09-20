@@ -6,6 +6,8 @@
     "configure" : "Konfigurovat",
     "configuration" : "Konfigurace",
     "signin" : "Přihlásit se",
+    "signout" : "Sign out",
+    "signed_out" : "Signed out",
     "active" : "Aktivní",
     "inactive" : "Neaktivní",
     "loading_config" : "Načítání konfigurace",
