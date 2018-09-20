@@ -14,7 +14,8 @@
     "go_back": "回到上一頁",
     "close": "關閉",
     "update": "更新",
-    "copy": "Copy"
+    "copy": "複製",
+    "copied": "複製完成"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有"
@@ -127,6 +128,7 @@
   },
   "affiliate_info": {
     "referrals": "referrals",
-    "affiliate_description": "Share your referral link to your friend and earn {{commission_percentage}} commission"
+    "affiliate_description": "將您的推介鏈接分享給您的朋友並獲得{{commission_percentage}}％佣金",
+    "get_referral_account": "獲取我的推薦帳戶"
   }
 }
