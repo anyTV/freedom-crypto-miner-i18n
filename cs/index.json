@@ -15,10 +15,12 @@
     "go_home" : "Jít domů",
     "go_back" : "Jít zpět",
     "close" : "Zavřít",
-    "update": "Aktualizovat"
+    "update": "Aktualizovat",
+    "copied": "Copied"
   },
   "error" : {
-    "not_found" : "Oops. Tady nic není"
+    "not_found" : "Oops. Tady nic není",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices" : "Dostupná zařízení",
@@ -125,5 +127,9 @@
     "verify": "VERIFY",
     "payment_test_failure": "Failed to enqueue test payment!",
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+  },
+  "instruction": {
+    "usage_instruction": "usage instruction",
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
   }
 }

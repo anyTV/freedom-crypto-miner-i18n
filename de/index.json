@@ -15,10 +15,12 @@
     "go_home" : "Gehe zu Home",
     "go_back" : "Gehe zurück",
     "close" : "Schließen",
-    "update": "Update"
+    "update": "Update",
+    "copied": "Copied"
   },
   "error" : {
-    "not_found" : "Ups. Hier ist nichts."
+    "not_found" : "Ups. Hier ist nichts.",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices" : "Verfügbare Geräte",
@@ -125,5 +127,9 @@
     "verify": "VERIFY",
     "payment_test_failure": "Failed to enqueue test payment!",
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+  },
+  "instruction": {
+    "usage_instruction": "usage instruction",
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
   }
 }
