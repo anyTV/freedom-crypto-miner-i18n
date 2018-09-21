@@ -20,7 +20,8 @@
     "copied": "Copied"
   },
   "error" : {
-    "not_found" : "Oops. Tady nic není"
+    "not_found" : "Oops. Tady nic není",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices" : "Dostupná zařízení",

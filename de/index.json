@@ -20,7 +20,8 @@
     "copied": "Copied"
   },
   "error" : {
-    "not_found" : "Ups. Hier ist nichts."
+    "not_found" : "Ups. Hier ist nichts.",
+    "connection_fail": "Connection error"
   },
   "home": {
     "available_devices" : "Verfügbare Geräte",

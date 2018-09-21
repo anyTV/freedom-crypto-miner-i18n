@@ -20,7 +20,8 @@
     "copied": "Đã sao chép"
   },
   "error" : {
-    "not_found" : "Oops. Không tìm thấy"
+    "not_found" : "Oops. Không tìm thấy",
+    "connection_fail": "Kết nối lỗi"
   },
   "home": {
     "available_devices" : "Thiết bị",
