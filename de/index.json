@@ -67,7 +67,9 @@
     "preferred_algorithms": "Preferred algorithms",
     "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
     "preferred_algorithms_warning": "Please select at least one algorithm",
-    "preferred_algorithms_updated": "Preferred algorithms updated successfully"
+    "preferred_algorithms_updated": "Preferred algorithms updated successfully",
+    "cpu_mining": "Cpu mining",
+    "cpu_mining_description" : "Automatically start cpu mining when start mining"
   },
   "term" : {
     "term_and_condition" : "AGBs",

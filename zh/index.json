@@ -67,7 +67,9 @@
     "preferred_algorithms": "首選的演算法",
     "preferred_algorithms_explaination": "請選擇採礦使用的演算法",
     "preferred_algorithms_warning": "請選擇至少一種演算法",
-    "preferred_algorithms_updated": "首選的演算法已成功更新"
+    "preferred_algorithms_updated": "首選的演算法已成功更新",
+    "cpu_mining": "Cpu mining",
+    "cpu_mining_description" : "Automatically start cpu mining when start mining"
   },
   "term": {
     "term_and_condition": "條款和條件",

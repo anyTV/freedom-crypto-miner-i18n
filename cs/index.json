@@ -67,7 +67,9 @@
     "preferred_algorithms": "Preferované algoritmy",
     "preferred_algorithms_explaination": "Vyberte algoritmus/algoritmy pro těžbu",
     "preferred_algorithms_warning": "Vyberte alespoň jeden algoritmus",
-    "preferred_algorithms_updated": "Preferované algoritmy úspěšně aktualizovány"
+    "preferred_algorithms_updated": "Preferované algoritmy úspěšně aktualizovány",
+    "cpu_mining": "Cpu mining",
+    "cpu_mining_description" : "Automatically start cpu mining when start mining"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",

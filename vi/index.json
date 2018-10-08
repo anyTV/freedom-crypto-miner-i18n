@@ -67,7 +67,9 @@
     "preferred_algorithms": "Thuật toán đào",
     "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
     "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
-    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công"
+    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công",
+    "cpu_mining": "Đào CPU",
+    "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
