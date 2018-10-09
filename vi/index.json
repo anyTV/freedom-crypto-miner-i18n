@@ -20,7 +20,8 @@
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
-    "connection_fail": "Kết nối lỗi"
+    "connection_fail": "Kết nối lỗi",
+    "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)"
   },
   "home": {
     "available_devices" : "Thiết bị",
@@ -69,7 +70,9 @@
     "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
     "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công",
     "cpu_mining": "Đào CPU",
-    "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào"
+    "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
+    "gpu_mining": "Đào GPU",
+    "gpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",

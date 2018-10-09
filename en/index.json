@@ -20,7 +20,8 @@
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
-    "connection_fail": "Connection error"
+    "connection_fail": "Connection error",
+    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)"
   },
   "home": {
     "available_devices" : "Available Devices",
@@ -69,7 +70,9 @@
     "preferred_algorithms_warning": "Please select at least one algorithm",
     "preferred_algorithms_updated": "Preferred algorithms updated successfully",
     "cpu_mining": "Cpu mining",
-    "cpu_mining_description" : "Automatically start cpu mining when start mining"
+    "cpu_mining_description" : "Automatically start cpu mining when start mining",
+    "gpu_mining": "Gpu mining",
+    "gpu_mining_description" : "Automatically start gpu mining when start mining"
   },
   "term" : {
     "term_and_condition" : "term and condition",

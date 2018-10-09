@@ -20,7 +20,8 @@
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
-    "connection_fail": "連線問題"
+    "connection_fail": "連線問題",
+    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)"
   },
   "home": {
     "available_devices": "可用設備",
@@ -69,7 +70,9 @@
     "preferred_algorithms_warning": "請選擇至少一種演算法",
     "preferred_algorithms_updated": "首選的演算法已成功更新",
     "cpu_mining": "Cpu mining",
-    "cpu_mining_description" : "Automatically start cpu mining when start mining"
+    "cpu_mining_description" : "Automatically start cpu mining when start mining",
+    "gpu_mining": "Gpu mining",
+    "gpu_mining_description" : "Automatically start gpu mining when start mining"
   },
   "term": {
     "term_and_condition": "條款和條件",
