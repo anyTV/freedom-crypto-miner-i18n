@@ -106,7 +106,16 @@
     "error_try_again" : "Try Again",
     "error_get_info": "Error while get mining information",
     "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
-    "error_unzip" : "Error while decompress zip file, please try again"
+    "error_unzip" : "Error while decompress zip file, please try again",
+    "instruction": {
+      "title": "How to add virus folder exclusion for Freedom! Crypto miner",
+      "download_button": "Start download miners",
+      "add_to_exclusion_button": "Auto add miners folder to Exclude list",
+      "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
+      "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
+      "windows_defender": "Windows Defender",
+      "other_virus_software": "Others Antivirus Software"
+    }
   },
   "estimation": {
     "setup_wattage": "Click to setup wattage for more accurate estimation",

@@ -106,7 +106,16 @@
     "error_try_again" : "Zkusit znovu",
     "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
     "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
-    "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu"
+    "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu",
+    "instruction": {
+      "title": "How to add virus folder exclusion for Freedom! Crypto miner",
+      "download_button": "Start download miners",
+      "add_to_exclusion_button": "Auto add miners folder to Exclude list",
+      "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
+      "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
+      "windows_defender": "Windows Defender",
+      "other_virus_software": "Others Antivirus Software"
+    }
   },
   "estimation": {
     "setup_wattage": "Kliknutím nastavte příkon pro přesnější odhad",

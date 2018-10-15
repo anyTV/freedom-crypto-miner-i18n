@@ -106,7 +106,16 @@
     "error_try_again": "下載錯誤，請再試一次",
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
-    "error_unzip": "解壓縮zip文件時出錯，請重試"
+    "error_unzip": "解壓縮zip文件時出錯，請重試",
+    "instruction": {
+      "title": "How to add virus folder exclusion for Freedom! Crypto miner",
+      "download_button": "Start download miners",
+      "add_to_exclusion_button": "Auto add miners folder to Exclude list",
+      "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
+      "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
+      "windows_defender": "Windows Defender",
+      "other_virus_software": "Others Antivirus Software"
+    }
   },
   "estimation": {
     "setup_wattage": "設置預估電費",
