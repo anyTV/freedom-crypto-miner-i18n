@@ -97,7 +97,10 @@
     "error_cannot_connect_pool": "Nelze se připojit k poolu ({{poolinfo}}). Prosíme, zkontrolujte vaše připojení a ujistěte se, že port {{port}} není ve firewallu blokován.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}.",
     "miner_stop_unexpected": "Miner `{{type}}` byl neočekávaně zastaven",
-    "not_support_system": "System can not mine. Maybe RAM is not enough or your preferred algorithms are not suppored. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms list [{{algorithms}}]"
+    "not_support_system": "System can not mine. Maybe RAM is not enough or your preferred algorithms are not suppored. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms list [{{algorithms}}]",
+    "validate_fail_out_of_memory": "RAM is not enough. RAM must be at least {{ram}} MB",
+    "validate_fail_unsupported_device": "Unsupported device",
+    "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. You RAM({{curRAM}} MB) can mine to {{expireAt}}"
   },
   "miner_downloader": {
     "version" : "verze",
