@@ -107,6 +107,7 @@
     "error_get_info": "Error while get mining information",
     "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
     "error_unzip" : "Error while decompress zip file, please try again",
+    "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
       "description": "This dialog is shown a guideline to help you add virus folder exclusion for Freedom! Crypto miner",

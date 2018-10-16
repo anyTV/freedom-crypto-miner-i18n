@@ -107,6 +107,7 @@
     "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
     "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu",
+    "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
       "description": "This dialog is shown a guideline to help you add virus folder exclusion for Freedom! Crypto miner",

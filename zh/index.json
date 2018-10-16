@@ -107,6 +107,7 @@
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
     "error_unzip": "解壓縮zip文件時出錯，請重試",
+    "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
       "description": "This dialog is shown a guideline to help you add virus folder exclusion for Freedom! Crypto miner",
