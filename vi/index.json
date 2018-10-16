@@ -108,7 +108,8 @@
     "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
     "instruction": {
-      "title": "Làm thế nào để thêm Freedom! Crypto miner vào danh sách ngoại lệ của chương trình diệt virus",
+      "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
+      "description": "Hộp thoại này hiện hướng dẫn các thao tác giúp bạn thêm Freedom! Crypto miner vào danh sách ngoại lệ trong chương trình diệt virus",
       "download_button": "Bắt đầu tải công cụ đào tiền ảo",
       "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
