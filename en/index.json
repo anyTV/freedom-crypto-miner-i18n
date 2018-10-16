@@ -97,8 +97,8 @@
     "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}.",
     "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly",
-    "not_support_system": "System can not mine. Maybe RAM is not enough or your preferred algorithms are not suppored. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms list [{{algorithms}}]",
-    "validate_fail_out_of_memory": "RAM is not enough. RAM must be at least {{ram}} MB",
+    "not_support_system": "Device is not supported or out of memory. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms: [{{algorithms}}]",
+    "validate_fail_out_of_memory": "Insufficient device memory. VRAM must be at least {{vram}} MB.",
     "validate_fail_unsupported_device": "Unsupported device",
     "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. You RAM({{curRAM}} MB) can mine to {{expireAt}}"
 

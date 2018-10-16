@@ -98,7 +98,7 @@
     "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
     "miner_stop_unexpected": "挖礦程式 `{{type}}` 意外停止了",
     "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]",
-    "validate_fail_out_of_memory": "RAM is not enough. RAM must be at least {{ram}} MB",
+    "validate_fail_out_of_memory": "Insufficient device memory. VRAM must be at least {{vram}} MB.",
     "validate_fail_unsupported_device": "Unsupported device",
     "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}}. You RAM can mine to {{expireAt}}"
   },

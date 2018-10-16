@@ -98,7 +98,7 @@
     "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}.",
     "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
     "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]",
-    "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{ram}} MB",
+    "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{vram}} MB",
     "validate_fail_unsupported_device": "Thiết bị không hỗ trợ",
     "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}"
   },
