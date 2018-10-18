@@ -102,7 +102,8 @@
     "error_cannot_connect_pool": "無法連接礦池({{poolinfo}})。請檢查您的連接和防火牆以確保端口{{port}}未被阻擋。",
     "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
     "miner_stop_unexpected": "挖礦程式 `{{type}}` 意外停止了",
-    "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]"
+    "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]",
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]"
   },
   "miner_downloader": {
     "version": "版本",

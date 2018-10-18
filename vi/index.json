@@ -102,7 +102,8 @@
     "error_cannot_connect_pool": "Không thể kết nối đến pool ({{poolinfo}}). Kiểm tra kết nối và tường lửa đảm bảo cổng {{port}} không bị khóa.",
     "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}.",
     "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
-    "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]"
+    "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]",
+    "cpu_miner_not_found": "Không tìm thấy mày đào cho CPU. Có thể máy đào đã bị xóa hoặc đồng CPU đã bị bỏ chọn ở 'Cấu hình-Thuật toán đào'. Hãy kiểm tra tại 'Cấu hình-Thuật toán đào'. Các đồng CPU bao gồm [{{cpuCryptoes}}]"
   },
   "miner_downloader": {
     "version" : "phiên bản",

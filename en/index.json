@@ -102,7 +102,8 @@
     "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}.",
     "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly",
-    "not_support_system": "System can not mine. Maybe RAM is not enough or your preferred algorithms are not suppored. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms list [{{algorithms}}]"
+    "not_support_system": "System can not mine. Maybe RAM is not enough or your preferred algorithms are not suppored. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms list [{{algorithms}}]",
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]"
   },
   "miner_downloader": {
     "version" : "version",

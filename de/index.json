@@ -31,7 +31,8 @@
     "current_worker" : "Derzeitiger Worker",
     "benchmark_to_show_erning" : "Führe eine Bewertung durch, um Einnahmensschätzungen anzuzeigen",
     "you_are_anonymous_mining" : "Du befindest dich im anonymen Miningmodus. Du solltest dich für die Bezahlung anmelden.",
-    "miner_not_effective" : "Derzeitiger Miner ist nicht effektiv. Versuche, zu anderem Miner zu wechseln."
+    "miner_not_effective" : "Derzeitiger Miner ist nicht effektiv. Versuche, zu anderem Miner zu wechseln.",
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardwaredetails",
