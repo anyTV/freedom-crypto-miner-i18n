@@ -137,8 +137,9 @@
     "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧"
   },
   "affiliate_info": {
-    "referrals": "推薦",
-    "affiliate_description": "將您的推介鏈接分享給您的朋友並獲得{{commission_percentage}}佣金",
-    "get_referral_account": "獲取我的推薦帳戶"
+    "referrals": "推薦分享",
+    "affiliate_description": "將您的推薦鏈接分享給您的朋友並賺取佣金，詳情請見{{here}}.",
+    "get_referral_account": "獲取我的推薦帳戶",
+    "here": "連結"
   }
 }
