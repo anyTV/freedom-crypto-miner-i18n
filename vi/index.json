@@ -131,7 +131,7 @@
   },
   "affiliate_info": {
     "referrals": "giới thiệu",
-    "affiliate_description": "Chia sẻ liên kết giới thiệu của bạn với bạn bè và kiếm {{commission_percentage}}% hoa hồng",
+    "affiliate_description": "Chia sẻ liên kết giới thiệu của bạn với bạn bè và kiếm {{commission_percentage}} hoa hồng",
     "get_referral_account": "Nhận tài khoản giới thiệu"
   }
 }

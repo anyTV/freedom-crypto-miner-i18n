@@ -131,7 +131,7 @@
   },
   "affiliate_info": {
     "referrals": "推薦",
-    "affiliate_description": "將您的推介鏈接分享給您的朋友並獲得{{commission_percentage}}％佣金",
+    "affiliate_description": "將您的推介鏈接分享給您的朋友並獲得{{commission_percentage}}佣金",
     "get_referral_account": "獲取我的推薦帳戶"
   }
 }
