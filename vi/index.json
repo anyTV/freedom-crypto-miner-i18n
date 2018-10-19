@@ -138,7 +138,7 @@
   },
   "affiliate_info": {
     "referrals": "giới thiệu",
-    "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{{here}}}.",
+    "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
     "get_referral_account": "Nhận tài khoản giới thiệu",
     "here": "tại đây"
   }

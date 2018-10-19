@@ -138,7 +138,7 @@
   },
   "affiliate_info": {
     "referrals": "referrals",
-    "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{{here}}}.",
+    "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{here}}.",
     "get_referral_account": "Get my referral account",
     "here": "here"
   }
