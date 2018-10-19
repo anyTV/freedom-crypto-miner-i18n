@@ -98,7 +98,10 @@
     "error_cannot_connect_pool": "Không thể kết nối đến pool ({{poolinfo}}). Kiểm tra kết nối và tường lửa đảm bảo cổng {{port}} không bị khóa.",
     "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}.",
     "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
-    "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]"
+    "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]",
+    "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{vram}} MB",
+    "validate_fail_unsupported_device": "Thiết bị không hỗ trợ",
+    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}"
   },
   "miner_downloader": {
     "version" : "phiên bản",
@@ -128,6 +131,10 @@
     "verify": "Xác minh",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+  },
+  "instruction": {
+    "usage_instruction": "Hướng dẫn sử dụng",
+    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
   },
   "affiliate_info": {
     "referrals": "giới thiệu",
