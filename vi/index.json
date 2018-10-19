@@ -132,9 +132,14 @@
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
   },
+  "instruction": {
+    "usage_instruction": "Hướng dẫn sử dụng",
+    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
+  },
   "affiliate_info": {
     "referrals": "giới thiệu",
-    "affiliate_description": "Chia sẻ liên kết giới thiệu của bạn với bạn bè và kiếm {{commission_percentage}}% hoa hồng",
-    "get_referral_account": "Nhận tài khoản giới thiệu"
+    "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
+    "get_referral_account": "Nhận tài khoản giới thiệu",
+    "here": "tại đây"
   }
 }
