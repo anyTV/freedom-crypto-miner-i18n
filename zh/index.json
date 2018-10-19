@@ -130,7 +130,7 @@
     "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式"
   },
   "affiliate_info": {
-    "referrals": "referrals",
+    "referrals": "推薦",
     "affiliate_description": "將您的推介鏈接分享給您的朋友並獲得{{commission_percentage}}％佣金",
     "get_referral_account": "獲取我的推薦帳戶"
   }
