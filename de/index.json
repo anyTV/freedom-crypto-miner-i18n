@@ -16,6 +16,7 @@
     "go_back" : "Gehe zurück",
     "close" : "Schließen",
     "update": "Update",
+    "copy": "Copy",
     "copied": "Copied"
   },
   "error" : {
@@ -131,8 +132,9 @@
     "payment_test_failure": "Failed to enqueue test payment!",
     "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
   },
-  "instruction": {
-    "usage_instruction": "usage instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+  "affiliate_info": {
+    "referrals": "referrals",
+    "affiliate_description": "Share your referral link to your friend and earn {{commission_percentage}}% commission",
+    "get_referral_account": "Get my referral account"
   }
 }
