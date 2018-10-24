@@ -16,7 +16,8 @@
     "go_back": "回到上一頁",
     "close": "關閉",
     "update": "更新",
-    "copied": "Copied"
+    "copy": "複製",
+    "copied": "複製完成"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -97,7 +98,10 @@
     "error_cannot_connect_pool": "無法連接礦池({{poolinfo}})。請檢查您的連接和防火牆以確保端口{{port}}未被阻擋。",
     "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
     "miner_stop_unexpected": "挖礦程式 `{{type}}` 意外停止了",
-    "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]"
+    "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]",
+    "validate_fail_out_of_memory": "顯示卡內存不足。VRAM必須至少為{{vram}} MB。",
+    "validate_fail_unsupported_device": "不支持的硬體設備",
+    "predict_dag_expire_date": "{{crypto}}的DAG大小為{{dagSize}} MB。您的顯示卡有({{curRAM}} MB) 可以挖掘到 {{expireAt}}"
   },
   "miner_downloader": {
     "version": "版本",
@@ -142,5 +146,11 @@
   "instruction": {
     "usage_instruction": "使用說明",
     "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧"
+  },
+  "affiliate_info": {
+    "referrals": "推薦分享",
+    "affiliate_description": "將您的推薦鏈接分享給您的朋友並賺取佣金，詳情請見{{here}}.",
+    "get_referral_account": "獲取我的推薦帳戶",
+    "here": "連結"
   }
 }
