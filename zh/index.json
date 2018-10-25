@@ -111,7 +111,7 @@
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
     "error_unzip": "解壓縮zip文件時出錯，請重試",
-    "initializing": "Checking mining tool information",
+    "initializing": "檢查採礦工具資訊",
     "instruction": {
       "title": "採礦工具設定指南",
       "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
