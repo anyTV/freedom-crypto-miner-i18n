@@ -22,7 +22,8 @@
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
     "connection_fail": "Kết nối lỗi",
-    "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)"
+    "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)",
+    "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào"
   },
   "home": {
     "available_devices" : "Thiết bị",

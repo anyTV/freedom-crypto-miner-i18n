@@ -22,7 +22,8 @@
   "error" : {
     "not_found" : "Oops. Tady nic není",
     "connection_fail": "Connection error",
-    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)"
+    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
+    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
   },
   "home": {
     "available_devices" : "Dostupná zařízení",
