@@ -114,7 +114,7 @@
     "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
     "instruction": {
       "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
-      "description": "Hộp thoại này hiện hướng dẫn các thao tác giúp bạn thêm Freedom! Crypto miner vào danh sách ngoại lệ trong chương trình diệt virus",
+      "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
       "download_button": "Bắt đầu tải công cụ đào tiền ảo",
       "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",

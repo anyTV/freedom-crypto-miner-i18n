@@ -114,7 +114,7 @@
     "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
-      "description": "This dialog is shown a guideline to help you add virus folder exclusion for Freedom! Crypto miner",
+      "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
       "download_button": "Start download miners",
       "add_to_exclusion_button": "Auto add miners folder to Exclude list",
       "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
