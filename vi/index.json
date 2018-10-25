@@ -110,7 +110,18 @@
     "error_try_again" : "Thử lại",
     "error_get_info": "Lỗi xảy ra khi kết nối đến máy chủ",
     "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
-    "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại"
+    "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
+    "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
+    "instruction": {
+      "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
+      "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
+      "download_button": "Bắt đầu tải công cụ đào tiền ảo",
+      "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
+      "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
+      "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
+      "windows_defender": "Windows Defender",
+      "other_virus_software": "Các chương trình diệt virus khác"
+    }
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",

@@ -110,7 +110,18 @@
     "error_try_again": "下載錯誤，請再試一次",
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
-    "error_unzip": "解壓縮zip文件時出錯，請重試"
+    "error_unzip": "解壓縮zip文件時出錯，請重試",
+    "initializing": "檢查採礦工具資訊",
+    "instruction": {
+      "title": "採礦工具設定指南",
+      "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
+      "download_button": "開始下載採礦工具",
+      "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
+      "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
+      "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
+      "windows_defender": "Windows Defender",
+      "other_virus_software": "其他的防毒軟體"
+    }
   },
   "estimation": {
     "setup_wattage": "設置預估電費",
