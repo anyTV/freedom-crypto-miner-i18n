@@ -16,6 +16,7 @@
     "go_back" : "Về trang trước",
     "close" : "Đóng",
     "update": "Cập nhật",
+    "copy": "Sao chép",
     "copied": "Đã sao chép"
   },
   "error" : {
@@ -104,6 +105,9 @@
     "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
     "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]",
     "cpu_miner_not_found": "Không tìm thấy mày đào cho CPU. Có thể máy đào đã bị xóa hoặc đồng CPU đã bị bỏ chọn ở 'Cấu hình-Thuật toán đào'. Hãy kiểm tra tại 'Cấu hình-Thuật toán đào'. Các đồng CPU bao gồm [{{cpuCryptoes}}]"
+    "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{vram}} MB",
+    "validate_fail_unsupported_device": "Thiết bị không hỗ trợ",
+    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}"
   },
   "miner_downloader": {
     "version" : "phiên bản",
@@ -137,5 +141,11 @@
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
     "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
+  },
+  "affiliate_info": {
+    "referrals": "giới thiệu",
+    "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
+    "get_referral_account": "Nhận tài khoản giới thiệu",
+    "here": "tại đây"
   }
 }
