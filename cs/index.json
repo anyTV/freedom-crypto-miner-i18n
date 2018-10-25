@@ -103,7 +103,7 @@
     "error_cannot_connect_pool": "Nelze se připojit k poolu ({{poolinfo}}). Prosíme, zkontrolujte vaše připojení a ujistěte se, že port {{port}} není ve firewallu blokován.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' je používán. Ujistěte se, že žádná další aplikace zrovna nepoužívá port {{port}}.",
     "miner_stop_unexpected": "Miner `{{type}}` byl neočekávaně zastaven",
-    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]"
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]",
     "not_support_system": "Device is not supported or out of memory. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms: [{{algorithms}}]",
     "validate_fail_out_of_memory": "Insufficient Video device memory. VRAM must be at least {{vram}} MB.",
     "validate_fail_unsupported_device": "Unsupported device",

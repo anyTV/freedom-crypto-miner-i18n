@@ -104,7 +104,7 @@
     "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
     "miner_stop_unexpected": "挖礦程式 `{{type}}` 意外停止了",
     "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]",
-    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]"
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]",
     "validate_fail_out_of_memory": "顯示卡內存不足。VRAM必須至少為{{vram}} MB。",
     "validate_fail_unsupported_device": "不支持的硬體設備",
     "predict_dag_expire_date": "{{crypto}}的DAG大小為{{dagSize}} MB。您的顯示卡有({{curRAM}} MB) 可以挖掘到 {{expireAt}}"
