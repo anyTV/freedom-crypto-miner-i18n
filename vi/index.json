@@ -48,8 +48,7 @@
     "progress" : "Tiến độ",
     "stop_benchmark" : "Ngừng 'Tính điểm'",
     "internet_status_connected" : "Đang Kết nối",
-    "internet_status_disconnected" : "Mất kết nối",
-    "benchmark_algorithm_fail": "Tính điểm thất bại cho các thuật toán: {{algorithms}}"
+    "internet_status_disconnected" : "Mất kết nối"
   },
   "setting" : {
     "mining_config" : "Cấu hình Máy đào",
@@ -108,7 +107,8 @@
     "cpu_miner_not_found": "Không tìm thấy mày đào cho CPU. Có thể máy đào đã bị xóa hoặc đồng CPU đã bị bỏ chọn ở 'Cấu hình-Thuật toán đào'. Hãy kiểm tra tại 'Cấu hình-Thuật toán đào'. Các đồng CPU bao gồm [{{cpuCryptoes}}]",
     "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{vram}} MB",
     "validate_fail_unsupported_device": "Thiết bị không hỗ trợ",
-    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}"
+    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}",
+    "benchmark_algorithm_fail": "Tính điểm thất bại cho các thuật toán: {{algorithms}}"
   },
   "miner_downloader": {
     "version" : "phiên bản",
