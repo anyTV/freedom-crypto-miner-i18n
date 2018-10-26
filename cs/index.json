@@ -74,7 +74,8 @@
     "cpu_mining": "Cpu mining",
     "cpu_mining_description" : "Automatically start cpu mining when start mining",
     "gpu_mining": "Gpu mining",
-    "gpu_mining_description" : "Automatically start gpu mining when start mining"
+    "gpu_mining_description" : "Automatically start gpu mining when start mining",
+    "mining_options_changed": "Please restart mining (click Stop, Start) to get effect changes"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",
