@@ -48,8 +48,7 @@
     "progress" : "Postup ",
     "stop_benchmark" : "Zastavit Benchmark",
     "internet_status_connected" : "Připojeno",
-    "internet_status_disconnected" : "Odpojeno",
-    "benchmark_algorithm_fail": "Benchmark následujících algoritmů selhal: {{algorithms}}"
+    "internet_status_disconnected" : "Odpojeno"
   },
   "setting" : {
     "mining_config" : "Nastavení těžby",
@@ -109,7 +108,8 @@
     "not_support_system": "Device is not supported or out of memory. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms: [{{algorithms}}]",
     "validate_fail_out_of_memory": "Insufficient Video device memory. VRAM must be at least {{vram}} MB.",
     "validate_fail_unsupported_device": "Unsupported device",
-    "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. Your Video RAM ({{curRAM}} MB) can mine to {{expireAt}}"
+    "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. Your Video RAM ({{curRAM}} MB) can mine to {{expireAt}}",
+    "benchmark_algorithm_fail": "Benchmark následujících algoritmů selhal: {{algorithms}}"
   },
   "miner_downloader": {
     "version" : "verze",
