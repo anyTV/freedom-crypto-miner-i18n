@@ -21,7 +21,9 @@
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
-    "connection_fail": "Connection error"
+    "connection_fail": "Connection error",
+    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
+    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
   },
   "home": {
     "available_devices" : "Available Devices",
@@ -46,8 +48,7 @@
     "progress" : "Progress",
     "stop_benchmark" : "Stop Benchmark",
     "internet_status_connected" : "Connected",
-    "internet_status_disconnected" : "Disconnected",
-    "benchmark_algorithm_fail": "Benchmark fail for algorithms: {{algorithms}}"
+    "internet_status_disconnected" : "Disconnected"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
@@ -68,7 +69,12 @@
     "preferred_algorithms": "Preferred algorithms",
     "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
     "preferred_algorithms_warning": "Please select at least one algorithm",
-    "preferred_algorithms_updated": "Preferred algorithms updated successfully"
+    "preferred_algorithms_updated": "Preferred algorithms updated successfully",
+    "cpu_mining": "CPU mining",
+    "cpu_mining_description" : "Automatically start CPU mining when start mining",
+    "gpu_mining": "GPU mining",
+    "gpu_mining_description" : "Automatically start GPU mining when start mining",
+    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes"
   },
   "term" : {
     "term_and_condition" : "term and condition",
@@ -98,10 +104,12 @@
     "error_cannot_connect_pool": "Can not connect pool ({{poolinfo}}). Please check your connection and firewall to make sure port {{port}} is not blocked.",
     "miner_stopped_cannot_connect_stats_port": "Port '{{port}}' is in use. Please make sure that no other application is using port {{port}}.",
     "miner_stop_unexpected": "Miner `{{type}}` is stopped unexpectedly",
+    "cpu_miner_not_found": "CPU miner is not found. Maybe miner is deleted or CPU cryptoes are unselected in 'Preferred Algorithms' . Please check on 'Configure-Preferred Algorithms' menu. CPU cryptoes list [{{cpuCryptoes}}]",
     "not_support_system": "Device is not supported or out of memory. Please check on 'Configure-Preferred Algorithms' menu. Minable algorithms: [{{algorithms}}]",
     "validate_fail_out_of_memory": "Insufficient Video device memory. VRAM must be at least {{vram}} MB.",
     "validate_fail_unsupported_device": "Unsupported device",
-    "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. Your Video RAM ({{curRAM}} MB) can mine to {{expireAt}}"
+    "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. Your Video RAM ({{curRAM}} MB) can mine to {{expireAt}}",
+    "benchmark_algorithm_fail": "Benchmark fail for algorithms: {{algorithms}}"
   },
   "miner_downloader": {
     "version" : "version",

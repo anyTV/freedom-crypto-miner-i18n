@@ -21,7 +21,9 @@
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
-    "connection_fail": "連線問題"
+    "connection_fail": "連線問題",
+    "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
+    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
   },
   "home": {
     "available_devices": "可用設備",
@@ -46,8 +48,7 @@
     "progress": "進度",
     "stop_benchmark": "中止測試",
     "internet_status_connected": "連線正常",
-    "internet_status_disconnected": "連線問題",
-    "benchmark_algorithm_fail": "測試{{algorithms}}採礦速度失敗"
+    "internet_status_disconnected": "連線問題"
   },
   "setting": {
     "mining_config": "採礦設定",
@@ -68,7 +69,12 @@
     "preferred_algorithms": "首選的演算法",
     "preferred_algorithms_explaination": "請選擇採礦使用的演算法",
     "preferred_algorithms_warning": "請選擇至少一種演算法",
-    "preferred_algorithms_updated": "首選的演算法已成功更新"
+    "preferred_algorithms_updated": "首選的演算法已成功更新",
+    "cpu_mining": "CPU挖掘",
+    "cpu_mining_description" : "開始挖掘時自動使用CPU挖掘",
+    "gpu_mining": "GPU挖掘",
+    "gpu_mining_description" : "開始挖掘時自動使用GPU挖掘",
+    "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改"
   },
   "term": {
     "term_and_condition": "條款和條件",
@@ -99,9 +105,11 @@
     "miner_stopped_cannot_connect_stats_port": "端口{{port}}已經在使用中。請檢查您的系統並確定沒有程式占用端口{{port}}。",
     "miner_stop_unexpected": "挖礦程式 `{{type}}` 意外停止了",
     "not_support_system": "無法採礦。 也許你的系統記憶體(RAM)不夠或者你的首選算法不受支持。 請檢查'首選的演算法'菜單。 支持的算法有[{{algorithms}}]",
+    "cpu_miner_not_found": "找不到CPU挖礦程式。可能挖礦程式已被刪除或在'首選的演算法'中未選擇CPU挖掘演算法。請檢查'首選的演算法'菜單.CPU演算法 [{{cpuCryptoes}}]",
     "validate_fail_out_of_memory": "顯示卡內存不足。VRAM必須至少為{{vram}} MB。",
     "validate_fail_unsupported_device": "不支持的硬體設備",
-    "predict_dag_expire_date": "{{crypto}}的DAG大小為{{dagSize}} MB。您的顯示卡有({{curRAM}} MB) 可以挖掘到 {{expireAt}}"
+    "predict_dag_expire_date": "{{crypto}}的DAG大小為{{dagSize}} MB。您的顯示卡有({{curRAM}} MB) 可以挖掘到 {{expireAt}}",
+    "benchmark_algorithm_fail": "測試{{algorithms}}採礦速度失敗"
   },
   "miner_downloader": {
     "version": "版本",

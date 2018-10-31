@@ -21,7 +21,9 @@
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
-    "connection_fail": "Kết nối lỗi"
+    "connection_fail": "Kết nối lỗi",
+    "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)",
+    "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào"
   },
   "home": {
     "available_devices" : "Thiết bị",
@@ -46,8 +48,7 @@
     "progress" : "Tiến độ",
     "stop_benchmark" : "Ngừng 'Tính điểm'",
     "internet_status_connected" : "Đang Kết nối",
-    "internet_status_disconnected" : "Mất kết nối",
-    "benchmark_algorithm_fail": "Tính điểm thất bại cho các thuật toán: {{algorithms}}"
+    "internet_status_disconnected" : "Mất kết nối"
   },
   "setting" : {
     "mining_config" : "Cấu hình Máy đào",
@@ -68,7 +69,12 @@
     "preferred_algorithms": "Thuật toán đào",
     "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
     "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
-    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công"
+    "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công",
+    "cpu_mining": "Đào CPU",
+    "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
+    "gpu_mining": "Đào GPU",
+    "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
+    "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
@@ -99,9 +105,11 @@
     "miner_stopped_cannot_connect_stats_port": "Cổng '{{port}}' đang được sử dụng. Hãy đảm bảo không có ứng dụng nào đang dùng cổng {{port}}.",
     "miner_stop_unexpected": "Máy đào `{{type}}` bị tắt đột ngột.",
     "not_support_system": "Máy không thể đào. Có thể do RAM không đủ hoặc thuật toán đào không hỗ trợ. Vui lòng kiểm tra tại menu 'Cấu hình-Thuật toán đào'. Danh sách thuật toán có thể đào [{{algorithms}}]",
+    "cpu_miner_not_found": "Không tìm thấy mày đào cho CPU. Có thể máy đào đã bị xóa hoặc đồng CPU đã bị bỏ chọn ở 'Cấu hình-Thuật toán đào'. Hãy kiểm tra tại 'Cấu hình-Thuật toán đào'. Các đồng CPU bao gồm [{{cpuCryptoes}}]",
     "validate_fail_out_of_memory": "RAM không đủ. RAM phải ít nhất {{vram}} MB",
     "validate_fail_unsupported_device": "Thiết bị không hỗ trợ",
-    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}"
+    "predict_dag_expire_date": "Kích thước DAG của {{crypto}} là {{dagSize}} MB. RAM hiện tại ({{curRAM}} MB) có thể đào đến {{expireAt}}",
+    "benchmark_algorithm_fail": "Tính điểm thất bại cho các thuật toán: {{algorithms}}"
   },
   "miner_downloader": {
     "version" : "phiên bản",
