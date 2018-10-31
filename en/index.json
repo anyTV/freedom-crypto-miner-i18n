@@ -70,11 +70,11 @@
     "preferred_algorithms_explaination": "Select algorithm(s) that you want to mine",
     "preferred_algorithms_warning": "Please select at least one algorithm",
     "preferred_algorithms_updated": "Preferred algorithms updated successfully",
-    "cpu_mining": "Cpu mining",
-    "cpu_mining_description" : "Automatically start cpu mining when start mining",
-    "gpu_mining": "Gpu mining",
-    "gpu_mining_description" : "Automatically start gpu mining when start mining",
-    "mining_options_changed": "Please restart mining (click Stop, Start) to get effect changes"
+    "cpu_mining": "CPU mining",
+    "cpu_mining_description" : "Automatically start CPU mining when start mining",
+    "gpu_mining": "GPU mining",
+    "gpu_mining_description" : "Automatically start GPU mining when start mining",
+    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes"
   },
   "term" : {
     "term_and_condition" : "term and condition",

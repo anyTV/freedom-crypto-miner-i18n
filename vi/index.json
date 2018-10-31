@@ -73,7 +73,7 @@
     "cpu_mining": "Đào CPU",
     "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
     "gpu_mining": "Đào GPU",
-    "gpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
+    "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
     "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực"
   },
   "term" : {
