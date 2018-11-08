@@ -23,7 +23,8 @@
     "not_found": "哎呀!這裡甚麼都沒有",
     "connection_fail": "連線問題",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
-    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
+    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto",
+    "no_profitable_algorithms": "all mining algorithms are not profitable, You can continue mine by enable \"Mine even projected profit lost\" options in Settings"
   },
   "home": {
     "available_devices": "可用設備",
@@ -74,7 +75,9 @@
     "cpu_mining_description" : "開始挖掘時自動使用CPU挖掘",
     "gpu_mining": "GPU挖掘",
     "gpu_mining_description" : "開始挖掘時自動使用GPU挖掘",
-    "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改"
+    "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改",
+    "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
   },
   "term": {
     "term_and_condition": "條款和條件",

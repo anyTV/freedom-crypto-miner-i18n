@@ -23,7 +23,8 @@
     "not_found" : "Oops. Không tìm thấy",
     "connection_fail": "Kết nối lỗi",
     "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)",
-    "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào"
+    "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào",
+    "no_profitable_algorithms": "Tất cả thuật toán đào hiện tại đều không có lợi nhuận, Bạn có thể tiếp tục đào bằng cách bật cài đặt \"Đào ngay cả khi ước tính là không có lợi nhuận\" trong phần cài đặt"
   },
   "home": {
     "available_devices" : "Thiết bị",
@@ -74,7 +75,9 @@
     "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
     "gpu_mining": "Đào GPU",
     "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
-    "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực"
+    "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực",
+    "mine_even_projected_profit_lost": "Đào ngay cả khi ước tính là không có lợi nhuận?",
+    "mine_even_projected_profit_lost_description": "Bật cài đặt khi bạn muốn đào tiền ảo từ danh sách thuật toán bạn muốn đào, Tắt cài đặt khi bạn chỉ muốn đào những tiền ảo có lợi nhuận"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
