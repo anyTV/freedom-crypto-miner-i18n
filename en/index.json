@@ -23,8 +23,8 @@
     "not_found" : "Oops. Nothing here",
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
-    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto",
-    "no_profitable_algorithms": "all mining algorithms are not profitable, You can continue mine by enable \"Mine even projected profit lost\" options in Settings"
+    "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
+    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings"
   },
   "home": {
     "available_devices" : "Available Devices",
