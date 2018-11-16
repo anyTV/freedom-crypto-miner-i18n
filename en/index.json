@@ -23,7 +23,8 @@
     "not_found" : "Oops. Nothing here",
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
-    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
+    "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
+    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings"
   },
   "home": {
     "available_devices" : "Available Devices",
@@ -55,9 +56,9 @@
     "log_config" : "Logging Configuration",
     "lang_config" : "Language Configuration",
     "auto_start_description" : "Automatically start mining when computer is idle and stop mining when computer is being used",
-    "auto_launch_description" : "Automatically start miner on computer starts",
+    "auto_launch_description" : "Automatically start Crypto Miner on computer starts",
     "log_description" : "Log file is available at: {{path}}",
-    "auto_launch" : "Autostart mining",
+    "auto_launch" : "Autostart Crypto Miner",
     "auto_mining" : "Start mining when Idle",
     "general" : "General",
     "mining": "Mining",
@@ -74,7 +75,9 @@
     "cpu_mining_description" : "Automatically start CPU mining when start mining",
     "gpu_mining": "GPU mining",
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
-    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes"
+    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
+    "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
   },
   "term" : {
     "term_and_condition" : "term and condition",

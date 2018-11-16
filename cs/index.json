@@ -23,7 +23,8 @@
     "not_found" : "Oops. Tady nic není",
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
-    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
+    "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
+    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings"
   },
   "home": {
     "available_devices" : "Dostupná zařízení",
@@ -55,9 +56,9 @@
     "log_config" : "Nastavení protokolování",
     "lang_config" : "Nastavení jazyka",
     "auto_start_description" : "Automaticky začít těžit při nečinnosti systému a přestat, když se počítač používá",
-    "auto_launch_description" : "Spustit miner při spuštění počítače",
+    "auto_launch_description" : "Spustit Crypto Miner při spuštění počítače",
     "log_description" : "Protokol je dostupný v: {{path}}",
-    "auto_launch" : "Automatické těžení",
+    "auto_launch" : "Automatické Crypto Miner",
     "auto_mining" : "Začít těžit při nečinnosti",
     "general" : "Obecné",
     "mining": "Těžba",
@@ -74,7 +75,9 @@
     "cpu_mining_description" : "Automatically start CPU mining when start mining",
     "gpu_mining": "GPU mining",
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
-    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes"
+    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
+    "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",

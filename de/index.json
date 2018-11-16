@@ -23,7 +23,8 @@
     "not_found" : "Ups. Hier ist nichts.",
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
-    "no_mining_crypto_for_device": "Have no mining crypto. Must select at least one mining crypto"
+    "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
+    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings"
   },
   "home": {
     "available_devices" : "Verfügbare Geräte",
@@ -56,9 +57,9 @@
     "log_config" : "Logging-Konfiguration",
     "lang_config" : "Sprachkonfiguration",
     "auto_start_description" : "Beginnt automatisch zu minen, wenn der Computer nicht verwendet wird und beendet den Vorgang, wenn der Computer wieder verwendet wird.",
-    "auto_launch_description" : "Starte Miner automatisch, wenn der Computer gestartet wird",
+    "auto_launch_description" : "Starte Crypto Miner automatisch, wenn der Computer gestartet wird",
     "log_description" : "Logdatei befindet sich in: {{path}}",
-    "auto_launch" : "Starte Mining automatisch",
+    "auto_launch" : "Starte Crypto Miner automatisch",
     "auto_mining" : "Starte Mining, wenn der Computer nicht verwendet wird",
     "general" : "Allgemein",
     "mining": "Mining",
@@ -75,7 +76,9 @@
     "cpu_mining_description" : "Automatically start CPU mining when start mining",
     "gpu_mining": "GPU mining",
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
-    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes"
+    "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
+    "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
   },
   "term" : {
     "term_and_condition" : "AGBs",
