@@ -134,7 +134,7 @@
       "windows_defender": "Windows Defender",
       "other_virus_software": "Các chương trình diệt virus khác"
     },
-    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) later."
+    "missing_mining_tool": "Để tối ưu lợi nhuận, vui lòng nhập nhật công cụ đào sớm nhất có thể."
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",
