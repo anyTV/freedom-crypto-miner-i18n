@@ -17,7 +17,8 @@
     "close": "關閉",
     "update": "更新",
     "copy": "複製",
-    "copied": "複製完成"
+    "copied": "複製完成",
+    "cancel": "Cancel"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -132,7 +133,8 @@
       "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
       "windows_defender": "Windows Defender",
       "other_virus_software": "其他的防毒軟體"
-    }
+    },
+    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) later."
   },
   "estimation": {
     "setup_wattage": "設置預估電費",

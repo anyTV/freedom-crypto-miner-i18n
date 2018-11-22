@@ -17,7 +17,8 @@
     "close" : "Đóng",
     "update": "Cập nhật",
     "copy": "Sao chép",
-    "copied": "Đã sao chép"
+    "copied": "Đã sao chép",
+    "cancel": "Cancel"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -132,7 +133,8 @@
       "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
       "windows_defender": "Windows Defender",
       "other_virus_software": "Các chương trình diệt virus khác"
-    }
+    },
+    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) later."
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",
