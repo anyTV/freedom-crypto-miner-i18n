@@ -135,7 +135,8 @@
       "windows_defender": "Windows Defender",
       "other_virus_software": "Others Antivirus Software"
     },
-    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) as soon as possible."
+    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) as soon as possible.",
+    "mining_tool_uptodate": "All mining tools are up-to-date"
   },
   "estimation": {
     "setup_wattage": "Click to setup wattage for more accurate estimation",
