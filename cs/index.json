@@ -77,7 +77,13 @@
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
     "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
     "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
-    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only",
+    "exclude_applications": {
+      "title": "Applications exclusion",
+      "description": "Select application(s) that you want to skip idle mining while it's running",
+      "filter": "Search an application",
+      "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon"
+    }
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",

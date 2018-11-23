@@ -77,7 +77,13 @@
     "gpu_mining_description" : "開始挖掘時自動使用GPU挖掘",
     "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改",
     "mine_even_projected_profit_lost": "繼續挖掘即使估計盈利將會損失利潤？",
-    "mine_even_projected_profit_lost_description": "選擇是將會繼續挖掘，即使估計盈利將會損失利潤。選擇否則只挖掘估計盈利有利潤的算法"
+    "mine_even_projected_profit_lost_description": "選擇是將會繼續挖掘，即使估計盈利將會損失利潤。選擇否則只挖掘估計盈利有利潤的算法",
+    "exclude_applications": {
+      "title": "Applications exclusion",
+      "description": "Select application(s) that you want to skip idle mining while it's running",
+      "filter": "Search an application",
+      "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon"
+    }
   },
   "term": {
     "term_and_condition": "條款和條件",
