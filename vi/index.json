@@ -140,7 +140,8 @@
       "auto_add_miners_folder_to_exclusion_list_error_message": "Lỗi khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng nhấn nút bên dưới để thử lại hay khởi động lại Crypto Miner",
       "windows_defender": "Windows Defender",
       "other_virus_software": "Các chương trình diệt virus khác",
-      "restart_crypto_miner_button": "Khởi động lại Crypto Miner"
+      "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
+      "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình"
     }
   },
   "estimation": {

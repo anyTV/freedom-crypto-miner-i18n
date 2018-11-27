@@ -128,6 +128,7 @@
     "error_get_info": "Error while get mining information",
     "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
     "error_unzip" : "Error while decompress zip file, please try again",
+    "error_download": "Error while downloading miner file, please try again",
     "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
@@ -140,7 +141,8 @@
       "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to exclusion list, Please click button below to try again or try to restart Crypto Miner",
       "windows_defender": "Windows Defender",
       "other_virus_software": "Others Antivirus Software",
-      "restart_crypto_miner_button": "Restart Crypto Miner"
+      "restart_crypto_miner_button": "Restart Crypto Miner",
+      "exclusion_confirm_button": "I have added miners folder to my Antivirus software"
     }
   },
   "estimation": {
