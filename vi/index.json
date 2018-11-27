@@ -136,8 +136,11 @@
       "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
+      "auto_add_miners_folder_to_exclusion_list_error_title": "Lỗi thêm thư mục máy đào vào danh sách ngoại lệ",
+      "auto_add_miners_folder_to_exclusion_list_error_message": "Lỗi khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng nhấn nút bên dưới để thử lại hay khởi động lại Crypto Miner",
       "windows_defender": "Windows Defender",
-      "other_virus_software": "Các chương trình diệt virus khác"
+      "other_virus_software": "Các chương trình diệt virus khác",
+      "restart_crypto_miner_button": "Khởi động lại Crypto Miner"
     }
   },
   "estimation": {
