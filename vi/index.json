@@ -82,7 +82,11 @@
       "title": "Danh sách ứng dụng ngoại lệ",
       "description": "Chọn ứng dụng bạn muốn tắt chế độ tự động đào nếu nó đang chạy",
       "filter": "Tìm kiếm ứng dụng",
-      "reload_hint": "Nếu ứng dụng bạn muốn tìm không có trong danh sách bên dưới, hãy thử mở ứng dụng đó và nhấn vào biểu tượng làm mới"
+      "reload_hint": "Nếu ứng dụng bạn muốn tìm không có trong danh sách bên dưới, hãy thử mở ứng dụng đó và nhấn vào biểu tượng làm mới",
+      "select_application_button": "Không tự động đào nếu ứng dụng của tôi đang chạy",
+      "add_hint": "Thêm ứng dụng bằng cách chọn từ cửa sổ chọn tệp tin",
+      "selected_applications": "Cách ứng dụng đã chọn",
+      "running_applications": "Các ứng dụng đang chạy"
     }
   },
   "term" : {

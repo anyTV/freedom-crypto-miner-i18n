@@ -83,7 +83,11 @@
       "title": "Applications exclusion",
       "description": "Select application(s) that you want to skip idle mining while it's running",
       "filter": "Search an application",
-      "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon"
+      "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon",
+      "select_application_button": "Do not mining if my applications are running",
+      "add_hint": "Add an application by select it from file dialog",
+      "selected_applications": "Selected applications",
+      "running_applications": "Running applications"
     }
   },
   "term" : {
