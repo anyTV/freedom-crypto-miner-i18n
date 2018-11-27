@@ -141,7 +141,7 @@
       "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
       "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
       "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
-      "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to exclusion list, Please click button below to try again or try to restart Crypto Miner",
+      "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
       "windows_defender": "Windows Defender",
       "other_virus_software": "其他的防毒軟體",
       "restart_crypto_miner_button": "Restart Crypto Miner",
