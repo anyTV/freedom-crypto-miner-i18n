@@ -85,7 +85,7 @@
       "reload_hint": "If the application you want to add is not listed, try to start it first and come back and refresh the list.",
       "select_application_button": "Do not mining if my applications are running",
       "add_hint": "Add an application by select it from file dialog",
-      "remove_hint": "Clear all selected applications",
+      "remove_hint": "Remove all selected applications",
       "selected_applications": "Selected applications",
       "running_applications": "Running applications"
     }
