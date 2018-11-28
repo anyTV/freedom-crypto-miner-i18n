@@ -79,15 +79,15 @@
     "mine_even_projected_profit_lost": "繼續挖掘即使估計盈利將會損失利潤？",
     "mine_even_projected_profit_lost_description": "選擇是將會繼續挖掘，即使估計盈利將會損失利潤。選擇否則只挖掘估計盈利有利潤的算法",
     "exclude_applications": {
-      "title": "Applications exclusion",
-      "description": "Select application(s) that you want to skip idle mining while it's running",
-      "filter": "Search an application",
-      "reload_hint": "If the application you want to add is not listed, try to start it first and come back and refresh the list.",
-      "select_application_button": "Do not mining if my applications are running",
-      "add_hint": "Add an application by select it from file dialog",
-      "remove_hint": "Remove all selected applications",
-      "selected_applications": "Selected applications",
-      "running_applications": "Running applications"
+      "title": "排除應用程序",
+      "description": "當下列應用程序運行時，空閒挖掘將不會啟動",
+      "filter": "“搜索應用程序",
+      "reload_hint": "如果未列出要添加的應用程序，請先嘗試啟動它，然後返回並刷新列表。",
+      "select_application_button": "“如果我的應用程序正在運行，不要挖掘",
+      "add_hint": "通過從文件對話框中選擇它來添加應用程序",
+      "remove_hint": "刪除所有選定的應用程序",
+      "selected_applications": "選定的應用程序",
+      "running_applications": "正在運行的應用程序"
     }
   },
   "term": {
@@ -141,12 +141,12 @@
       "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
       "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
       "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
-      "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
-      "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
+      "auto_add_miners_folder_to_exclusion_list_error_title": "採礦工具錯誤排除",
+      "auto_add_miners_folder_to_exclusion_list_error_message": "採礦工具文件夾添加到Windows Defender的排除列表時出錯，請單擊下面的按鈕再試一次或嘗​​試重新啟動Crypto Miner",
       "windows_defender": "Windows Defender",
       "other_virus_software": "其他的防毒軟體",
-      "restart_crypto_miner_button": "Restart Crypto Miner",
-      "exclusion_confirm_button": "I have added miners folder to my Antivirus software"
+      "restart_crypto_miner_button": "重啟Crypto Miner",
+      "exclusion_confirm_button": "我已將採礦工具文件夾添加到我的防病毒軟件排除列表"
     }
   },
   "estimation": {
