@@ -18,7 +18,7 @@
     "update": "更新",
     "copy": "複製",
     "copied": "複製完成",
-    "cancel": "Cancel"
+    "cancel": "取消"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -123,7 +123,7 @@
     "error_get_info": "下載錯誤，無法獲取挖掘工具軟體信息",
     "error_hash_verify_failed": "下載挖掘工具軟體時出現錯誤，請重試",
     "error_unzip": "解壓縮zip文件時出錯，請重試",
-    "error_interuption": "The download is interupted, please check your network and try again",
+    "error_interruption": "下載已中斷，請檢查您的網絡，然後重試",
     "initializing": "檢查採礦工具資訊",
     "instruction": {
       "title": "採礦工具設定指南",
@@ -135,8 +135,8 @@
       "windows_defender": "Windows Defender",
       "other_virus_software": "其他的防毒軟體"
     },
-    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) as soon as possible.",
-    "mining_tool_uptodate": "All mining tools are up-to-date"
+    "missing_mining_tool": "為了達到最高利潤的採礦，請盡快更新採礦工具。",
+    "mining_tool_uptodate": "所有採礦工具都是最新的"
   },
   "estimation": {
     "setup_wattage": "設置預估電費",

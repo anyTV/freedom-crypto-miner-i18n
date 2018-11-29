@@ -123,7 +123,7 @@
     "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
     "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu",
-    "error_interuption": "The download is interupted, please check your network and try again",
+    "error_interruption": "The download is interrupted, please check your network and try again",
     "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
@@ -135,7 +135,7 @@
       "windows_defender": "Windows Defender",
       "other_virus_software": "Others Antivirus Software"
     },
-    "missing_mining_tool": "For the mining with best profit, please try to update the mining tool(s) as soon as possible.",
+    "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
     "mining_tool_uptodate": "All mining tools are up-to-date"
   },
   "estimation": {

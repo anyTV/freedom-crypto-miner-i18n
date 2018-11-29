@@ -123,7 +123,7 @@
     "error_get_info": "Lỗi xảy ra khi kết nối đến máy chủ",
     "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
-    "error_interuption": "Tải thất bại, vui lòng kiểm tra đường truyền và thử lại",
+    "error_interruption": "Tải thất bại, vui lòng kiểm tra đường truyền và thử lại",
     "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
     "instruction": {
       "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
