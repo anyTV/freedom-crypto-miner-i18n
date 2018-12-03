@@ -113,7 +113,8 @@
     "validate_fail_unsupported_device": "Unsupported device",
     "predict_dag_expire_date": "DAG size of {{crypto}} is {{dagSize}} MB. Your Video RAM ({{curRAM}} MB) can mine to {{expireAt}}",
     "benchmark_algorithm_fail": "Benchmark fail for algorithms: {{algorithms}}",
-    "mining_in_non_admin_mode": "You are mining in non-admin mode and the performance may effect in this mode, Please follow the below guideline to know to get best mining performance"
+    "mining_in_non_admin_mode": "You are mining in non-admin mode and the performance may effect in this mode, Please follow the below guideline to know how to get best mining performance",
+    "mining_in_non_admin_mode_title": "Mining in non-admin mode"
   },
   "miner_downloader": {
     "version" : "version",
