@@ -17,7 +17,8 @@
     "close" : "Đóng",
     "update": "Cập nhật",
     "copy": "Sao chép",
-    "copied": "Đã sao chép"
+    "copied": "Đã sao chép",
+    "cancel": "Cancel"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -133,6 +134,7 @@
     "error_get_info": "Lỗi xảy ra khi kết nối đến máy chủ",
     "error_hash_verify_failed" : "Lỗi xảy ra khi tải công cụ đào tiền ảo, vui lòng thử lại",
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
+    "error_interruption": "Tải thất bại, vui lòng kiểm tra đường truyền và thử lại",
     "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
     "checking_windows_defender_config": "Đang kiểm tra các thiết lập với Windows Depender",
     "instruction": {
@@ -148,7 +150,9 @@
       "other_virus_software": "Các chương trình diệt virus khác",
       "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
       "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình"
-    }
+    },
+    "missing_mining_tool": "Để tối ưu lợi nhuận, vui lòng nhập nhật công cụ đào sớm nhất có thể.",
+    "mining_tool_uptodate": "Tất cả công cụ đã cập nhật mới nhất"
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",

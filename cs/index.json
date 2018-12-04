@@ -17,7 +17,8 @@
     "close" : "Zavřít",
     "update": "Aktualizovat",
     "copy": "Copy",
-    "copied": "Copied"
+    "copied": "Copied",
+    "cancel": "Cancel"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není",
@@ -133,6 +134,7 @@
     "error_get_info": "Při získávání těžebních informací se vyskytla chyba",
     "error_hash_verify_failed" : "Při stahování těžebního nástroje se vyskytla chyba, zkuste to znovu",
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu",
+    "error_interruption": "The download is interrupted, please check your network and try again",
     "initializing": "Checking mining tool information",
     "checking_windows_defender_config": "Checking Windows Defender configuration",
     "instruction": {
@@ -148,7 +150,9 @@
       "other_virus_software": "Others Antivirus Software",
       "restart_crypto_miner_button": "Restart Crypto Miner",
       "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list."
-    }
+    },
+    "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
+    "mining_tool_uptodate": "All mining tools are up-to-date"
   },
   "estimation": {
     "setup_wattage": "Kliknutím nastavte příkon pro přesnější odhad",
