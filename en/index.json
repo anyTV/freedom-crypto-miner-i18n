@@ -17,7 +17,8 @@
     "close" : "Close",
     "update": "Update",
     "copy": "Copy",
-    "copied": "Copied"
+    "copied": "Copied",
+    "cancel": "Cancel"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -124,6 +125,7 @@
     "error_get_info": "Error while get mining information",
     "error_hash_verify_failed" : "Has some error while download mining tool, please try again",
     "error_unzip" : "Error while decompress zip file, please try again",
+    "error_interruption": "The download is interrupted, please check your network and try again",
     "initializing": "Checking mining tool information",
     "instruction": {
       "title": "Mining tool instruction",
@@ -134,7 +136,9 @@
       "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
       "windows_defender": "Windows Defender",
       "other_virus_software": "Others Antivirus Software"
-    }
+    },
+    "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
+    "mining_tool_uptodate": "All mining tools are up-to-date"
   },
   "estimation": {
     "setup_wattage": "Click to setup wattage for more accurate estimation",
