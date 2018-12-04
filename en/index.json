@@ -162,6 +162,7 @@
     "non_admin_mode": {
       "title": "How to get best mining performance?",
       "description": "The guideline to help you get best mining performance in non-admin mode",
+      "confirm_run_as_administrator_button": "I followed to above steps & finished it",
       "guideline_button":  "Guideline me to get best mining performance"
     }
   },
