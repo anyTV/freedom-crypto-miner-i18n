@@ -79,7 +79,19 @@
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
     "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
     "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
-    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only"
+    "mine_even_projected_profit_lost_description": "Yes to mine all coins in your preferred list, No to mine filtered profitable cryptoes only",
+    "exclude_applications": {
+      "title": "Applications exclusion",
+      "description": "Select application(s) that you want to skip idle mining while it's running",
+      "filter": "Search an application",
+      "reload_hint": "If the application you want to add is not listed, try to start it first and come back and refresh the list.",
+      "select_application_button": "Do not mining if my applications are running",
+      "add_hint": "Add an application by select it from file dialog",
+      "remove_hint": "Remove all selected applications",
+      "selected_applications": "Selected applications",
+      "running_applications": "Running applications",
+      "application_filter": "Applications"
+    }
   },
   "term" : {
     "term_and_condition" : "AGBs",
@@ -125,6 +137,7 @@
     "error_unzip" : "Error while decompress zip file, please try again",
     "error_interruption": "The download is interrupted, please check your network and try again",
     "initializing": "Checking mining tool information",
+    "checking_windows_defender_config": "Checking Windows Defender configuration",
     "instruction": {
       "title": "Mining tool instruction",
       "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
@@ -132,8 +145,12 @@
       "add_to_exclusion_button": "Auto add miners folder to Exclude list",
       "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
       "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
+      "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
+      "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
       "windows_defender": "Windows Defender",
-      "other_virus_software": "Others Antivirus Software"
+      "other_virus_software": "Others Antivirus Software",
+      "restart_crypto_miner_button": "Restart Crypto Miner",
+      "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list."
     },
     "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
     "mining_tool_uptodate": "All mining tools are up-to-date"

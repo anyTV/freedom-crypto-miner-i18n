@@ -78,7 +78,19 @@
     "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
     "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực",
     "mine_even_projected_profit_lost": "Đào ngay cả khi ước tính là không có lợi nhuận?",
-    "mine_even_projected_profit_lost_description": "Bật cài đặt khi bạn muốn đào tiền ảo từ danh sách thuật toán bạn muốn đào, Tắt cài đặt khi bạn chỉ muốn đào những tiền ảo có lợi nhuận"
+    "mine_even_projected_profit_lost_description": "Bật cài đặt khi bạn muốn đào tiền ảo từ danh sách thuật toán bạn muốn đào, Tắt cài đặt khi bạn chỉ muốn đào những tiền ảo có lợi nhuận",
+    "exclude_applications": {
+      "title": "Danh sách ứng dụng ngoại lệ",
+      "description": "Chọn ứng dụng bạn muốn tắt chế độ tự động đào nếu nó đang chạy",
+      "filter": "Tìm kiếm ứng dụng",
+      "reload_hint": "Nếu ứng dụng bạn muốn tìm không có trong danh sách bên dưới, hãy thử mở ứng dụng đó và nhấn vào biểu tượng làm mới",
+      "select_application_button": "Không tự động đào nếu ứng dụng của tôi đang chạy",
+      "add_hint": "Thêm ứng dụng bằng cách chọn từ cửa sổ chọn tệp tin",
+      "remove_hint": "Xóa tất cả các ứng dụng đã chọn",
+      "selected_applications": "Cách ứng dụng đã chọn",
+      "running_applications": "Các ứng dụng đang chạy",
+      "application_filter": "Ứng dụng"
+    }
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
@@ -125,6 +137,7 @@
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
     "error_interruption": "Tải thất bại, vui lòng kiểm tra đường truyền và thử lại",
     "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
+    "checking_windows_defender_config": "Đang kiểm tra các thiết lập với Windows Depender",
     "instruction": {
       "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
       "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
@@ -132,8 +145,12 @@
       "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
       "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
+      "auto_add_miners_folder_to_exclusion_list_error_title": "Lỗi thêm thư mục máy đào vào danh sách ngoại lệ",
+      "auto_add_miners_folder_to_exclusion_list_error_message": "Lỗi khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng nhấn nút bên dưới để thử lại hay khởi động lại Crypto Miner",
       "windows_defender": "Windows Defender",
-      "other_virus_software": "Các chương trình diệt virus khác"
+      "other_virus_software": "Các chương trình diệt virus khác",
+      "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
+      "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình"
     },
     "missing_mining_tool": "Để tối ưu lợi nhuận, vui lòng nhập nhật công cụ đào sớm nhất có thể.",
     "mining_tool_uptodate": "Tất cả công cụ đã cập nhật mới nhất"
