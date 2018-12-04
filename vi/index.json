@@ -88,7 +88,8 @@
       "add_hint": "Thêm ứng dụng bằng cách chọn từ cửa sổ chọn tệp tin",
       "remove_hint": "Xóa tất cả các ứng dụng đã chọn",
       "selected_applications": "Cách ứng dụng đã chọn",
-      "running_applications": "Các ứng dụng đang chạy"
+      "running_applications": "Các ứng dụng đang chạy",
+      "application_filter": "Ứng dụng"
     }
   },
   "term" : {

@@ -88,7 +88,8 @@
       "add_hint": "Add an application by select it from file dialog",
       "remove_hint": "Remove all selected applications",
       "selected_applications": "Selected applications",
-      "running_applications": "Running applications"
+      "running_applications": "Running applications",
+      "application_filter": "Applications"
     }
   },
   "term" : {
