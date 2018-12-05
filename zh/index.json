@@ -142,7 +142,8 @@
     "checking_windows_defender_config": "正在檢查Windows Defender設定",
     "download_button": "開始下載採礦工具",
     "missing_mining_tool": "為了達到最高利潤的採礦，請盡快更新採礦工具。",
-    "mining_tool_uptodate": "所有採礦工具都是最新的"
+    "mining_tool_uptodate": "所有採礦工具都是最新的",
+    "partial_download": "{{doneItems}} out of {{totalItems}}"
   },
   "miner_exclusion": {
     "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
