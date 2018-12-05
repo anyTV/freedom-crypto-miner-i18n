@@ -156,7 +156,12 @@
     "other_virus_software": "Các chương trình diệt virus khác",
     "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
     "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình",
-    "setup_exclusion": "Các thiết lập yêu cầu"
+    "setup_exclusion": "Các thiết lập yêu cầu",
+    "heading": "Exclude from Windows Defender",
+    "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
+    "add_exclusion": "ADD EXCLUSIONS",
+    "how_to_add_manually": "How to add manually?",
+    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS"
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",

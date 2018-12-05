@@ -156,7 +156,12 @@
     "other_virus_software": "Others Antivirus Software",
     "restart_crypto_miner_button": "Restart Crypto Miner",
     "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list.",
-    "setup_exclusion": "Setup Exclusions"
+    "setup_exclusion": "Setup Exclusions",
+    "heading": "Exclude from Windows Defender",
+    "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
+    "add_exclusion": "ADD EXCLUSIONS",
+    "how_to_add_manually": "How to add manually?",
+    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS"
   },
   "estimation": {
     "setup_wattage": "Kliknutím nastavte příkon pro přesnější odhad",
