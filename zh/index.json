@@ -18,7 +18,8 @@
     "update": "更新",
     "copy": "複製",
     "copied": "複製完成",
-    "cancel": "取消"
+    "cancel": "取消",
+    "downloaded": "Downloaded"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",

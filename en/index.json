@@ -18,7 +18,8 @@
     "update": "Update",
     "copy": "Copy",
     "copied": "Copied",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "downloaded": "Downloaded"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
