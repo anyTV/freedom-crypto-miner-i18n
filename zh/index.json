@@ -125,18 +125,19 @@
     "error_unzip": "解壓縮zip文件時出錯，請重試",
     "error_interruption": "下載已中斷，請檢查您的網絡，然後重試",
     "initializing": "檢查採礦工具資訊",
-    "instruction": {
-      "title": "採礦工具設定指南",
-      "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
-      "download_button": "開始下載採礦工具",
-      "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
-      "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
-      "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
-      "windows_defender": "Windows Defender",
-      "other_virus_software": "其他的防毒軟體"
-    },
+    "instruction_title": "採礦工具設定指南",
+    "download_button": "開始下載採礦工具",
     "missing_mining_tool": "為了達到最高利潤的採礦，請盡快更新採礦工具。",
     "mining_tool_uptodate": "所有採礦工具都是最新的"
+  },
+  "miner_exclusion": {
+    "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
+    "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
+    "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
+    "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
+    "windows_defender": "Windows Defender",
+    "other_virus_software": "其他的防毒軟體",
+    "setup_exclusion": "Setup Exclusions"
   },
   "estimation": {
     "setup_wattage": "設置預估電費",
