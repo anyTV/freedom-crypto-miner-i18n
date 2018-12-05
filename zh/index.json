@@ -79,7 +79,19 @@
     "gpu_mining_description" : "開始挖掘時自動使用GPU挖掘",
     "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改",
     "mine_even_projected_profit_lost": "繼續挖掘即使估計盈利將會損失利潤？",
-    "mine_even_projected_profit_lost_description": "選擇是將會繼續挖掘，即使估計盈利將會損失利潤。選擇否則只挖掘估計盈利有利潤的算法"
+    "mine_even_projected_profit_lost_description": "選擇是將會繼續挖掘，即使估計盈利將會損失利潤。選擇否則只挖掘估計盈利有利潤的算法",
+    "exclude_applications": {
+      "title": "排除應用程序",
+      "description": "當下列應用程序運行時，空閒挖掘將不會啟動",
+      "filter": "“搜索應用程序",
+      "reload_hint": "如果未列出要添加的應用程序，請先嘗試啟動它，然後返回並刷新列表。",
+      "select_application_button": "“如果我的應用程序正在運行，不要挖掘",
+      "add_hint": "通過從文件對話框中選擇它來添加應用程序",
+      "remove_hint": "刪除所有選定的應用程序",
+      "selected_applications": "選定的應用程序",
+      "running_applications": "正在運行的應用程序",
+      "application_filter": "應用程序"
+    }
   },
   "term": {
     "term_and_condition": "條款和條件",
@@ -126,18 +138,24 @@
     "error_unzip": "解壓縮zip文件時出錯，請重試",
     "error_interruption": "下載已中斷，請檢查您的網絡，然後重試",
     "initializing": "檢查採礦工具資訊",
-    "instruction": {
-      "title": "採礦工具設定指南",
-      "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
-      "download_button": "開始下載採礦工具",
-      "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
-      "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
-      "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
-      "windows_defender": "Windows Defender",
-      "other_virus_software": "其他的防毒軟體"
-    },
+    "instruction_title": "採礦工具設定指南",
+    "checking_windows_defender_config": "正在檢查Windows Defender設定",
+    "download_button": "開始下載採礦工具",
     "missing_mining_tool": "為了達到最高利潤的採礦，請盡快更新採礦工具。",
     "mining_tool_uptodate": "所有採礦工具都是最新的"
+  },
+  "miner_exclusion": {
+    "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
+    "add_to_exclusion_button": "自動添加採礦工具文件夾到排除列表",
+    "add_miners_folder_to_exclusion_list_successful": "採礦工具文件夾已成功添加到排除列表中",
+    "add_miners_folder_to_exclusion_list_error": "將採礦工具文件夾添加到排除列表時失敗，請再試一次或手動執行",
+    "auto_add_miners_folder_to_exclusion_list_error_title": "採礦工具錯誤排除",
+    "auto_add_miners_folder_to_exclusion_list_error_message": "採礦工具文件夾添加到Windows Defender的排除列表時出錯，請單擊下面的按鈕再試一次或嘗​​試重新啟動Crypto Miner",
+    "windows_defender": "Windows Defender",
+    "other_virus_software": "其他的防毒軟體",
+    "restart_crypto_miner_button": "重啟Crypto Miner",
+    "exclusion_confirm_button": "我已將採礦工具文件夾添加到我的防病毒軟件排除列表",
+    "setup_exclusion": "Setup Exclusions"
   },
   "estimation": {
     "setup_wattage": "設置預估電費",
