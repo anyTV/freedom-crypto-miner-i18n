@@ -18,7 +18,8 @@
     "update": "Cập nhật",
     "copy": "Sao chép",
     "copied": "Đã sao chép",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "downloaded": "Downloaded"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
