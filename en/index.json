@@ -19,7 +19,11 @@
     "copy": "Copy",
     "copied": "Copied",
     "cancel": "Cancel",
-    "downloaded": "Downloaded"
+    "downloaded": "Downloaded",
+    "start_mining": "Start Mining",
+    "stop_mining": "Start Mining",
+    "more_info": "More Info",
+    "less_info": "Less Info"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -36,7 +40,11 @@
     "current_worker" : "Current worker",
     "benchmark_to_show_erning" : "Benchmark to show earning estimation",
     "you_are_anonymous_mining" : "You are in anonymous mining mode. You should signin for payment",
-    "miner_not_effective" : "Current miner is not effective. Trying to switch other miner"
+    "miner_not_effective" : "Current miner is not effective. Trying to switch other miner",
+    "hardware": "hardware",
+    "mining_speed": "Mining speed",
+    "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
+    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware detail",
