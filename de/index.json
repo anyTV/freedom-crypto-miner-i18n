@@ -142,7 +142,8 @@
     "checking_windows_defender_config": "Checking Windows Defender configuration",
     "download_button": "Start download miners",
     "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
-    "mining_tool_uptodate": "All mining tools are up-to-date"
+    "mining_tool_uptodate": "All mining tools are up-to-date",
+    "partial_download": "{{doneItems}} out of {{totalItems}}"
   },
   "miner_exclusion": {
     "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
