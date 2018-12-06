@@ -160,6 +160,7 @@
     "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
     "add_exclusion": "ADD EXCLUSIONS",
     "how_to_add_manually": "How to add manually?",
+    "add_exclusions_manually": "Add exclusions manually",
     "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS"
   },
   "estimation": {
