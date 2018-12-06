@@ -21,10 +21,14 @@
     "cancel": "Cancel",
     "downloaded": "Downloaded",
     "start_mining": "Start Mining",
-    "stop_mining": "Start Mining",
+    "stop_mining": "Stop Mining",
     "more_info": "More Info",
     "less_info": "Less Info",
-    "your_account": "Your account"
+    "your_account": "Your account",
+    "estimates": "Estimates",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "yearly": "Yearly"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -45,7 +49,9 @@
     "hardware": "hardware",
     "mining_speed": "Mining speed",
     "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
-    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more"
+    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
+    "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
+    "start_benchmark": "Start benchmark"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware detail",
