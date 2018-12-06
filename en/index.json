@@ -128,7 +128,8 @@
     "total_balance" : "Total balance",
     "coin_name" : "Coin name",
     "paid": "Paid",
-    "unpaid": "Unpaid"
+    "unpaid": "Unpaid",
+    "your_balance": "Your balance"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
