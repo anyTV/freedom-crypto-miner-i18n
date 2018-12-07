@@ -205,7 +205,8 @@
   },
   "instruction": {
     "usage_instruction": "usage instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues",
+    "mining_tips": "Mining Tips"
   },
   "affiliate_info": {
     "referrals": "referrals",
