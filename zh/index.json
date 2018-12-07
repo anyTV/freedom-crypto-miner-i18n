@@ -184,7 +184,8 @@
     "verify_payment": "Verify payment",
     "payment_verified": "Payment verified",
     "payment_test_failure": "無法執行驗證付款!",
-    "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式"
+    "payment_not_found": "付款方式還未設定! 請先到Freedom!增加一個付款方式",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "使用說明",

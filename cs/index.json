@@ -184,7 +184,8 @@
     "verify_payment": "Verify payment",
     "payment_verified": "Payment verified",
     "payment_test_failure": "Failed to enqueue test payment!",
-    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "usage instruction",

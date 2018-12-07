@@ -184,7 +184,8 @@
     "verify_payment": "Verify payment",
     "payment_verified": "Payment verified",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
-    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
