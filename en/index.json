@@ -29,7 +29,8 @@
     "daily": "Daily",
     "monthly": "Monthly",
     "yearly": "Yearly",
-    "select_language": "Select language"
+    "select_language": "Select language",
+    "evaluting": "Evaluting"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -68,7 +69,9 @@
     "progress" : "Progress",
     "stop_benchmark" : "Stop Benchmark",
     "internet_status_connected" : "Connected",
-    "internet_status_disconnected" : "Disconnected"
+    "internet_status_disconnected" : "Disconnected",
+    "benchmarking_title": "One moment please",
+    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
