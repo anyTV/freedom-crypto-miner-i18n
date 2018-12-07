@@ -169,9 +169,10 @@
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Công suất",
-    "wattage_cost": "Chi phí điện",
+    "wattage_per_hour": "Công suất trên giờ",
+    "wattage_cost": "Chi phí điện trên 1 kilowatt điện",
     "mining_electricity_consumption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
-    "electric_cost": "Chi phí điện cho 1kWh",
+    "electric_cost": "Chi phí điện tiêu thụ của GPUs/CPUs",
     "estimate_again": "Ước tính lại",
     "use_detected_wattage" : "Lấy công suất từ máy đào"
   },

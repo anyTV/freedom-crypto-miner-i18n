@@ -169,6 +169,7 @@
     "revenue_acronum": "Příjem",
     "profit_acronum": "Zisk",
     "wattage": "Příkon",
+    "wattage_per_hour": "Příkon",
     "wattage_cost": "Náklady",
     "mining_electricity_consumption": "Spotřeba el. energie vašich GPU/CPU při těžbě",
     "electric_cost": "Cena elektřiny za 1 kWh",

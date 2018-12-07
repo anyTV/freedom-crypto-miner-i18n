@@ -169,6 +169,7 @@
     "revenue_acronum": "收入",
     "profit_acronum": "利潤",
     "wattage": "瓦數",
+    "wattage_per_hour": "瓦數",
     "wattage_cost": "電費",
     "mining_electricity_consumption": "挖掘時的耗電量",
     "electric_cost": "電費 1 kWh",

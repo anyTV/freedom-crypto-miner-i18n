@@ -186,9 +186,10 @@
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Wattage",
-    "wattage_cost": "Wattage cost",
+    "wattage_per_hour": "Watts per hour",
+    "wattage_cost": "Wattage cost per kilowatt hour",
     "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
-    "electric_cost": "Electricity cost for 1 kWh",
+    "electric_cost": "Mining electricity consumption of your GPUs/CPUs",
     "estimate_again": "Estimate again",
     "use_detected_wattage" : "Use wattage data obtained from Miner"
   },
