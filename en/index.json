@@ -48,6 +48,7 @@
     "miner_not_effective" : "Current miner is not effective. Trying to switch other miner",
     "hardware": "hardware",
     "mining_speed": "Mining speed",
+    "mining_temperature": "Mining temperature",
     "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
     "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
     "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
@@ -205,7 +206,8 @@
   },
   "instruction": {
     "usage_instruction": "usage instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues",
+    "mining_tips": "Mining Tips"
   },
   "affiliate_info": {
     "referrals": "referrals",
