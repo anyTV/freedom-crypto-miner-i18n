@@ -28,7 +28,8 @@
     "estimates": "Estimates",
     "daily": "Daily",
     "monthly": "Monthly",
-    "yearly": "Yearly"
+    "yearly": "Yearly",
+    "select_language": "Select language"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
