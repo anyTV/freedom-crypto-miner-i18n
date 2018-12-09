@@ -200,5 +200,12 @@
   },
   "my_account": {
     "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Hướng dẫn đào",
+    "send_feedback": "Gửi phản hồi",
+    "settings": "Cài đặt",
+    "about": "Về chúng tôi",
+    "language": "Ngôn ngữ"
   }
 }

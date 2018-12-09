@@ -222,5 +222,12 @@
   },
   "my_account": {
     "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Mining tips",
+    "send_feedback": "Send feedback",
+    "settings": "Settings",
+    "about": "About",
+    "language": "Language"
   }
 }
