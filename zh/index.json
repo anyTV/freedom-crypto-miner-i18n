@@ -92,7 +92,8 @@
       "selected_applications": "選定的應用程序",
       "running_applications": "正在運行的應用程序",
       "application_filter": "應用程序"
-    }
+    },
+    "title": "Settings"
   },
   "term": {
     "term_and_condition": "條款和條件",

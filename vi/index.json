@@ -92,7 +92,8 @@
       "selected_applications": "Cách ứng dụng đã chọn",
       "running_applications": "Các ứng dụng đang chạy",
       "application_filter": "Ứng dụng"
-    }
+    },
+    "title": "Cài đặt"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",

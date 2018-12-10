@@ -114,7 +114,8 @@
       "selected_applications": "Selected applications",
       "running_applications": "Running applications",
       "application_filter": "Applications"
-    }
+    },
+    "title": "Settings"
   },
   "term" : {
     "term_and_condition" : "term and condition",
