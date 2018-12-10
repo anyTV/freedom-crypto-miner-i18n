@@ -159,6 +159,7 @@
     "setup_exclusion": "Các thiết lập yêu cầu",
     "heading": "Exclude from Windows Defender",
     "description_2": "Thêm thư mục Crypto Miner vào ngoại lệ của Windows Defender để cho phép tải về các công cụ đào.",
+    "description_3": "Thêm thư mục Crypto! Miner vào ngoại lệ của các chương trình chống virus",
     "add_exclusion": "TỰ ĐỘNG THIẾT LẬP",
     "how_to_add_manually": "Thiết lập thủ công như thế nào?",
     "add_exclusions_manually": "Thiết lập thủ công",
