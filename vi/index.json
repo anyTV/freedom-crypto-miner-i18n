@@ -159,7 +159,7 @@
     "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
     "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình",
     "setup_exclusion": "Các thiết lập yêu cầu",
-    "heading": "Exclude from Windows Defender",
+    "heading": "Thiết lập ngoại lệ trên Windows Defender",
     "description_2": "Thêm thư mục Crypto Miner vào ngoại lệ của Windows Defender để cho phép tải về các công cụ đào.",
     "description_3": "Thêm thư mục Crypto! Miner vào ngoại lệ của các chương trình chống virus",
     "add_exclusion": "TỰ ĐỘNG THIẾT LẬP",
@@ -185,24 +185,24 @@
     "payment_verification": "Xác minh thanh toán",
     "payment_verification_explain": "Để xác minh tài khoản của bạn có thể nhận thanh toán từ Freedom!, chúng tôi sẽ chuyển cho bạn $0.01.",
     "verify": "Xác minh",
-    "verify_payment": "Verify payment",
-    "payment_verified": "Payment verified",
+    "verify_payment": "Xác minh thanh khoản",
+    "payment_verified": "Đã xác minh",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
     "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!.",
-    "invite_friend_to_pay_more": "Invite friends to earn more"
+    "invite_friend_to_pay_more": "Mời bạn bè để tăng thêm thu nhập"
   },
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
     "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
   },
   "affiliate_info": {
-    "referrals": "giới thiệu",
+    "referrals": "Giới thiệu",
     "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
     "get_referral_account": "Nhận tài khoản giới thiệu",
     "here": "tại đây"
   },
   "my_account": {
-    "your_account": "Your account"
+    "your_account": "Tài khoản"
   },
   "menu": {
     "mining_tips": "Hướng dẫn đào",
