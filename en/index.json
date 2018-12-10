@@ -19,7 +19,18 @@
     "copy": "Copy",
     "copied": "Copied",
     "cancel": "Cancel",
-    "downloaded": "Downloaded"
+    "downloaded": "Downloaded",
+    "start_mining": "Start Mining",
+    "stop_mining": "Stop Mining",
+    "more_info": "More Info",
+    "less_info": "Less Info",
+    "your_account": "Your account",
+    "estimates": "Estimates",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "select_language": "Select language",
+    "evaluting": "Evaluting"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -36,7 +47,14 @@
     "current_worker" : "Current worker",
     "benchmark_to_show_erning" : "Benchmark to show earning estimation",
     "you_are_anonymous_mining" : "You are in anonymous mining mode. You should signin for payment",
-    "miner_not_effective" : "Current miner is not effective. Trying to switch other miner"
+    "miner_not_effective" : "Current miner is not effective. Trying to switch other miner",
+    "hardware": "hardware",
+    "mining_speed": "Mining speed",
+    "mining_temperature": "Mining temperature",
+    "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
+    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
+    "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
+    "start_benchmark": "Start benchmark"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware detail",
@@ -51,7 +69,11 @@
     "progress" : "Progress",
     "stop_benchmark" : "Stop Benchmark",
     "internet_status_connected" : "Connected",
-    "internet_status_disconnected" : "Disconnected"
+    "internet_status_disconnected" : "Disconnected",
+    "benchmarking_title": "One moment please",
+    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
+    "benchmark_success": "Benchmark success",
+    "benchmark_success_description": "You can not view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
@@ -113,7 +135,8 @@
     "total_balance" : "Total balance",
     "coin_name" : "Coin name",
     "paid": "Paid",
-    "unpaid": "Unpaid"
+    "unpaid": "Unpaid",
+    "your_balance": "Your balance"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
@@ -170,9 +193,10 @@
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Wattage",
-    "wattage_cost": "Wattage cost",
+    "wattage_per_hour": "Watts per hour",
+    "wattage_cost": "Wattage cost per kilowatt hour",
     "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
-    "electric_cost": "Electricity cost for 1 kWh",
+    "electric_cost": "Mining electricity consumption of your GPUs/CPUs",
     "estimate_again": "Estimate again",
     "use_detected_wattage" : "Use wattage data obtained from Miner"
   },
@@ -182,17 +206,31 @@
     "payment_verification": "Payment Verification",
     "payment_verification_explain": "To verify if your account can receive payments from Freedom!, we will pay this account an amount of $0.01",
     "verify": "VERIFY",
+    "verify_payment": "Verify payment",
+    "payment_verified": "Payment verified",
     "payment_test_failure": "Failed to enqueue test payment!",
-    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "usage instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues",
+    "mining_tips": "Mining Tips"
   },
   "affiliate_info": {
     "referrals": "referrals",
     "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{here}}.",
     "get_referral_account": "Get my referral account",
     "here": "here"
+  },
+  "my_account": {
+    "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Mining tips",
+    "send_feedback": "Send feedback",
+    "settings": "Settings",
+    "about": "About",
+    "language": "Language"
   }
 }

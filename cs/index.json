@@ -170,6 +170,7 @@
     "revenue_acronum": "Příjem",
     "profit_acronum": "Zisk",
     "wattage": "Příkon",
+    "wattage_per_hour": "Příkon",
     "wattage_cost": "Náklady",
     "mining_electricity_consumption": "Spotřeba el. energie vašich GPU/CPU při těžbě",
     "electric_cost": "Cena elektřiny za 1 kWh",
@@ -182,8 +183,11 @@
     "payment_verification": "Payment Verification",
     "payment_verification_explain": "To verify if your account can receive payments from Freedom!, we will pay this account an amount of $0.01",
     "verify": "VERIFY",
+    "verify_payment": "Verify payment",
+    "payment_verified": "Payment verified",
     "payment_test_failure": "Failed to enqueue test payment!",
-    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "usage instruction",
@@ -194,5 +198,8 @@
     "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{here}}.",
     "get_referral_account": "Get my referral account",
     "here": "here"
+  },
+  "my_account": {
+    "your_account": "Your account"
   }
 }

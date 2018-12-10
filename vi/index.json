@@ -170,9 +170,10 @@
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Công suất",
-    "wattage_cost": "Chi phí điện",
+    "wattage_per_hour": "Công suất trên giờ",
+    "wattage_cost": "Chi phí điện trên 1 kilowatt điện",
     "mining_electricity_consumption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
-    "electric_cost": "Chi phí điện cho 1kWh",
+    "electric_cost": "Chi phí điện tiêu thụ của GPUs/CPUs",
     "estimate_again": "Ước tính lại",
     "use_detected_wattage" : "Lấy công suất từ máy đào"
   },
@@ -182,8 +183,11 @@
     "payment_verification": "Xác minh thanh toán",
     "payment_verification_explain": "Để xác minh tài khoản của bạn có thể nhận thanh toán từ Freedom!, chúng tôi sẽ chuyển cho bạn $0.01.",
     "verify": "Xác minh",
+    "verify_payment": "Verify payment",
+    "payment_verified": "Payment verified",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
-    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
@@ -194,5 +198,15 @@
     "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
     "get_referral_account": "Nhận tài khoản giới thiệu",
     "here": "tại đây"
+  },
+  "my_account": {
+    "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Hướng dẫn đào",
+    "send_feedback": "Gửi phản hồi",
+    "settings": "Cài đặt",
+    "about": "Về chúng tôi",
+    "language": "Ngôn ngữ"
   }
 }

@@ -170,9 +170,10 @@
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Wattage",
-    "wattage_cost": "Wattage cost",
+    "wattage_per_hour": "Watts per hour",
+    "wattage_cost": "Wattage cost per kilowatt hour",
     "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
-    "electric_cost": "Electricity cost for 1 kWh",
+    "electric_cost": "Mining electricity consumption of your GPUs/CPUs",
     "estimate_again": "Estimate again",
     "use_detected_wattage" : "Use wattage data obtained from Miner"
   },
@@ -182,8 +183,11 @@
     "payment_verification": "Payment Verification",
     "payment_verification_explain": "To verify if your account can receive payments from Freedom!, we will pay this account an amount of $0.01",
     "verify": "VERIFY",
+    "verify_payment": "Verify payment",
+    "payment_verified": "Payment verified",
     "payment_test_failure": "Failed to enqueue test payment!",
-    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "usage instruction",
@@ -194,5 +198,8 @@
     "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{here}}.",
     "get_referral_account": "Get my referral account",
     "here": "here"
+  },
+  "my_account": {
+    "your_account": "Your account"
   }
 }
