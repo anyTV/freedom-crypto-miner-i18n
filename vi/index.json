@@ -86,6 +86,7 @@
       "filter": "Tìm kiếm ứng dụng",
       "reload_hint": "Nếu ứng dụng bạn muốn tìm không có trong danh sách bên dưới, hãy thử mở ứng dụng đó và nhấn vào biểu tượng làm mới",
       "select_application_button": "Không tự động đào nếu ứng dụng của tôi đang chạy",
+      "exception_button": "Ngoại lệ",
       "add_hint": "Thêm ứng dụng bằng cách chọn từ cửa sổ chọn tệp tin",
       "remove_hint": "Xóa tất cả các ứng dụng đã chọn",
       "selected_applications": "Cách ứng dụng đã chọn",

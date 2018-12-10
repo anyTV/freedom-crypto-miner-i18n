@@ -86,6 +86,7 @@
       "filter": "Search an application",
       "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon",
       "select_application_button": "Do not mining if my applications are running",
+      "exception_button": "Exception",
       "add_hint": "Add an application by select it from file dialog",
       "remove_hint": "Remove all selected applications",
       "selected_applications": "Selected applications",

@@ -86,6 +86,7 @@
       "filter": "“搜索應用程序",
       "reload_hint": "如果未列出要添加的應用程序，請先嘗試啟動它，然後返回並刷新列表。",
       "select_application_button": "“如果我的應用程序正在運行，不要挖掘",
+      "exception_button": "Exception",
       "add_hint": "通過從文件對話框中選擇它來添加應用程序",
       "remove_hint": "刪除所有選定的應用程序",
       "selected_applications": "選定的應用程序",
