@@ -71,7 +71,9 @@
     "internet_status_connected" : "Connected",
     "internet_status_disconnected" : "Disconnected",
     "benchmarking_title": "One moment please",
-    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware"
+    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
+    "benchmark_success": "Benchmark success",
+    "benchmark_success_description": "You can not view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
