@@ -30,7 +30,8 @@
     "monthly": "Monthly",
     "yearly": "Yearly",
     "select_language": "Select language",
-    "evaluating": "Evaluating"
+    "evaluating": "Evaluating",
+    "loading": "Loading"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
