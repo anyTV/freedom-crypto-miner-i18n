@@ -116,7 +116,9 @@
       "running_applications": "Running applications",
       "application_filter": "Applications"
     },
-    "title": "Settings"
+    "title": "Settings",
+    "allowed_minimize_to_tray": "Minimize to tray",
+    "allowed_minimize_to_tray_description": "Keep miner running in background when closed"
   },
   "term" : {
     "term_and_condition" : "term and condition",
