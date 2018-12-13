@@ -55,7 +55,9 @@
     "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
     "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
     "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
-    "start_benchmark": "Start benchmark"
+    "start_benchmark": "Start benchmark",
+    "evaluate_your_hardware": "Evaluate your hardware to view estimates",
+    "this_may_take_up_30_min": "This may take up to 30 minutes depending on your hardware"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware detail",
