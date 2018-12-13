@@ -31,7 +31,8 @@
     "yearly": "Yearly",
     "select_language": "Select language",
     "evaluating": "Evaluating",
-    "loading": "Loading"
+    "loading": "Loading",
+    "anonymous_mode": "Anonymous mode"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
