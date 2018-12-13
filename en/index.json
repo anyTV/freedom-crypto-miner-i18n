@@ -77,7 +77,7 @@
     "benchmarking_title": "One moment please",
     "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
     "benchmark_success": "Benchmark success",
-    "benchmark_success_description": "You can not view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
+    "benchmark_success_description": "You can now view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
@@ -182,7 +182,9 @@
     "download_button": "Start download miners",
     "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
     "mining_tool_uptodate": "All mining tools are up-to-date",
-    "partial_download": "{{doneItems}} out of {{totalItems}}"
+    "partial_download": "{{doneItems}} out of {{totalItems}}",
+    "crypto_mining_algorithms": "Crypto mining algorithms",
+    "seconds_left": "seconds left"
   },
   "miner_exclusion": {
     "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
