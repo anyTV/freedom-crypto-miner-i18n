@@ -97,6 +97,7 @@
     "log_to_file" : "Log to file",
     "log_to_file_v2" : "Enable logging",
     "miner_off_notification": "Miner off notification",
+    "miner_off_notification_v2": "Send email notification when miner stops",
     "miner_off_notification_description": "An email will be sent if miner is stopped unexpectedly",
     "miner_off_notification_description_v2": "Will send an email to {{email}} when miner stops unexpectedly",
     "signin_required": "Please sign in to use this feature",
