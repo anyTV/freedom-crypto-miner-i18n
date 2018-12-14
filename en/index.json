@@ -32,7 +32,9 @@
     "select_language": "Select language",
     "evaluating": "Evaluating",
     "loading": "Loading",
-    "anonymous_mode": "Anonymous mode"
+    "anonymous_mode": "Anonymous mode",
+    "warning": "Warning",
+    "Error": "Error"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
