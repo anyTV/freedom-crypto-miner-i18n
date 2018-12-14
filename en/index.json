@@ -161,7 +161,9 @@
     "paid": "Paid",
     "unpaid": "Unpaid",
     "your_balance": "Your balance",
-    "total_mined": "Total mined"
+    "total_mined": "Total mined",
+    "balance_in_anonymous_node": "Balance not available in Anonymous mode",
+    "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
