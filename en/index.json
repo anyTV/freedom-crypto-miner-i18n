@@ -39,7 +39,8 @@
       "hours": "hour(s)",
       "days": "day(s)",
       "months": "month(s)"
-    }
+    },
+    "powered_by": "Powered by"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
