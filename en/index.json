@@ -33,6 +33,14 @@
     "evaluating": "Evaluating",
     "loading": "Loading",
     "anonymous_mode": "Anonymous mode",
+    "datetime": {
+      "seconds": "second(s)",
+      "minutes": "minute(s)",
+      "hours": "hour(s)",
+      "days": "day(s)",
+      "months": "month(s)"
+    },
+    "powered_by": "Powered by",
     "warning": "Warning",
     "Error": "Error"
   },
@@ -79,7 +87,7 @@
     "benchmarking_title": "One moment please",
     "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
     "benchmark_success": "Benchmark success",
-    "benchmark_success_description": "You can not view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
+    "benchmark_success_description": "You can now view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting" : {
     "mining_config" : "Mining configuration",
@@ -154,7 +162,10 @@
     "coin_name" : "Coin name",
     "paid": "Paid",
     "unpaid": "Unpaid",
-    "your_balance": "Your balance"
+    "your_balance": "Your balance",
+    "total_mined": "Total mined",
+    "balance_in_anonymous_node": "Balance not available in Anonymous mode",
+    "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
@@ -184,7 +195,9 @@
     "download_button": "Start download miners",
     "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
     "mining_tool_uptodate": "All mining tools are up-to-date",
-    "partial_download": "{{doneItems}} out of {{totalItems}}"
+    "partial_download": "{{doneItems}} out of {{totalItems}}",
+    "crypto_mining_algorithms": "Crypto mining algorithms",
+    "seconds_left": "{{remainSecond}} {{unit}} left"
   },
   "miner_exclusion": {
     "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
