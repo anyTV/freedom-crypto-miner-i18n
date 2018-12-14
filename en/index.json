@@ -32,7 +32,14 @@
     "select_language": "Select language",
     "evaluating": "Evaluating",
     "loading": "Loading",
-    "anonymous_mode": "Anonymous mode"
+    "anonymous_mode": "Anonymous mode",
+    "datetime": {
+      "seconds": "second(s)",
+      "minutes": "minute(s)",
+      "hours": "hour(s)",
+      "days": "day(s)",
+      "months": "month(s)"
+    }
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -185,7 +192,7 @@
     "mining_tool_uptodate": "All mining tools are up-to-date",
     "partial_download": "{{doneItems}} out of {{totalItems}}",
     "crypto_mining_algorithms": "Crypto mining algorithms",
-    "seconds_left": "seconds left"
+    "seconds_left": "{{remainSecond}} {{unit}} left"
   },
   "miner_exclusion": {
     "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
