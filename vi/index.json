@@ -43,7 +43,8 @@
     "powered_by": "Phát triển bởi",
     "warning": "Cảnh báo",
     "error": "Lỗi",
-    "exit": "Thoát"
+    "exit": "Thoát",
+    "watch_us_on_youtube": "watch_us_on_youtube"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -163,6 +164,7 @@
     "paid": "Đã thanh toán",
     "unpaid": "Chưa thanh toán",
     "your_balance": "Số dư của bạn",
+    "your_balances": "Số dư của bạn",
     "total_mined": "Tống số đào",
     "balance_in_anonymous_node": "Không thể tính thu nhập ở chế độ đào ẩn danh",
     "not_avaiable_in_anonymous_node": "Không hỗ trợ ở chế độ đào ẩn danh"

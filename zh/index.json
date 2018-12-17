@@ -43,7 +43,8 @@
     "powered_by": "Powered by",
     "warning": "Warning",
     "error": "Error",
-    "exit": "Exit"
+    "exit": "Exit",
+    "watch_us_on_youtube": "watch_us_on_youtube"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -164,6 +165,7 @@
     "paid": "已付",
     "unpaid": "未付餘額",
     "your_balance": "Your balance",
+    "your_balances": "Your balances",
     "total_mined": "Total mined",
     "balance_in_anonymous_node": "Balance not available in Anonymous mode",
     "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
