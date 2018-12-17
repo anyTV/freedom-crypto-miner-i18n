@@ -42,7 +42,8 @@
     },
     "powered_by": "Powered by",
     "warning": "Warning",
-    "error": "Error"
+    "error": "Error",
+    "exit": "Exit"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
