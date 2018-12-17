@@ -19,7 +19,31 @@
     "copy": "複製",
     "copied": "複製完成",
     "cancel": "取消",
-    "downloaded": "Downloaded"
+    "downloaded": "Downloaded",
+    "start_mining": "Start Mining",
+    "stop_mining": "Stop Mining",
+    "more_info": "More Info",
+    "hide_info": "Hide Info",
+    "your_account": "Your account",
+    "estimates": "Estimates",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "select_language": "Select language",
+    "evaluating": "Evaluating",
+    "loading": "Loading",
+    "anonymous_mode": "Anonymous mode",
+    "datetime": {
+      "seconds": "second(s)",
+      "minutes": "minute(s)",
+      "hours": "hour(s)",
+      "days": "day(s)",
+      "months": "month(s)"
+    },
+    "powered_by": "Powered by",
+    "warning": "Warning",
+    "error": "Error",
+    "exit": "Exit"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -36,7 +60,16 @@
     "current_worker": "當前礦工",
     "benchmark_to_show_erning": "先測試硬體當作營利估算的基準",
     "you_are_anonymous_mining" : "您處於匿名挖礦模式，請登錄帳號",
-    "miner_not_effective" : "當前的挖礦程式效率低下，將會試著切換至其他挖礦程式"
+    "miner_not_effective" : "當前的挖礦程式效率低下，將會試著切換至其他挖礦程式",
+    "hardware": "hardware",
+    "mining_speed": "Mining speed",
+    "mining_temperature": "Mining temperature",
+    "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
+    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
+    "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
+    "start_benchmark": "Start benchmark",
+    "evaluate_your_hardware": "Evaluate your hardware to view estimates",
+    "this_may_take_up_30_min": "This may take up to 30 minutes depending on your hardware"
   },
   "hardware_detail": {
     "hardware_detail": "硬件細節",
@@ -51,7 +84,11 @@
     "progress": "進度",
     "stop_benchmark": "中止測試",
     "internet_status_connected": "連線正常",
-    "internet_status_disconnected": "連線問題"
+    "internet_status_disconnected": "連線問題",
+    "benchmarking_title": "One moment please",
+    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
+    "benchmark_success": "Benchmark success",
+    "benchmark_success_description": "You can now view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting": {
     "mining_config": "採礦設定",
@@ -61,21 +98,29 @@
     "auto_launch_description": "在電腦啟動時自動啟動應用程序",
     "log_description": "執行紀錄將會儲存在: {{path}}",
     "auto_launch": "自動啟動程序",
+    "auto_launch_v2" : "Run on Startup",
     "auto_mining": "空閒時開始挖掘",
+    "auto_mining_v2" : "Idle Mining",
     "general": "通用",
     "mining": "採礦",
+    "mining_v2": "Miner Setup",
     "about": "關於",
     "log_to_file": "儲存執行紀錄",
+    "log_to_file_v2" : "Enable logging",
     "miner_off_notification": "挖礦程式停止通知",
+    "miner_off_notification_v2": "Send email notification when miner stops",
     "miner_off_notification_description": "當挖礦程式意外停止 我們將發送電子郵件",
+    "miner_off_notification_description_v2": "Will send an email to {{email}} when miner stops unexpectedly",
     "signin_required": "請登錄以使用此功能",
     "preferred_algorithms": "首選的演算法",
     "preferred_algorithms_explaination": "請選擇採礦使用的演算法",
     "preferred_algorithms_warning": "請選擇至少一種演算法",
     "preferred_algorithms_updated": "首選的演算法已成功更新",
     "cpu_mining": "CPU挖掘",
+    "cpu_mining_v2": "Enable CPU mining",
     "cpu_mining_description" : "開始挖掘時自動使用CPU挖掘",
     "gpu_mining": "GPU挖掘",
+    "gpu_mining_v2": "Enable GPU mining",
     "gpu_mining_description" : "開始挖掘時自動使用GPU挖掘",
     "mining_options_changed": "請重新啟動挖掘（單擊停止，開始）以應用更改",
     "mine_even_projected_profit_lost": "繼續挖掘即使估計盈利將會損失利潤？",
@@ -93,7 +138,9 @@
       "running_applications": "正在運行的應用程序",
       "application_filter": "應用程序"
     },
-    "title": "Settings"
+    "title": "Settings",
+    "allowed_minimize_to_tray": "Minimize to tray",
+    "allowed_minimize_to_tray_description": "Keep miner running in background when closed"
   },
   "term": {
     "term_and_condition": "條款和條件",
@@ -115,7 +162,11 @@
     "total_balance" : "總餘額",
     "coin_name" : "硬幣名稱",
     "paid": "已付",
-    "unpaid": "未付餘額"
+    "unpaid": "未付餘額",
+    "your_balance": "Your balance",
+    "total_mined": "Total mined",
+    "balance_in_anonymous_node": "Balance not available in Anonymous mode",
+    "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
   },
   "main": {
     "error_support_64_os_only": "只支援64位元的作業系統",
@@ -145,7 +196,9 @@
     "download_button": "開始下載採礦工具",
     "missing_mining_tool": "為了達到最高利潤的採礦，請盡快更新採礦工具。",
     "mining_tool_uptodate": "所有採礦工具都是最新的",
-    "partial_download": "{{doneItems}} out of {{totalItems}}"
+    "partial_download": "{{doneItems}} out of {{totalItems}}",
+    "crypto_mining_algorithms": "Crypto mining algorithms",
+    "seconds_left": "{{remainSecond}} {{unit}} left"
   },
   "miner_exclusion": {
     "description": "接下來我們將下載一些採礦的軟體，因為Windows Defender會自動將這些採礦軟體認定為病毒而移除，此工具指南可幫助您為添加Freedom！Crypto miner文件夾排除",
@@ -159,6 +212,7 @@
     "restart_crypto_miner_button": "重啟Crypto Miner",
     "exclusion_confirm_button": "我已將採礦工具文件夾添加到我的防病毒軟件排除列表",
     "setup_exclusion": "Setup Exclusions",
+    "setup_exclusion_v2": "Setup exclusions",
     "heading": "Exclude from Windows Defender",
     "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
     "description_3": "Add Crypto! Miner's folders to your antivirus exclusions",
@@ -193,7 +247,8 @@
   },
   "instruction": {
     "usage_instruction": "使用說明",
-    "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧"
+    "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧",
+    "mining_tips": "Mining Tips"
   },
   "affiliate_info": {
     "referrals": "推薦分享",
@@ -203,5 +258,12 @@
   },
   "my_account": {
     "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Mining tips",
+    "send_feedback": "Send feedback",
+    "settings": "Settings",
+    "about": "About",
+    "language": "Language"
   }
 }
