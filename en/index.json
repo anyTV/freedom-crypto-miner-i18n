@@ -43,7 +43,8 @@
     "powered_by": "Powered by",
     "warning": "Warning",
     "error": "Error",
-    "exit": "Exit"
+    "exit": "Exit",
+    "ethereum_dag": "Ethereum DAG"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
