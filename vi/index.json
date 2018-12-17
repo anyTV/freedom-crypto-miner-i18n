@@ -19,7 +19,31 @@
     "copy": "Sao chép",
     "copied": "Đã sao chép",
     "cancel": "Cancel",
-    "downloaded": "Downloaded"
+    "downloaded": "Downloaded",
+    "start_mining": "Bắt đầu",
+    "stop_mining": "Kết thúc",
+    "more_info": "Chi tiết",
+    "hide_info": "Ẩn",
+    "your_account": "Tài khoản",
+    "estimates": "Ước tính",
+    "daily": "Hàng ngày",
+    "monthly": "Hàng tháng",
+    "yearly": "Hàng năm",
+    "select_language": "Chọn ngôn ngữ",
+    "evaluating": "Đang đánh giá",
+    "loading": "Đang tải",
+    "anonymous_mode": "Chế độ ẩn danh",
+    "datetime": {
+      "seconds": "giây",
+      "minutes": "phút",
+      "hours": "giờ",
+      "days": "ngày",
+      "months": "tháng"
+    },
+    "powered_by": "Phát triển bởi",
+    "warning": "Cảnh báo",
+    "error": "Lỗi",
+    "exit": "Thoát"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -36,7 +60,15 @@
     "current_worker" : "Máy đào hiện tại",
     "benchmark_to_show_erning" : "Chạy 'Tính điểm' để hiện doanh thu",
     "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên login để được thanh toán",
-    "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác"
+    "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác",
+    "hardware": "Thiết bị",
+    "mining_speed": "Tốc độ đào",
+    "mining_temperature": "Nhiệt độ đào",
+    "referral_info_signed_in": "Chia sẻ hoặc mời bạn bè bằng liên kết chia sẻ của bạn để nhận hoa hồng và tăng thu nhập",
+    "referral_info_not_signed_in": "Đăng nhập và bắt đầu chia sẻ liên kết của bạn để có nhiều giới thiệu và kiếm nhiều tiền hơn",
+    "benchmark_to_show_estimates": "Đánh giá thiết bị để xem ước lượng thu nhập. Điều này có thể mất (tối đa) 30 phút tùy thuộc vào thiết bị của bạn",
+    "start_benchmark": "Bắt đầu 'Tính điểm'",
+    "evaluate_your_hardware": "Đánh giá thiết bị của bạn để xem ước lượng thu nhập"
   },
   "hardware_detail" : {
     "hardware_detail" : "Cấu hình đào chi tiết",
@@ -51,7 +83,11 @@
     "progress" : "Tiến độ",
     "stop_benchmark" : "Ngừng 'Tính điểm'",
     "internet_status_connected" : "Đang Kết nối",
-    "internet_status_disconnected" : "Mất kết nối"
+    "internet_status_disconnected" : "Mất kết nối",
+    "benchmarking_title": "Vui lòng chờ một lúc",
+    "benchmarking_subtitle": "Điều này có thể mất (tối đa) 30 phút tùy thuộc vào thiết bị của bạn",
+    "benchmark_success": "Đánh giá hoàn tất",
+    "benchmark_success_description": "Bạn có thể xem ước tính thu nhập dựa trên đánh giá này. Bạn có thể đánh giá lại thiết bị ở Cài đặt > Cấu hình đào chi tiết"
   },
   "setting" : {
     "mining_config" : "Cấu hình Máy đào",
@@ -61,21 +97,29 @@
     "auto_launch_description" : "Tự động mở ứng dụng sau khi máy tính khởi động",
     "log_description" : "Tập tin hoạt động được lưu tại: {{path}}",
     "auto_launch" : "Tự động khởi động",
+    "auto_launch_v2" : "Chạy lúc máy khởi động",
     "auto_mining" : "Tự động đào",
+    "auto_mining_v2" : "Đào lúc nhàn rỗi",
     "general" : "Tổng quát",
     "mining": "Cấu hình đào",
+    "mining_v2": "Cấu hình đào",
     "about" : "Về chúng tôi",
     "log_to_file" : "Log vào tập tin",
+    "log_to_file_v2" : "Mở ghi log",
     "miner_off_notification": "Thông báo khi máy đào tắt",
+    "miner_off_notification_v2": "Gửi email thông báo khi máy đào tắt",
     "miner_off_notification_description": "Gửi email thông báo nếu máy đào tắt đột ngột",
+    "miner_off_notification_description_v2": "Sẽ gửi email tới {{email}} khi máy đào tắt bất thường",
     "signin_required": "Đăng nhập để sử dụng tính năng này",
     "preferred_algorithms": "Thuật toán đào",
     "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
     "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
     "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công",
     "cpu_mining": "Đào CPU",
+    "cpu_mining_v2": "Đào bằng CPU",
     "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
     "gpu_mining": "Đào GPU",
+    "gpu_mining_v2": "Đào bằng GPU",
     "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
     "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực",
     "mine_even_projected_profit_lost": "Đào ngay cả khi ước tính là không có lợi nhuận?",
@@ -93,7 +137,9 @@
       "running_applications": "Các ứng dụng đang chạy",
       "application_filter": "Ứng dụng"
     },
-    "title": "Cài đặt"
+    "title": "Cài đặt",
+    "allowed_minimize_to_tray": "Ẩn xuống thanh trạng thái",
+    "allowed_minimize_to_tray_description": "Giữ ứng dụng đào chạy nền khi đóng ứng dụng"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
@@ -115,7 +161,11 @@
     "total_balance" : "Tổng doanh thu",
     "coin_name" : "Loại tiền",
     "paid": "Đã thanh toán",
-    "unpaid": "Chưa thanh toán"
+    "unpaid": "Chưa thanh toán",
+    "your_balance": "Your balance",
+    "total_mined": "Total mined",
+    "balance_in_anonymous_node": "Không thể tính thu nhập ở chế độ đào ẩn danh",
+    "not_avaiable_in_anonymous_node": "Không hỗ trợ ở chế độ đào ẩn danh"
   },
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
@@ -145,7 +195,9 @@
     "download_button": "Bắt đầu tải công cụ đào tiền ảo",
     "missing_mining_tool": "Để tối ưu lợi nhuận, vui lòng nhập nhật công cụ đào sớm nhất có thể.",
     "mining_tool_uptodate": "Tất cả công cụ đã cập nhật mới nhất",
-    "partial_download": "Hoàn tất {{doneItems}} trên {{totalItems}}"
+    "partial_download": "Hoàn tất {{doneItems}} trên {{totalItems}}",
+    "crypto_mining_algorithms": "Các thuật toán đào",
+    "seconds_left": "còn {{remainSecond}} {{unit}} nữa"
   },
   "miner_exclusion": {
     "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
@@ -193,7 +245,8 @@
   },
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
-    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
+    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào",
+    "mining_tips": "Hướng dẫn đào"
   },
   "affiliate_info": {
     "referrals": "Giới thiệu",
