@@ -162,8 +162,8 @@
     "coin_name" : "Loại tiền",
     "paid": "Đã thanh toán",
     "unpaid": "Chưa thanh toán",
-    "your_balance": "Your balance",
-    "total_mined": "Total mined",
+    "your_balance": "Số dư của bạn",
+    "total_mined": "Tống số đào",
     "balance_in_anonymous_node": "Không thể tính thu nhập ở chế độ đào ẩn danh",
     "not_avaiable_in_anonymous_node": "Không hỗ trợ ở chế độ đào ẩn danh"
   },
@@ -211,6 +211,7 @@
     "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
     "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình",
     "setup_exclusion": "Các thiết lập yêu cầu",
+    "setup_exclusion_v2": "Thiết lập ngoại lệ",
     "heading": "Thiết lập ngoại lệ trên Windows Defender",
     "description_2": "Thêm thư mục Crypto Miner vào ngoại lệ của Windows Defender để cho phép tải về các công cụ đào.",
     "description_3": "Thêm thư mục Crypto! Miner vào ngoại lệ của các chương trình chống virus",
