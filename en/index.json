@@ -44,7 +44,8 @@
     "warning": "Warning",
     "error": "Error",
     "exit": "Exit",
-    "watch_us_on_youtube": "watch_us_on_youtube"
+    "watch_us_on_youtube": "Watch us on Youtube",
+    "ethereum_dag": "Ethereum DAG"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -233,7 +234,8 @@
     "mining_electricity_consumption": "Mining electricity consumption of your GPUs/CPUs",
     "electric_cost": "Mining electricity consumption of your GPUs/CPUs",
     "estimate_again": "Estimate again",
-    "use_detected_wattage" : "Use wattage data obtained from Miner"
+    "use_detected_wattage" : "Use wattage data obtained from Miner",
+    "wattage_v3": "Electricity Cost"
   },
   "pay_me_now": {
     "pay_me_now": "Pay Me Now!",

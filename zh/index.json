@@ -44,7 +44,8 @@
     "warning": "Warning",
     "error": "Error",
     "exit": "Exit",
-    "watch_us_on_youtube": "watch_us_on_youtube"
+    "watch_us_on_youtube": "Watch us on Youtube",
+    "ethereum_dag": "Ethereum DAG"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -233,7 +234,8 @@
     "mining_electricity_consumption": "挖掘時的耗電量",
     "electric_cost": "電費 1 kWh",
     "estimate_again": "重新預估",
-    "use_detected_wattage" : "自動使用挖掘時的電量資料"
+    "use_detected_wattage" : "自動使用挖掘時的電量資料",
+    "wattage_v3": "Electricity Cost"
   },
   "pay_me_now": {
     "pay_me_now": "馬上付錢！",

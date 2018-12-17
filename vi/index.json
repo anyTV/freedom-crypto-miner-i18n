@@ -44,7 +44,8 @@
     "warning": "Cảnh báo",
     "error": "Lỗi",
     "exit": "Thoát",
-    "watch_us_on_youtube": "watch_us_on_youtube"
+    "watch_us_on_youtube": "Theo dõi chúng tôi tại Youtube",
+    "ethereum_dag": "Ethereum DAG"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -232,7 +233,8 @@
     "mining_electricity_consumption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
     "electric_cost": "Chi phí điện tiêu thụ của GPUs/CPUs",
     "estimate_again": "Ước tính lại",
-    "use_detected_wattage" : "Lấy công suất từ máy đào"
+    "use_detected_wattage" : "Lấy công suất từ máy đào",
+    "wattage_v3": "Chi phí điện"
   },
   "pay_me_now": {
     "pay_me_now": "Nhận tiền ngay!",

@@ -44,7 +44,8 @@
     "warning": "Warning",
     "error": "Error",
     "exit": "Exit",
-    "watch_us_on_youtube": "watch_us_on_youtube"
+    "watch_us_on_youtube": "Watch us on Youtube",
+    "ethereum_dag": "Ethereum DAG"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není",
@@ -227,7 +228,8 @@
     "mining_electricity_consumption": "Spotřeba el. energie vašich GPU/CPU při těžbě",
     "electric_cost": "Cena elektřiny za 1 kWh",
     "estimate_again": "Odhadnout znovu",
-    "use_detected_wattage" : "Použít data o příkonu získaná minerem"
+    "use_detected_wattage" : "Použít data o příkonu získaná minerem",
+    "wattage_v3": "Electricity Cost"
   },
   "pay_me_now": {
     "pay_me_now": "Pay Me Now!",
