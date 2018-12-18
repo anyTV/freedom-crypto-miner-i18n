@@ -45,7 +45,8 @@
     "error": "Error",
     "exit": "Exit",
     "watch_us_on_youtube": "Watch us on Youtube",
-    "ethereum_dag": "Ethereum DAG"
+    "ethereum_dag": "Ethereum DAG",
+    "info": "Information"
   },
   "error": {
     "not_found": "哎呀!這裡甚麼都沒有",
@@ -70,8 +71,7 @@
     "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
     "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
     "start_benchmark": "Start benchmark",
-    "evaluate_your_hardware": "Evaluate your hardware to view estimates",
-    "this_may_take_up_30_min": "This may take up to 30 minutes depending on your hardware"
+    "evaluate_your_hardware": "Evaluate your hardware to view estimates"
   },
   "hardware_detail": {
     "hardware_detail": "硬件細節",

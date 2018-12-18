@@ -45,7 +45,8 @@
     "error": "Lỗi",
     "exit": "Thoát",
     "watch_us_on_youtube": "Theo dõi chúng tôi tại Youtube",
-    "ethereum_dag": "Ethereum DAG"
+    "ethereum_dag": "Ethereum DAG",
+    "info": "Thông báo"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
@@ -61,7 +62,7 @@
     "balances" : "Doanh thu",
     "current_worker" : "Máy đào hiện tại",
     "benchmark_to_show_erning" : "Chạy 'Tính điểm' để hiện doanh thu",
-    "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên login để được thanh toán",
+    "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên đăng nhập để được thanh toán",
     "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác",
     "hardware": "Thiết bị",
     "mining_speed": "Tốc độ đào",
