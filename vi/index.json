@@ -252,7 +252,13 @@
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
     "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào",
-    "mining_tips": "Hướng dẫn đào"
+    "mining_tips": "Hướng dẫn đào",
+    "non_admin_mode": {
+      "title": "Làm thể nào để đào với hiệu năng tốt nhất",
+      "description": "Hướng dẫn giúp bạn có được hiệu năng đào tốt nhất khi chạy ở người dùng ko phải là quản trị viên",
+      "confirm_run_as_administrator_button": "Tôi đã làm theo các bước trên và hoàn thành nó",
+      "guideline_button":  "Hướng dẫn tôi để có thể nhận đc hiệu năng đào tốt nhất"
+    }
   },
   "affiliate_info": {
     "referrals": "Giới thiệu",

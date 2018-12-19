@@ -252,7 +252,13 @@
   "instruction": {
     "usage_instruction": "使用說明",
     "instruction_tooltip": "提高采礦性能或修復採礦問題的一些技巧",
-    "mining_tips": "Mining Tips"
+    "mining_tips": "Mining Tips",
+    "non_admin_mode": {
+      "title": "How to get best mining performance?",
+      "description": "The guideline to help you get best mining performance in non-admin mode",
+      "confirm_run_as_administrator_button": "I followed to above steps & finished it",
+      "guideline_button":  "Guideline me to get best mining performance"
+    }
   },
   "affiliate_info": {
     "referrals": "推薦分享",
