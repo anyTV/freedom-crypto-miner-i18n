@@ -46,7 +46,8 @@
     "exit": "Exit",
     "watch_us_on_youtube": "Watch us on Youtube",
     "ethereum_dag": "Ethereum DAG",
-    "info": "Information"
+    "info": "Information",
+    "not_available": "N/A"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není",

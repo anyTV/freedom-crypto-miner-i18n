@@ -46,7 +46,8 @@
     "exit": "Thoát",
     "watch_us_on_youtube": "Theo dõi chúng tôi tại Youtube",
     "ethereum_dag": "Ethereum DAG",
-    "info": "Thông báo"
+    "info": "Thông báo",
+    "not_available": "N/A"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
