@@ -54,7 +54,8 @@
     "connection_fail": "連線問題",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
     "no_mining_crypto_for_device": "您必須選擇至少一個加密算法才能開採",
-    "no_profitable_algorithms": "所有挖掘算法都沒有盈利。你可以通過啟用\"設置\"中的\"繼續挖掘即使預計利潤損失\"選項來繼續挖掘"
+    "no_profitable_algorithms": "所有挖掘算法都沒有盈利。你可以通過啟用\"設置\"中的\"繼續挖掘即使預計利潤損失\"選項來繼續挖掘",
+    "error_while_calling_miner_function": "Error when calling miner function"
   },
   "home": {
     "available_devices": "可用設備",

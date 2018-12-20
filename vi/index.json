@@ -54,7 +54,8 @@
     "connection_fail": "Kết nối lỗi",
     "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)",
     "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào",
-    "no_profitable_algorithms": "Tất cả thuật toán đào hiện tại đều không có lợi nhuận, Bạn có thể tiếp tục đào bằng cách bật cài đặt \"Đào ngay cả khi ước tính là không có lợi nhuận\" trong phần cài đặt"
+    "no_profitable_algorithms": "Tất cả thuật toán đào hiện tại đều không có lợi nhuận, Bạn có thể tiếp tục đào bằng cách bật cài đặt \"Đào ngay cả khi ước tính là không có lợi nhuận\" trong phần cài đặt",
+    "error_while_calling_miner_function": "Lỗi trong lúc gọi các tính năng của máy đào"
   },
   "home": {
     "available_devices" : "Thiết bị",
