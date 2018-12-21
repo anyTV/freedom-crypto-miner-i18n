@@ -18,14 +18,44 @@
     "update": "Cập nhật",
     "copy": "Sao chép",
     "copied": "Đã sao chép",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "downloaded": "Downloaded",
+    "start_mining": "Bắt đầu",
+    "stop_mining": "Kết thúc",
+    "more_info": "Chi tiết",
+    "hide_info": "Ẩn",
+    "your_account": "Tài khoản",
+    "estimates": "Ước tính",
+    "daily": "Hàng ngày",
+    "monthly": "Hàng tháng",
+    "yearly": "Hàng năm",
+    "select_language": "Chọn ngôn ngữ",
+    "evaluating": "Đang đánh giá",
+    "loading": "Đang tải",
+    "anonymous_mode": "Chế độ ẩn danh",
+    "datetime": {
+      "seconds": "giây",
+      "minutes": "phút",
+      "hours": "giờ",
+      "days": "ngày",
+      "months": "tháng"
+    },
+    "powered_by": "Phát triển bởi",
+    "warning": "Cảnh báo",
+    "error": "Lỗi",
+    "exit": "Thoát",
+    "watch_us_on_youtube": "Theo dõi chúng tôi tại Youtube",
+    "ethereum_dag": "Ethereum DAG",
+    "info": "Thông báo",
+    "not_available": "N/A"
   },
   "error" : {
     "not_found" : "Oops. Không tìm thấy",
     "connection_fail": "Kết nối lỗi",
     "no_mining_device": "Không có thiết bị đào. Phải chọn ít nhất 1 thiết bị đào (GPU hoặc CPU)",
     "no_mining_crypto_for_device": "Không có thuật toán đào. Phải chọn ít nhất 1 thuật toán đào",
-    "no_profitable_algorithms": "Tất cả thuật toán đào hiện tại đều không có lợi nhuận, Bạn có thể tiếp tục đào bằng cách bật cài đặt \"Đào ngay cả khi ước tính là không có lợi nhuận\" trong phần cài đặt"
+    "no_profitable_algorithms": "Tất cả thuật toán đào hiện tại đều không có lợi nhuận, Bạn có thể tiếp tục đào bằng cách bật cài đặt \"Đào ngay cả khi ước tính là không có lợi nhuận\" trong phần cài đặt",
+    "error_while_calling_miner_function": "Lỗi trong lúc gọi các tính năng của máy đào"
   },
   "home": {
     "available_devices" : "Thiết bị",
@@ -34,8 +64,16 @@
     "balances" : "Doanh thu",
     "current_worker" : "Máy đào hiện tại",
     "benchmark_to_show_erning" : "Chạy 'Tính điểm' để hiện doanh thu",
-    "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên login để được thanh toán",
-    "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác"
+    "you_are_anonymous_mining" : "Bạn đang đào ở chế độ ẩn danh. Bạn nên đăng nhập để được thanh toán",
+    "miner_not_effective" : "Công cụ đào hiện tại không hiệu quả. Đang chuyển sang dùng công cụ khác",
+    "hardware": "Thiết bị",
+    "mining_speed": "Tốc độ đào",
+    "mining_temperature": "Nhiệt độ đào",
+    "referral_info_signed_in": "Chia sẻ hoặc mời bạn bè bằng liên kết chia sẻ của bạn để nhận hoa hồng và tăng thu nhập",
+    "referral_info_not_signed_in": "Đăng nhập và bắt đầu chia sẻ liên kết của bạn để có nhiều giới thiệu và kiếm nhiều tiền hơn",
+    "benchmark_to_show_estimates": "Đánh giá thiết bị để xem ước lượng thu nhập. Điều này có thể mất (tối đa) 30 phút tùy thuộc vào thiết bị của bạn",
+    "start_benchmark": "Bắt đầu 'Tính điểm'",
+    "evaluate_your_hardware": "Đánh giá thiết bị của bạn để xem ước lượng thu nhập"
   },
   "hardware_detail" : {
     "hardware_detail" : "Cấu hình đào chi tiết",
@@ -50,7 +88,11 @@
     "progress" : "Tiến độ",
     "stop_benchmark" : "Ngừng 'Tính điểm'",
     "internet_status_connected" : "Đang Kết nối",
-    "internet_status_disconnected" : "Mất kết nối"
+    "internet_status_disconnected" : "Mất kết nối",
+    "benchmarking_title": "Vui lòng chờ một lúc",
+    "benchmarking_subtitle": "Điều này có thể mất (tối đa) 30 phút tùy thuộc vào thiết bị của bạn",
+    "benchmark_success": "Đánh giá hoàn tất",
+    "benchmark_success_description": "Bạn có thể xem ước tính thu nhập dựa trên đánh giá này. Bạn có thể đánh giá lại thiết bị ở Cài đặt > Cấu hình đào chi tiết"
   },
   "setting" : {
     "mining_config" : "Cấu hình Máy đào",
@@ -60,21 +102,29 @@
     "auto_launch_description" : "Tự động mở ứng dụng sau khi máy tính khởi động",
     "log_description" : "Tập tin hoạt động được lưu tại: {{path}}",
     "auto_launch" : "Tự động khởi động",
+    "auto_launch_v2" : "Chạy lúc máy khởi động",
     "auto_mining" : "Tự động đào",
+    "auto_mining_v2" : "Đào lúc nhàn rỗi",
     "general" : "Tổng quát",
     "mining": "Cấu hình đào",
+    "mining_v2": "Cấu hình đào",
     "about" : "Về chúng tôi",
     "log_to_file" : "Log vào tập tin",
+    "log_to_file_v2" : "Mở ghi log",
     "miner_off_notification": "Thông báo khi máy đào tắt",
+    "miner_off_notification_v2": "Gửi email thông báo khi máy đào tắt",
     "miner_off_notification_description": "Gửi email thông báo nếu máy đào tắt đột ngột",
+    "miner_off_notification_description_v2": "Sẽ gửi email tới {{email}} khi máy đào tắt bất thường",
     "signin_required": "Đăng nhập để sử dụng tính năng này",
     "preferred_algorithms": "Thuật toán đào",
     "preferred_algorithms_explaination": "Chọn thuật toán bạn muốn đào",
     "preferred_algorithms_warning": "Vui lòng chọn ít nhất một thuật toán",
     "preferred_algorithms_updated": "Cập nhật thuật toán đào thành công",
     "cpu_mining": "Đào CPU",
+    "cpu_mining_v2": "Đào bằng CPU",
     "cpu_mining_description" : "Tự động đào bằng CPU khi bắt đầu đào",
     "gpu_mining": "Đào GPU",
+    "gpu_mining_v2": "Đào bằng GPU",
     "gpu_mining_description" : "Tự động đào bằng GPU khi bắt đầu đào",
     "mining_options_changed": "Vui lòng khởi động lại tiến trình đào (nhấn Kết thúc, Bắt đầu) để những thay đổi có hiệu lực",
     "mine_even_projected_profit_lost": "Đào ngay cả khi ước tính là không có lợi nhuận?",
@@ -85,12 +135,16 @@
       "filter": "Tìm kiếm ứng dụng",
       "reload_hint": "Nếu ứng dụng bạn muốn tìm không có trong danh sách bên dưới, hãy thử mở ứng dụng đó và nhấn vào biểu tượng làm mới",
       "select_application_button": "Không tự động đào nếu ứng dụng của tôi đang chạy",
+      "exception_button": "Ngoại lệ",
       "add_hint": "Thêm ứng dụng bằng cách chọn từ cửa sổ chọn tệp tin",
       "remove_hint": "Xóa tất cả các ứng dụng đã chọn",
       "selected_applications": "Cách ứng dụng đã chọn",
       "running_applications": "Các ứng dụng đang chạy",
       "application_filter": "Ứng dụng"
-    }
+    },
+    "title": "Cài đặt",
+    "allowed_minimize_to_tray": "Ẩn xuống thanh trạng thái",
+    "allowed_minimize_to_tray_description": "Giữ ứng dụng đào chạy nền khi đóng ứng dụng"
   },
   "term" : {
     "term_and_condition" : "Điều khoản và điều kiện",
@@ -112,7 +166,12 @@
     "total_balance" : "Tổng doanh thu",
     "coin_name" : "Loại tiền",
     "paid": "Đã thanh toán",
-    "unpaid": "Chưa thanh toán"
+    "unpaid": "Chưa thanh toán",
+    "your_balance": "Số dư của bạn",
+    "your_balances": "Số dư của bạn",
+    "total_mined": "Tống số đào",
+    "balance_in_anonymous_node": "Không thể tính thu nhập ở chế độ đào ẩn danh",
+    "not_avaiable_in_anonymous_node": "Không hỗ trợ ở chế độ đào ẩn danh"
   },
   "main": {
     "error_support_64_os_only": "Phần mềm chỉ hỗ trợ hệ điều hành 64 bit",
@@ -137,34 +196,48 @@
     "error_unzip" : "Lỗi xảy ra khi giải nén công cụ đào tiền ảo, vui lòng thử lại",
     "error_interruption": "Tải thất bại, vui lòng kiểm tra đường truyền và thử lại",
     "initializing": "Đang kiểm tra phiên bản công cụ đào tiền ảo",
+    "instruction_title": "Hướng dẫn dành cho công cụ đào tiền ảo",
     "checking_windows_defender_config": "Đang kiểm tra các thiết lập với Windows Depender",
-    "instruction": {
-      "title": "Hướng dẫn dành cho công cụ đào tiền ảo",
-      "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
-      "download_button": "Bắt đầu tải công cụ đào tiền ảo",
-      "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
-      "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
-      "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
-      "auto_add_miners_folder_to_exclusion_list_error_title": "Lỗi thêm thư mục máy đào vào danh sách ngoại lệ",
-      "auto_add_miners_folder_to_exclusion_list_error_message": "Lỗi khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng nhấn nút bên dưới để thử lại hay khởi động lại Crypto Miner",
-      "windows_defender": "Windows Defender",
-      "other_virus_software": "Các chương trình diệt virus khác",
-      "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
-      "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình"
-    },
+    "download_button": "Bắt đầu tải công cụ đào tiền ảo",
     "missing_mining_tool": "Để tối ưu lợi nhuận, vui lòng nhập nhật công cụ đào sớm nhất có thể.",
-    "mining_tool_uptodate": "Tất cả công cụ đã cập nhật mới nhất"
+    "mining_tool_uptodate": "Tất cả công cụ đã cập nhật mới nhất",
+    "partial_download": "Hoàn tất {{doneItems}} trên {{totalItems}}",
+    "crypto_mining_algorithms": "Các thuật toán đào",
+    "seconds_left": "còn {{remainSecond}} {{unit}} nữa"
+  },
+  "miner_exclusion": {
+    "description": "Dưới đây là hướng dẫn giúp bạn thêm thư mục máy đào của Freedom! Crypto miner vào danh sách ngoại lệ cho chương trình diệt virus, Windows Defender có thể làm ảnh hướng tới quá trình tải các ứng dụng máy đào",
+    "add_to_exclusion_button": "Tự động thêm thư mục máy đào vào danh sách ngoại lệ",
+    "add_miners_folder_to_exclusion_list_successful": "Thư mục máy đào đã được thêm vào danh sách ngoại lệ",
+    "add_miners_folder_to_exclusion_list_error": "Lỗi trong khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng thử lại hay thực hiện theo hướng dẫn bên dưới",
+    "auto_add_miners_folder_to_exclusion_list_error_title": "Lỗi thêm thư mục máy đào vào danh sách ngoại lệ",
+    "auto_add_miners_folder_to_exclusion_list_error_message": "Lỗi khi thêm thư mục máy đào vào danh sách ngoại lệ, Xin vui lòng nhấn nút bên dưới để thử lại hay khởi động lại Crypto Miner",
+    "windows_defender": "Windows Defender",
+    "other_virus_software": "Các chương trình diệt virus khác",
+    "restart_crypto_miner_button": "Khởi động lại Crypto Miner",
+    "exclusion_confirm_button": "Tôi đã thêm thư mục đào vào danh sách ngoại lệ cho chương trình diệt virus của mình",
+    "setup_exclusion": "Các thiết lập yêu cầu",
+    "setup_exclusion_v2": "Thiết lập ngoại lệ",
+    "heading": "Thiết lập ngoại lệ trên Windows Defender",
+    "description_2": "Thêm thư mục Crypto Miner vào ngoại lệ của Windows Defender để cho phép tải về các công cụ đào.",
+    "description_3": "Thêm thư mục Crypto! Miner vào ngoại lệ của các chương trình chống virus",
+    "add_exclusion": "TỰ ĐỘNG THIẾT LẬP",
+    "how_to_add_manually": "Thiết lập thủ công như thế nào?",
+    "add_exclusions_manually": "Thiết lập thủ công",
+    "exclusion_confirm": "TÔI ĐÃ THIẾT LẬP XONG"
   },
   "estimation": {
     "setup_wattage": "Cài đặt công suất để có ước tính chính xác",
     "revenue_acronum": "Rev",
     "profit_acronum": "Prof",
     "wattage": "Công suất",
-    "wattage_cost": "Chi phí điện",
+    "wattage_per_hour": "Công suất trên giờ",
+    "wattage_cost": "Chi phí điện trên 1 kilowatt điện",
     "mining_electricity_consumption": "Lượng điện năng tiêu thụ của GPUs/CPUs",
-    "electric_cost": "Chi phí điện cho 1kWh",
+    "electric_cost": "Chi phí điện tiêu thụ của GPUs/CPUs",
     "estimate_again": "Ước tính lại",
-    "use_detected_wattage" : "Lấy công suất từ máy đào"
+    "use_detected_wattage" : "Lấy công suất từ máy đào",
+    "wattage_v3": "Chi phí điện"
   },
   "pay_me_now": {
     "pay_me_now": "Nhận tiền ngay!",
@@ -172,17 +245,37 @@
     "payment_verification": "Xác minh thanh toán",
     "payment_verification_explain": "Để xác minh tài khoản của bạn có thể nhận thanh toán từ Freedom!, chúng tôi sẽ chuyển cho bạn $0.01.",
     "verify": "Xác minh",
+    "verify_payment": "Xác minh thanh khoản",
+    "payment_verified": "Đã xác minh",
     "payment_test_failure": "Có lỗi xảy ra khi yêu cầu thanh toán!",
-    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!."
+    "payment_not_found": "Không tìm thấy phương thức thanh toán! Vui lòng cập nhật nó ở trang web Freedom!.",
+    "invite_friend_to_pay_more": "Mời bạn bè để tăng thêm thu nhập"
   },
   "instruction": {
     "usage_instruction": "Hướng dẫn sử dụng",
-    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào"
+    "instruction_tooltip": "Thủ thuật giúp cải thiện hoặc sửa một số lỗi đào",
+    "mining_tips": "Hướng dẫn đào",
+    "non_admin_mode": {
+      "title": "Làm thể nào để đào với hiệu năng tốt nhất",
+      "description": "Hướng dẫn giúp bạn có được hiệu năng đào tốt nhất khi chạy ở người dùng ko phải là quản trị viên",
+      "confirm_run_as_administrator_button": "Tôi đã làm theo các bước trên và hoàn thành nó",
+      "guideline_button":  "Hướng dẫn tôi để có thể nhận đc hiệu năng đào tốt nhất"
+    }
   },
   "affiliate_info": {
-    "referrals": "giới thiệu",
+    "referrals": "Giới thiệu",
     "affiliate_description": "Chia sẻ liên kết giới thiệu tới bạn bè để nhận hoa hồng, xem thêm chi tiết {{here}}.",
     "get_referral_account": "Nhận tài khoản giới thiệu",
     "here": "tại đây"
+  },
+  "my_account": {
+    "your_account": "Tài khoản"
+  },
+  "menu": {
+    "mining_tips": "Hướng dẫn đào",
+    "send_feedback": "Gửi phản hồi",
+    "settings": "Cài đặt",
+    "about": "Về chúng tôi",
+    "language": "Ngôn ngữ"
   }
 }

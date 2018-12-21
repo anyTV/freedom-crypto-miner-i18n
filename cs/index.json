@@ -18,14 +18,44 @@
     "update": "Aktualizovat",
     "copy": "Copy",
     "copied": "Copied",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "downloaded": "Downloaded",
+    "start_mining": "Start Mining",
+    "stop_mining": "Stop Mining",
+    "more_info": "More Info",
+    "hide_info": "Hide Info",
+    "your_account": "Your account",
+    "estimates": "Estimates",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "select_language": "Select language",
+    "evaluating": "Evaluating",
+    "loading": "Loading",
+    "anonymous_mode": "Anonymous mode",
+    "datetime": {
+      "seconds": "second(s)",
+      "minutes": "minute(s)",
+      "hours": "hour(s)",
+      "days": "day(s)",
+      "months": "month(s)"
+    },
+    "powered_by": "Powered by",
+    "warning": "Warning",
+    "error": "Error",
+    "exit": "Exit",
+    "watch_us_on_youtube": "Watch us on Youtube",
+    "ethereum_dag": "Ethereum DAG",
+    "info": "Information",
+    "not_available": "N/A"
   },
   "error" : {
     "not_found" : "Oops. Tady nic není",
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
     "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
-    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings"
+    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings",
+    "error_while_calling_miner_function": "Error when calling miner function"
   },
   "home": {
     "available_devices" : "Dostupná zařízení",
@@ -35,7 +65,15 @@
     "current_worker" : "Aktuální pracovník",
     "benchmark_to_show_erning" : "Pro zobrazení odhadu proveďte benchmark",
     "you_are_anonymous_mining" : "Jste v anonymním režimu. Pro platbu se přihlašte",
-    "miner_not_effective" : "Aktuální miner není efektivní. Pokouším se přepnout na jiný miner"
+    "miner_not_effective" : "Aktuální miner není efektivní. Pokouším se přepnout na jiný miner",
+    "hardware": "hardware",
+    "mining_speed": "Mining speed",
+    "mining_temperature": "Mining temperature",
+    "referral_info_signed_in": "Share or invite directly using your personal link to get new referral and earn more",
+    "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
+    "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
+    "start_benchmark": "Start benchmark",
+    "evaluate_your_hardware": "Evaluate your hardware to view estimates"
   },
   "hardware_detail" : {
     "hardware_detail" : "Podrobnosti hardware ",
@@ -50,7 +88,11 @@
     "progress" : "Postup ",
     "stop_benchmark" : "Zastavit Benchmark",
     "internet_status_connected" : "Připojeno",
-    "internet_status_disconnected" : "Odpojeno"
+    "internet_status_disconnected" : "Odpojeno",
+    "benchmarking_title": "One moment please",
+    "benchmarking_subtitle": "This may take up to 30 minutes depending on your hardware",
+    "benchmark_success": "Benchmark success",
+    "benchmark_success_description": "You can now view estimates based on this benchmark. You can re-evaluate your hardware in Settings > Hardware Details"
   },
   "setting" : {
     "mining_config" : "Nastavení těžby",
@@ -73,8 +115,10 @@
     "preferred_algorithms_warning": "Vyberte alespoň jeden algoritmus",
     "preferred_algorithms_updated": "Preferované algoritmy úspěšně aktualizovány",
     "cpu_mining": "CPU mining",
+    "cpu_mining_v2": "Enable CPU mining",
     "cpu_mining_description" : "Automatically start CPU mining when start mining",
     "gpu_mining": "GPU mining",
+    "gpu_mining_v2": "Enable GPU mining",
     "gpu_mining_description" : "Automatically start GPU mining when start mining",
     "mining_options_changed": "Please restart mining (click Stop, Start) to apply the changes",
     "mine_even_projected_profit_lost": "Mine coin even when estimated earning is projected a profit lost?",
@@ -83,14 +127,18 @@
       "title": "Applications exclusion",
       "description": "Select application(s) that you want to skip idle mining while it's running",
       "filter": "Search an application",
-      "reload_hint": "If the application does not has in below list, Try to start it & click refresh icon",
+      "reload_hint": "If the application you want to add is not listed, try to start it first and come back and refresh the list.",
       "select_application_button": "Do not mining if my applications are running",
+      "exception_button": "Exception",
       "add_hint": "Add an application by select it from file dialog",
       "remove_hint": "Remove all selected applications",
       "selected_applications": "Selected applications",
       "running_applications": "Running applications",
       "application_filter": "Applications"
-    }
+    },
+    "title": "Settings",
+    "allowed_minimize_to_tray": "Minimize to tray",
+    "allowed_minimize_to_tray_description": "Keep miner running in background when closed"
   },
   "term" : {
     "term_and_condition" : "Podmínky a pravidla",
@@ -112,7 +160,12 @@
     "total_balance" : "Celkový zůstatek",
     "coin_name" : "Měna",
     "paid": "Zaplaceno",
-    "unpaid": "Unpaid"
+    "unpaid": "Unpaid",
+    "your_balance": "Your balance",
+    "your_balances": "Your balances",
+    "total_mined": "Total mined",
+    "balance_in_anonymous_node": "Balance not available in Anonymous mode",
+    "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
   },
   "main": {
     "error_support_64_os_only": "Podporujeme pouze 64bitové operační systémy",
@@ -137,34 +190,48 @@
     "error_unzip" : "Při rozbalování souboru zip se vystytla chyba, zkuste to znovu",
     "error_interruption": "The download is interrupted, please check your network and try again",
     "initializing": "Checking mining tool information",
+    "instruction_title": "Mining tool instruction",
     "checking_windows_defender_config": "Checking Windows Defender configuration",
-    "instruction": {
-      "title": "Mining tool instruction",
-      "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
-      "download_button": "Start download miners",
-      "add_to_exclusion_button": "Auto add miners folder to Exclude list",
-      "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
-      "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
-      "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
-      "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
-      "windows_defender": "Windows Defender",
-      "other_virus_software": "Others Antivirus Software",
-      "restart_crypto_miner_button": "Restart Crypto Miner",
-      "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list."
-    },
+    "download_button": "Start download miners",
     "missing_mining_tool": "For the mining with the highest profit, please try to update the mining tool(s) as soon as possible.",
-    "mining_tool_uptodate": "All mining tools are up-to-date"
+    "mining_tool_uptodate": "All mining tools are up-to-date",
+    "partial_download": "{{doneItems}} out of {{totalItems}}",
+    "crypto_mining_algorithms": "Crypto mining algorithms",
+    "seconds_left": "{{remainSecond}} {{unit}} left"
+  },
+  "miner_exclusion": {
+    "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
+    "add_to_exclusion_button": "Auto add miners folder to Exclude list",
+    "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
+    "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
+    "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
+    "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
+    "windows_defender": "Windows Defender",
+    "other_virus_software": "Others Antivirus Software",
+    "restart_crypto_miner_button": "Restart Crypto Miner",
+    "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list.",
+    "setup_exclusion": "Setup Exclusions",
+    "setup_exclusion_v2": "Setup exclusions",
+    "heading": "Exclude from Windows Defender",
+    "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
+    "description_3": "Add Crypto! Miner's folders to your antivirus exclusions",
+    "add_exclusion": "ADD EXCLUSIONS",
+    "how_to_add_manually": "How to add manually?",
+    "add_exclusions_manually": "Add exclusions manually",
+    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS"
   },
   "estimation": {
     "setup_wattage": "Kliknutím nastavte příkon pro přesnější odhad",
     "revenue_acronum": "Příjem",
     "profit_acronum": "Zisk",
     "wattage": "Příkon",
+    "wattage_per_hour": "Příkon",
     "wattage_cost": "Náklady",
     "mining_electricity_consumption": "Spotřeba el. energie vašich GPU/CPU při těžbě",
     "electric_cost": "Cena elektřiny za 1 kWh",
     "estimate_again": "Odhadnout znovu",
-    "use_detected_wattage" : "Použít data o příkonu získaná minerem"
+    "use_detected_wattage" : "Použít data o příkonu získaná minerem",
+    "wattage_v3": "Electricity Cost"
   },
   "pay_me_now": {
     "pay_me_now": "Pay Me Now!",
@@ -172,17 +239,37 @@
     "payment_verification": "Payment Verification",
     "payment_verification_explain": "To verify if your account can receive payments from Freedom!, we will pay this account an amount of $0.01",
     "verify": "VERIFY",
+    "verify_payment": "Verify payment",
+    "payment_verified": "Payment verified",
     "payment_test_failure": "Failed to enqueue test payment!",
-    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard."
+    "payment_not_found": "User payment not found! Please update payment method at Freedom! dashboard.",
+    "invite_friend_to_pay_more": "Invite friends to earn more"
   },
   "instruction": {
     "usage_instruction": "usage instruction",
-    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues"
+    "instruction_tooltip": "Some tips to improve mining performance or fix mining issues",
+    "mining_tips": "Mining Tips",
+    "non_admin_mode": {
+      "title": "How to get best mining performance?",
+      "description": "The guideline to help you get best mining performance in non-admin mode",
+      "confirm_run_as_administrator_button": "I followed to above steps & finished it",
+      "guideline_button":  "Guideline me to get best mining performance"
+    }
   },
   "affiliate_info": {
     "referrals": "referrals",
     "affiliate_description": "Share your referral link to your friend and earn commission, see more detail {{here}}.",
     "get_referral_account": "Get my referral account",
     "here": "here"
+  },
+  "my_account": {
+    "your_account": "Your account"
+  },
+  "menu": {
+    "mining_tips": "Mining tips",
+    "send_feedback": "Send feedback",
+    "settings": "Settings",
+    "about": "About",
+    "language": "Language"
   }
 }
