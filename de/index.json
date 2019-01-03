@@ -212,7 +212,7 @@
     "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
     "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
     "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
-    "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclussion list, Please click button below to try again or try to restart Crypto Miner",
+    "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclusion list, Please click button below to try again or try to restart Crypto Miner",
     "windows_defender": "Windows Defender",
     "other_virus_software": "Others Antivirus Software",
     "restart_crypto_miner_button": "Restart Crypto Miner",
