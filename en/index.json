@@ -22,6 +22,8 @@
     "downloaded": "Downloaded",
     "start_mining": "Start Mining",
     "stop_mining": "Stop Mining",
+    "press_to_stop": "Press to stop",
+    "press_to_start": "Press to start",
     "more_info": "More Info",
     "hide_info": "Hide Info",
     "your_account": "Your account",
@@ -73,7 +75,10 @@
     "referral_info_not_signed_in": "Signin and start sharing your personal link to get new referal and earn more",
     "benchmark_to_show_estimates": "Evaluate your hardware to view estimates. This may take up to 30 minutes depending on your hardware",
     "start_benchmark": "Start benchmark",
-    "evaluate_your_hardware": "Evaluate your hardware to view estimates"
+    "evaluate_your_hardware": "Evaluate your hardware to view estimates",
+    "you_are_anonymous_mode": "You are in anonymous mode",
+    "sign_in_to_gain_access": "Sign in to gain access to these awesome features",
+    "start_mining_anonymous": "Start mining in anonymous mode"
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware details",
@@ -99,9 +104,9 @@
     "log_config" : "Logging Configuration",
     "lang_config" : "Language Configuration",
     "auto_start_description" : "Automatically start mining when computer is idle and stop mining when computer is being used",
-    "auto_launch_description" : "Automatically start Crypto Miner on computer starts",
+    "auto_launch_description" : "Automatically start Ignis on computer starts",
     "log_description" : "Log file is available at: {{path}}",
-    "auto_launch" : "Autostart Crypto Miner",
+    "auto_launch" : "Autostart Ignis",
     "auto_launch_v2" : "Run on Startup",
     "auto_mining" : "Start mining when Idle",
     "auto_mining_v2" : "Idle Mining",
@@ -171,7 +176,9 @@
     "your_balances": "Your Balances",
     "total_mined": "Total mined",
     "balance_in_anonymous_node": "Balance not available in Anonymous mode",
-    "not_avaiable_in_anonymous_node": "Not available in anonymous mode"
+    "not_available_in_anonymous_mode": "Not available in anonymous mode",
+    "get_paid": "Get Paid",
+    "withdraw_your_earnings": "Withdraw your earnings"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",
@@ -208,25 +215,27 @@
     "seconds_left": "{{remainSecond}} {{unit}} left"
   },
   "miner_exclusion": {
-    "description": "Following is a guideline to help you add virus folder exclusion for Freedom! Crypto miner. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
+    "description": "Following is a guideline to help you add virus folder exclusion for Ignis. As the mining tools we will be downloading may be incorrectly classified as virus by windows defender.",
     "add_to_exclusion_button": "Auto add miners folder to Exclude list",
     "add_miners_folder_to_exclusion_list_successful": "Miners folder added to exclusion list successfully",
     "add_miners_folder_to_exclusion_list_error": "Failed while adding miners folder to exclusion list, please try again or do it manually",
     "auto_add_miners_folder_to_exclusion_list_error_title": "Miner exclusion error",
-    "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclusion list, Please click button below to try again or try to restart Crypto Miner",
+    "auto_add_miners_folder_to_exclusion_list_error_message": "Error while adding miners folder to Windows Defender's exclusion list, Please click button below to try again or try to restart Ignis",
     "windows_defender": "Windows Defender",
     "other_virus_software": "Others Antivirus Software",
-    "restart_crypto_miner_button": "Restart Crypto Miner",
+    "restart_crypto_miner_button": "Restart Ignis",
     "exclusion_confirm_button": "I have added miners folder to my Antivirus software's exclusion list.",
     "setup_exclusion": "Setup Exclusions",
     "setup_exclusion_v2": "Setup exclusions",
     "heading": "Exclude from Windows Defender",
-    "description_2": "Add Crypto! Miner to Windows Defender's exclusions to allow the app to download the mining tools.",
-    "description_3": "Add Crypto! Miner's folders to your antivirus exclusions",
+    "description_2": "Add Ignis to Windows Defender's exclusions to allow the app to download the mining tools.",
+    "description_3": "Add Ignis' folders to your antivirus exclusions",
     "add_exclusion": "ADD EXCLUSIONS",
     "how_to_add_manually": "How to add manually?",
     "add_exclusions_manually": "Add exclusions manually",
-    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS"
+    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS",
+    "add_exclusions_manually_help": "Add exclusions manually in case the button above didn't work",
+    "exclusion_confirm": "I have added the exclusions"
   },
   "estimation": {
     "setup_wattage": "Click to setup wattage for more accurate estimation",
@@ -279,5 +288,19 @@
     "settings": "Settings",
     "about": "About",
     "language": "Language"
+  },
+  "creator": {
+    "select_creator": "Select a creator to support",
+    "select_creator_button": "Select Creator",
+    "you_are_supporting": "You are supporting",
+    "you_are_supporting_help": "Part of your earnings will be shared to support this creator.",
+    "time_left_for_creator_change": "Time left before you can change creator:",
+    "support_creators": "Support Creators"
+  },
+  "game": {
+    "level": "Level",
+    "next_level": "Next Level",
+    "level_up": "Level Up",
+    "earn_support_points": "Earn support points"
   }
 }
