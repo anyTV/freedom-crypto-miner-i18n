@@ -49,7 +49,9 @@
     "watch_us_on_youtube": "Watch us on Youtube",
     "ethereum_dag": "Ethereum DAG",
     "info": "Information",
-    "not_available": "N/A"
+    "not_available": "N/A",
+    "search": "Search",
+    "continue": "Continue"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -295,7 +297,11 @@
     "you_are_supporting": "You are supporting",
     "you_are_supporting_help": "Part of your earnings will be shared to support this creator.",
     "time_left_for_creator_change": "Time left before you can change creator:",
-    "support_creators": "Support Creators"
+    "support_creators": "Support Creators",
+    "choose": "Choose",
+    "you_will_be_supporting": "You will be supporting this creator:",
+    "no_support_different_creator": "No, I want to support a different creator",
+    "do_you_want_to_continue": "Part of your earnings will be shared with the creator you selected. Do you want to continue?"
   },
   "game": {
     "level": "Level",
