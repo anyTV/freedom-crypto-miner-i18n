@@ -301,7 +301,9 @@
     "choose": "Choose",
     "you_will_be_supporting": "You will be supporting this creator:",
     "no_support_different_creator": "No, I want to support a different creator",
-    "do_you_want_to_continue": "Part of your earnings will be shared with the creator you selected. Do you want to continue?"
+    "do_you_want_to_continue": "Part of your earnings will be shared with the creator you selected. Do you want to continue?",
+    "recruiter_updated": "Recruiter updated",
+    "change_creator": "Change creator"
   },
   "game": {
     "level": "Level",
