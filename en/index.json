@@ -306,6 +306,7 @@
   "game": {
     "level": "Level",
     "next_level": "Next Level",
+    "current_sp": "Current sp",
     "level_up": "Level Up",
     "earn_support_points": "Earn support points"
   }
