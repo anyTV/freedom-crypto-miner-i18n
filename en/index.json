@@ -302,13 +302,14 @@
     "you_will_be_supporting": "You will be supporting this creator:",
     "no_support_different_creator": "No, I want to support a different creator",
     "do_you_want_to_continue": "Part of your revenue will be shared with the creator you selected. Do you want to continue?",
-    "recruiter_updated": "Recruiter updated",
+    "supported_creator": "You are now supporting {{ creatorUsername }}",
     "change_creator": "Change creator"
   },
   "game": {
     "level": "Level",
     "next_level": "Next Level",
     "level_up": "Level Up",
-    "earn_support_points": "Earn support points"
+    "earn_support_points": "Earn support points",
+    "current_sp": "Current SP"
   }
 }
