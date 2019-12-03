@@ -296,7 +296,7 @@
     "select_creator_button": "Select Creator",
     "you_are_supporting": "You are supporting",
     "you_are_supporting_help": "Part of your revenue will be shared to support this creator.",
-    "time_left_for_creator_change": "Time left before you can change creator:",
+    "cannot_creator_change": "You cannot change creator from {{ start }} to {{ end }}",
     "support_creators": "Support Creators",
     "choose": "Choose",
     "you_will_be_supporting": "You will be supporting this creator:",
