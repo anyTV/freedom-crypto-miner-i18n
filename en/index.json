@@ -51,7 +51,8 @@
     "info": "Information",
     "not_available": "N/A",
     "search": "Search",
-    "continue": "Continue"
+    "continue": "Continue",
+    "note": "Note"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -303,7 +304,9 @@
     "no_support_different_creator": "No, I want to support a different creator",
     "do_you_want_to_continue": "Part of your revenue will be shared with the creator you selected. Do you want to continue?",
     "supported_creator": "You are now supporting {{ creatorUsername }}",
-    "change_creator": "Change creator"
+    "change_creator": "Change creator",
+    "supported_creator_validity": "Creator validity expired",
+    "supported_creator_validity_message": "Supported creator validity has already expired. You can now change your supported creator"
   },
   "game": {
     "level": "Level",
