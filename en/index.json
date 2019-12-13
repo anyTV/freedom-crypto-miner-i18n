@@ -51,7 +51,8 @@
     "info": "Information",
     "not_available": "N/A",
     "search": "Search",
-    "continue": "Continue"
+    "continue": "Continue",
+    "note": "Note"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
@@ -295,18 +296,25 @@
     "select_creator": "Select a creator to support",
     "select_creator_button": "Select Creator",
     "you_are_supporting": "You are supporting",
-    "you_are_supporting_help": "Part of your earnings will be shared to support this creator.",
-    "time_left_for_creator_change": "Time left before you can change creator:",
+    "you_are_supporting_help": "Part of your revenue will be shared to support this creator.",
+    "cannot_creator_change": "You cannot change creator from {{ start }} to {{ end }}",
     "support_creators": "Support Creators",
     "choose": "Choose",
     "you_will_be_supporting": "You will be supporting this creator:",
     "no_support_different_creator": "No, I want to support a different creator",
-    "do_you_want_to_continue": "Part of your earnings will be shared with the creator you selected. Do you want to continue?"
+    "do_you_want_to_continue": "Part of your revenue will be shared with the creator you selected. Do you want to continue?",
+    "supported_creator": "You are now supporting {{ creatorUsername }}",
+    "change_creator": "Change creator",
+    "supported_creator_validity": "Creator validity expired",
+    "supported_creator_validity_message": "Supported creator validity has already expired. You can now change your supported creator",
+    "no_supported_creator": "Support your Favorite Content Creator Now!",
+    "has_supported_creator": "Thanks for supporting your favorite content creator."
   },
   "game": {
     "level": "Level",
     "next_level": "Next Level",
     "level_up": "Level Up",
-    "earn_support_points": "Earn support points"
+    "earn_support_points": "Earn support points",
+    "current_sp": "Current SP"
   }
 }
