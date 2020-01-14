@@ -320,8 +320,8 @@
   "setup_instruction": {
     "title": "Setup Instructions",
     "desc": "How to manually setup GPU cards. Ex. AMD Cards",
-    "amd_cards": {
-      "label": "AMD Cards"
+    "amd": {
+      "label": "AMD"
     }
   }
 }
