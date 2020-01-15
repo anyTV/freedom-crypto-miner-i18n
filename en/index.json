@@ -316,5 +316,12 @@
     "level_up": "Level Up",
     "earn_support_points": "Earn support points",
     "current_sp": "Current SP"
+  },
+  "setup_instruction": {
+    "title": "Setup Instructions",
+    "desc": "How to manually setup GPU cards. Ex. AMD Cards",
+    "amd": {
+      "label": "AMD"
+    }
   }
 }
