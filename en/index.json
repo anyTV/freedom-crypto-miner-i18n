@@ -52,7 +52,9 @@
     "not_available": "N/A",
     "search": "Search",
     "continue": "Continue",
-    "note": "Note"
+    "note": "Note",
+    "minimize-to-taskbar": "Minimize to taskbar",
+    "notifications": "Notifications"
   },
   "error" : {
     "not_found" : "Oops. Nothing here",
