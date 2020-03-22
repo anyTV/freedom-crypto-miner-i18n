@@ -52,7 +52,9 @@
     "not_available": "N/A",
     "search": "Buscar",
     "continue": "Continuar",
-    "note": "Nota"
+    "note": "Nota",
+    "minimize-to-taskbar": "Minimizar",
+    "notifications": "Notificaciones"
   },
   "error": {
     "not_found": "¡Vaya, aquí no hay nada! Aunque te dejaste un diamante en el minuto 6",
