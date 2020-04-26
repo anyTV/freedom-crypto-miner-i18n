@@ -325,5 +325,10 @@
     "amd": {
       "label": "AMD"
     }
+  },
+  "leaderboard" : {
+    "global": "Global",
+    "my_supporters": "My Supporters",
+    "go_to_leaderboard": "Go to Leaderboard"
   }
 }
