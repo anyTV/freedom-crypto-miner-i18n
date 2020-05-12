@@ -46,6 +46,8 @@
     "warning": "Warning",
     "error": "Error",
     "exit": "Exit",
+    "run_in_background": "Run in background",
+    "need_valid_wattage": "Value should be less than 1000000",
     "watch_us_on_youtube": "Watch us on Youtube",
     "ethereum_dag": "Ethereum DAG",
     "info": "Information",
