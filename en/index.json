@@ -1,7 +1,7 @@
 {
   "common": {
     "run_on_background": "Run on Background",
-    "less_than_1000000": "Value should be  less than 1000000",
+    "less_than_value": "Value should be less than {{ value }}",
     "total": "Total",
     "start" : "Start",
     "stop" : "Stop",
