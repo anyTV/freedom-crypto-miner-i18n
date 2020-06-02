@@ -286,7 +286,7 @@
   },
   "menu": {
     "mining_tips": "Consejos de minado",
-    "send_feedback": "Enviar sugerencias",
+    "report_issue": "Enviar sugerencias",
     "settings": "Configuración",
     "about": "Acerca de",
     "language": "Lenguaje"
