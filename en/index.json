@@ -298,6 +298,7 @@
   },
   "creator": {
     "select_creator": "Select a creator to support",
+    "select_creator_to_start_mining": "Select a creator to start mining",
     "select_creator_button": "Select Creator",
     "you_are_supporting": "You are supporting",
     "you_are_supporting_help": "Part of your revenue will be shared to support this creator.",
