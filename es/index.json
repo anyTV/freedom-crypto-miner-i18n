@@ -182,7 +182,8 @@
     "balance_in_anonymous_node": "Balance no disponible en modo incógnito",
     "not_available_in_anonymous_mode": "No disponible en modo incógnito",
     "get_paid": "Recibe tu pago",
-    "withdraw_your_earnings": "Solicita tus ganancias"
+    "withdraw_your_earnings": "Solicita tus ganancias",
+    "amount_donated": "Cantidad donada"
   },
   "main": {
     "error_support_64_os_only": "Por favor ten en cuenta que sólo soportamos SO de 64 bits",
