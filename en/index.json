@@ -330,9 +330,9 @@
       "label": "AMD"
     }
   },
+  "leaderboards": "Leaderboards",
   "leaderboards": {
     "creators": "Creators",
-    "supporters": "Supporters",
-    "leaderboards": "Leaderboards"
+    "supporters": "Supporters"
   }
 }
