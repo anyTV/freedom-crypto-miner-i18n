@@ -323,5 +323,10 @@
     "amd": {
       "label": "AMD"
     }
+  },
+  "leaderboards": {
+    "creators": "Creadores",
+    "supporters": "Seguidor",
+    "leaderboards": "Tablas de Clasificación"
   }
 }
