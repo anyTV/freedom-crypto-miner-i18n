@@ -314,7 +314,8 @@
     "supported_creator_validity": "Creator validity expired",
     "supported_creator_validity_message": "Supported creator validity has already expired. You can now change your supported creator",
     "no_supported_creator": "Support your Favorite Content Creator Now!",
-    "has_supported_creator": "Thanks for supporting your favorite content creator."
+    "has_supported_creator": "Thanks for supporting your favorite content creator.",
+    "you_cannot_select_your_account": "You cannot select your account"
   },
   "game": {
     "level": "Level",
