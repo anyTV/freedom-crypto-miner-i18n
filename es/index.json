@@ -61,7 +61,7 @@
     "connection_fail": "Error de conexión",
     "no_mining_device": "Sin dispositivo de minado. Selecciona al menos un dispositivo de minado (GPU o CPU)",
     "no_mining_crypto_for_device": "Selecciona al menos un algoritmo de crypto minado",
-    "no_profitable_algorithms": "Ninguno de los algoritmos son rentables. Puedes continuar el proceso de minado activando la opción \"¿Minar monedas incluso cuando las ganancias estimadas se proyectan como pérdidas?\"",
+    "no_profitable_algorithms": "Lo sentimos, su hardware no es compatible actualmente. Esperamos apoyarlo en el futuro.",
     "error_while_calling_miner_function": "Error al llamar a la función de minado. ¿Estás seguro de llevar equipado el pico?"
   },
   "home": {
