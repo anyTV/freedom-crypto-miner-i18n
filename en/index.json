@@ -186,7 +186,8 @@
     "not_available_in_anonymous_mode": "Not available in anonymous mode",
     "get_paid": "Get Paid",
     "withdraw_your_earnings": "Withdraw your earnings",
-    "amount_donated": "Amount donated"
+    "amount_donated": "Amount donated",
+    "earnings": "Earnings"
   },
   "main": {
     "error_support_64_os_only": "Please note that we only support 64 bit os",

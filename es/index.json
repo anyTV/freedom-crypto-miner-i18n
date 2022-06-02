@@ -183,7 +183,8 @@
     "not_available_in_anonymous_mode": "No disponible en modo incógnito",
     "get_paid": "Recibe tu pago",
     "withdraw_your_earnings": "Solicita tus ganancias",
-    "amount_donated": "Cantidad donada"
+    "amount_donated": "Cantidad donada",
+    "earnings": "Ganancias"
   },
   "main": {
     "error_support_64_os_only": "Por favor ten en cuenta que sólo soportamos SO de 64 bits",
