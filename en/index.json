@@ -63,7 +63,7 @@
     "connection_fail": "Connection error",
     "no_mining_device": "Have no mining device. Must select at least one mining device (GPU or CPU)",
     "no_mining_crypto_for_device": "You must select at least one crypto algorithm in order to mine.",
-    "no_profitable_algorithms": "All mining algorithms are not profitable. You can continue mine by enabling \"Mine even projected profit lost\" options in Settings",
+    "no_profitable_algorithms": "Sorry your hardware is not currently supported. We hope to support it in the future",
     "error_while_calling_miner_function": "Error when calling miner function"
   },
   "home": {
@@ -242,7 +242,6 @@
     "add_exclusion": "ADD EXCLUSIONS",
     "how_to_add_manually": "How to add manually?",
     "add_exclusions_manually": "Add exclusions manually",
-    "exclusion_confirm": "I HAVE ADDED THE EXCLUSIONS",
     "add_exclusions_manually_help": "Add exclusions manually in case the button above didn't work",
     "exclusion_confirm": "I have added the exclusions"
   },
