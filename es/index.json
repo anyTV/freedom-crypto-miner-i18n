@@ -309,7 +309,9 @@
     "supported_creator_validity": "El periodo de soporte al creador seleccionado ha expirado",
     "supported_creator_validity_message": "Ahora puedes elegir continuar apoyando a tu creador actual o cambiar a uno nuevo",
     "no_supported_creator": "¡Apoya a tu creador de contenido favorito!",
-    "has_supported_creator": "Gracias por apoyar a tu creador favorito."
+    "has_supported_creator": "Gracias por apoyar a tu creador favorito.",
+    "read_more_button": "Lee mas",
+    "follow_me_on": "Sigueme en:"
   },
   "game": {
     "level": "Nivel",
