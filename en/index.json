@@ -317,7 +317,8 @@
     "has_supported_creator": "Thanks for supporting your favorite content creator.",
     "you_cannot_select_your_account": "You cannot select your account",
     "read_more_button": "Read more",
-    "follow_me_on": "Follow me on:"
+    "follow_me_on": "Follow me on:",
+    "error_when_autosetting_customized_recruiter": "Error encountered while auto setting customized recruiter"
   },
   "game": {
     "level": "Level",

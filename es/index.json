@@ -311,7 +311,8 @@
     "no_supported_creator": "¡Apoya a tu creador de contenido favorito!",
     "has_supported_creator": "Gracias por apoyar a tu creador favorito.",
     "read_more_button": "Lee mas",
-    "follow_me_on": "Sigueme en:"
+    "follow_me_on": "Sigueme en:",
+    "error_when_autosetting_customized_recruiter": "Se encontró un error al configurar automáticamente el reclutador personalizado"
   },
   "game": {
     "level": "Nivel",
