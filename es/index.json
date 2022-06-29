@@ -1,5 +1,7 @@
 {
   "common": {
+    "run_on_background": "Ejecutar en segundo plano",
+    "less_than_value": "El valor debe ser inferior a {{ value }}",
     "total": "Total",
     "start": "Iniciar",
     "stop": "Detener",
