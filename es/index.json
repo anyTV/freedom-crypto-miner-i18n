@@ -85,7 +85,8 @@
     "evaluate_your_hardware": "Evalúa tu hardware para ver tus estimados",
     "you_are_anonymous_mode": "Estás en modo incógnito",
     "sign_in_to_gain_access": "Inicia sesión para obtener acceso a más opciones",
-    "start_mining_anonymous": "Empieza a minar en modo incógnito"
+    "start_mining_anonymous": "Empieza a minar en modo incógnito",
+    "no_earnings_estimates_fetched": "No se puede obtener la estimación de ingresos. Es posible que su hardware no pueda minar de manera rentable."
   },
   "hardware_detail": {
     "hardware_detail": "Detalles de hardware",

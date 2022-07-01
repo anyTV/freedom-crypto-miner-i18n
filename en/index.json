@@ -85,7 +85,8 @@
     "evaluate_your_hardware": "Evaluate your hardware to view estimates",
     "you_are_anonymous_mode": "You are in anonymous mode",
     "sign_in_to_gain_access": "Sign in to gain access to these awesome features",
-    "start_mining_anonymous": "Start mining in anonymous mode"
+    "start_mining_anonymous": "Start mining in anonymous mode",
+    "no_earnings_estimates_fetched": "Unable to fetch earnings estimate. Your hardware may not be able to mine profitably."
   },
   "hardware_detail" : {
     "hardware_detail" : "Hardware details",
